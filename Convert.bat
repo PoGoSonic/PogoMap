@@ -23,6 +23,11 @@ SET tmp=tmp\%~n1.geocsv
 SET osm=tmp\output.geojson
 @rem osmcoverer pretty formatted and indented output or not? (true/false)
 SET pretty=false
+@rem Overpass turbo map of confirmed land use areas for ex-raid gyms
+SET opt=%2
+@rem Overpass turbo map of confirmed land use areas for ex-raid gyms temp file
+SET opttmp=tmp\%2
+
 
 @rem Grid and Marker Colors: #40B0F0=PokeStop Blue, #FF2020=PokeBall Red, #ff9900=Orange, #7080C0=ExRaid Egg Purple, #808080=Gray, #000000=Black, #800000=Dark Red
 set ColorStop=#40B0F0
@@ -31,6 +36,7 @@ set ColorExGym=#FF2020
 set ColorUnknown=#808080
 set ColorNone=#000000
 set ColorRemoved=#800000
+set ColorPark=#008000
 
 @rem Marker Styles: circle-stroked: Stop, minefield: Gym, star-stroked: Ex Raid, marker-stroked: Unknown, <null>: None, cross: Removed
 set StyleStop=circle-stroked
@@ -53,7 +59,9 @@ bin\sed\sed -r "/^Location Name/d" %input% > %tmp%
 bin\sed\sed -r ":r; s/(\x22[^\x22,]+),([^\x22,]*)/\1;\2/g; tr; s/\x22//g" %tmp% > %tmp%1
 
 @rem Translate Location type column = "Unknown/Stop/Gym/Ex Gym/None/Removed" to location prefix
-bin\sed\sed -r "s/(^.*,Stop,.*$)/Pokestop: \1/; s/(^.*,Gym,.*$)/Pokegym: \1/; s/(^.*,ExGym,.*$)/Ex Raid Pokegym: \1/; s/(^.*,Unknown,.*$)/Unknown: \1/; s/(^.*,None,.*$)/Not Availble: \1/; s/(^.*,Removed,.*$)/Removed: \1/" %tmp%1 > %tmp%2
+rem bin\sed\sed -r "s/(^.*,Stop,.*$)/Pokestop: \1/; s/(^.*,Gym,.*$)/Pokegym: \1/; s/(^.*,ExGym,.*$)/Ex Raid Pokegym: \1/; s/(^.*,Unknown,.*$)/Unknown: \1/; s/(^.*,None,.*$)/Not Availble: \1/; s/(^.*,Removed,.*$)/Removed: \1/" %tmp%1 > %tmp%2
+@rem Space saving version
+bin\sed\sed -r "s/(^.*,Stop,.*$)/Stop: \1/; s/(^.*,Gym,.*$)/Gym: \1/; s/(^.*,ExGym,.*$)/Ex-raid Gym: \1/; s/(^.*,Unknown,.*$)/Unknown: \1/; s/(^.*,None,.*$)/Not Availble: \1/; s/(^.*,Removed,.*$)/Removed: \1/" %tmp%1 > %tmp%2
 
 @rem Move column 2 contents to column 1 postfix between []
 bin\sed\sed -r "s/^([^,]*),([^,]*),(.*)$/\1 \[\2\],,\3/; s/ \[\]//" %tmp%2 > %tmp%3
@@ -147,8 +155,8 @@ FOR %%T IN (%typefilename%_*.csv) DO (
 
 	@rem Removes feature array element 0 which is the S2 grid added by osmcoverer
 	rem jq-win64.exe "del( .features[ 0 ] )" %osm% > %%~nT.geojson1
-	@rem Removes feature array element 0 which is the S2 grid added by osmcoverer, also delete level12 cellid we don't need
-	bin\jq\jq-win64.exe -c "del( .features[ 0 ] ) | del( .features[].properties.level12cellid )" %osm% > tmp\%%~nT.geojson1
+	@rem Removes feature array element 0 which is the S2 grid added by osmcoverer, also delete level12 and level20 cellid and *within arrays we don't need them
+	bin\jq\jq-win64.exe -c "del( .features[ 0 ] ) | del( .features[].properties.level12cellid ) | del( .features[].properties.level20cellid ) | del( .features[].properties.within ) | del( .features[].properties.centerwithin )" %osm% > tmp\%%~nT.geojson1
 )
 
 @rem cleanup osmcoverer result files
@@ -177,14 +185,30 @@ IF [%keeptmp%] NEQ [1] (
 )
 
 
+IF EXIST %opt% (
+	ECHO Changing Color and Style Parks
+	@rem Remove unused keys
+	bin\jq\jq-win64.exe -c " del ( .features[].properties.source )" %opt% > %opttmp%1
+	@rem Add color and style
+	bin\jq\jq-win64.exe -c ".features[].properties.\"stroke\"=\"%ColorPark%\" | .features[].properties.\"stroke-opacity\"=0.40 | .features[].properties.\"fill\"=\"%ColorPark%\" | .features[].properties.\"fill-opacity\"=0.05 | .features[].properties.\"stroke-width\"=1 " %opttmp%1 > %opttmp%
+
+	IF [%keeptmp%] NEQ [1] (
+		del %opttmp%1
+	)
+	
+) ELSE SET opttmp=
+
+
 ECHO Combine all data
 @rem Help: "Merge arrays in two json files" https://github.com/stedolan/jq/issues/502
 @rem Reduces the array of the objects in all files to one object
 @rem Then combines all "features" records in a new "features" array
 @rem Adds the type: property again (at the end)
 @rem -c=Compact output, --tab=1-tab instead of 2-spaces (not working in this version)
-bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features)  | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %s2filename%17.geojson %s2filename%14.geojson %s2filename%13.geojson > %~n1_min.geojson
-bin\jq\jq-win64.exe -s "reduce .[] as $dot ({}; .features += $dot.features)  | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %s2filename%17.geojson %s2filename%14.geojson %s2filename%13.geojson > %~n1.geojson
+bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %s2filename%17.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1_min.geojson
+bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %s2filename%17.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1.geojson
+bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1_gym_min.geojson
+bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1_gym.geojson
 
 
 GOTO End
