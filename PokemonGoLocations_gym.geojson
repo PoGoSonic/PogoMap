@@ -175,6 +175,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.498913,
+          51.776988
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc77f995c637",
+        "marker-color": "#40B0F0",
+        "name": "Stop: De Duiker",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.515381,
           51.776756
         ]
@@ -430,6 +447,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.525956,
+          51.765172
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5f7c04c355",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Fountain [Jan Cunen]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.519938,
           51.779847
         ]
@@ -455,6 +489,23 @@
         "cellid": "47c6fc91b598b80f",
         "marker-color": "#40B0F0",
         "name": "Stop: Gedicht Camphuysenstraat",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.508291,
+          51.752342
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc90f51b178f",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Gedicht spieghelstraat",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -523,6 +574,23 @@
         "cellid": "47c6fcf57ce6896d",
         "marker-color": "#40B0F0",
         "name": "Stop: Gemeentehuis Oss",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.522513,
+          51.770921
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc674fe0d9ef",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Gift to the City",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -634,6 +702,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.512129,
+          51.764991
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc882d05886d",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Hands",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.52305,
           51.769053
         ]
@@ -642,6 +727,23 @@
         "cellid": "47c6fc5e1fe8e3ff",
         "marker-color": "#40B0F0",
         "name": "Stop: Head",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.523884,
+          51.764146
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf56901e8ff",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Het Denkproces",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1093,6 +1195,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.497161,
+          51.748907
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc9eec83342f",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Mozaïek 't Woud",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.506466,
           51.753863
         ]
@@ -1127,6 +1246,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.499759,
+          51.779013
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc77cc1e34d5",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Ontvangende kunstpop",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.546831,
           51.754198
         ]
@@ -1152,6 +1288,23 @@
         "cellid": "47c6fcf4e7845e79",
         "marker-color": "#40B0F0",
         "name": "Stop: Pauskerk",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.510414,
+          51.76732
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc62c5c3c1b7",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Playground [Vierhoeksingel]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1356,6 +1509,108 @@
         "cellid": "47c6fc7bb50fe9db",
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.498989,
+          51.754974
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc9cb79fba75",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Albarda",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.499698,
+          51.748937
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc9949fb681f",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Cluster",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.495284,
+          51.758215
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc8287d32d8d",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Heihoek",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.52841,
+          51.761124
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf699555423",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Seringenhof",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.494023,
+          51.763227
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb7e37ab6265",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Tinnegieter",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.52578,
+          51.762992
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf5a514e5bd",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Zonnebloem",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -2028,23 +2283,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.525956,
-          51.765172
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5f7c04c355",
-        "marker-color": "#ff9900",
-        "name": "Gym: Fountain [Jan Cunen]",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.500602,
           51.776068
         ]
@@ -2317,6 +2555,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.535502,
+          51.754953
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcfac3c65365",
+        "marker-color": "#ff9900",
+        "name": "Gym: Speeltuin Hendriklaan",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.522446,
           51.769081
         ]
@@ -2555,23 +2810,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.498913,
-          51.776988
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc77f995c637",
-        "marker-color": "#808080",
-        "name": "Unknown: De Duiker",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.516733,
           51.751101
         ]
@@ -2606,40 +2844,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.508291,
-          51.752342
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc90f51b178f",
-        "marker-color": "#808080",
-        "name": "Unknown: Gedicht spieghelstraat",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.522513,
-          51.770921
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc674fe0d9ef",
-        "marker-color": "#808080",
-        "name": "Unknown: Gift to the City",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.513008,
           51.754259
         ]
@@ -2665,40 +2869,6 @@
         "cellid": "47c6fd9fdc6ca95b",
         "marker-color": "#808080",
         "name": "Unknown: Half Pipe",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.512129,
-          51.764991
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc882d05886d",
-        "marker-color": "#808080",
-        "name": "Unknown: Hands",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.523884,
-          51.764146
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcf56901e8ff",
-        "marker-color": "#808080",
-        "name": "Unknown: Het Denkproces",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2776,23 +2946,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.497161,
-          51.748907
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc9eec83342f",
-        "marker-color": "#808080",
-        "name": "Unknown: Mozaïek 't Woud",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.504096,
           51.769879
         ]
@@ -2801,40 +2954,6 @@
         "cellid": "47c6fc7c1875989f",
         "marker-color": "#808080",
         "name": "Unknown: Mozaïek Kunst",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.526335,
-          51.764998
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5f62d11cbb",
-        "marker-color": "#808080",
-        "name": "Unknown: Muziekkapel",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.499759,
-          51.779013
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc77cc1e34d5",
-        "marker-color": "#808080",
-        "name": "Unknown: Ontvangende kunstpop",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2861,40 +2980,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.510413,
-          51.761996
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc88ec0f4017",
-        "marker-color": "#808080",
-        "name": "Unknown: Parochie Beeld",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.510414,
-          51.76732
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc62c5c3c1b7",
-        "marker-color": "#808080",
-        "name": "Unknown: Playground [1]",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.50252,
           51.772442
         ]
@@ -2902,7 +2987,7 @@
       "properties": {
         "cellid": "47c6fc7941a65a51",
         "marker-color": "#808080",
-        "name": "Unknown: Playground [3]",
+        "name": "Unknown: Playground [1]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3048,23 +3133,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.498989,
-          51.754974
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc9cb79fba75",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Albarda",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.500579,
           51.773681
         ]
@@ -3099,23 +3167,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.499698,
-          51.748937
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc9949fb681f",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Cluster",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.520733,
           51.779438
         ]
@@ -3124,40 +3175,6 @@
         "cellid": "47c6fc69124ac45d",
         "marker-color": "#808080",
         "name": "Unknown: Speeltuin Haagpoort",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.495284,
-          51.758215
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc8287d32d8d",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Heihoek",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.535502,
-          51.754953
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcfac3c65365",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Hendriklaan",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3201,40 +3218,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.52841,
-          51.761124
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcf699555423",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Seringenhof",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.494023,
-          51.763227
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fb7e37ab6265",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Tinnegieter",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.489799,
           51.76537
         ]
@@ -3252,23 +3235,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.52578,
-          51.762992
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcf5a514e5bd",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Zonnebloem",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.509495,
           51.754643
         ]
@@ -3277,57 +3243,6 @@
         "cellid": "47c6fc902f6973ed",
         "marker-color": "#808080",
         "name": "Unknown: Standing Figure II",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.526619,
-          51.76519
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5f64768207",
-        "marker-color": "#808080",
-        "name": "Unknown: Statute in Stone of Female; Oss",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.526279,
-          51.765439
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5f7aeabb1f",
-        "marker-color": "#808080",
-        "name": "Unknown: Stieropdemuur",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.525603,
-          51.765199
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5f7f490bfb",
-        "marker-color": "#808080",
-        "name": "Unknown: Violin in Stone",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3439,6 +3354,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.526335,
+          51.764998
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5f62d11cbb",
+        "marker-color": "#000000",
+        "name": "Not Availble: Muziekkapel",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.510413,
+          51.761996
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc88ec0f4017",
+        "marker-color": "#000000",
+        "name": "Not Availble: Parochie Beeld",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.521039,
           51.76721
         ]
@@ -3447,6 +3396,57 @@
         "cellid": "47c6fc606790f901",
         "marker-color": "#000000",
         "name": "Not Availble: Sociaal Cultureel Centrum",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.526619,
+          51.76519
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5f64768207",
+        "marker-color": "#000000",
+        "name": "Not Availble: Statute in Stone of Female; Oss",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.526279,
+          51.765439
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5f7aeabb1f",
+        "marker-color": "#000000",
+        "name": "Not Availble: Stieropdemuur",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.525603,
+          51.765199
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5f7f490bfb",
+        "marker-color": "#000000",
+        "name": "Not Availble: Violin in Stone",
         "marker-size": "small",
         "marker-symbol": ""
       }
