@@ -29,22 +29,24 @@ SET opt=%2
 SET opttmp=tmp\%2
 
 
-@rem Grid and Marker Colors: #40B0F0=PokeStop Blue, #FF2020=PokeBall Red, #ff9900=Orange, #7080C0=ExRaid Egg Purple, #808080=Gray, #000000=Black, #800000=Dark Red
+@rem Grid and Marker Colors: #40B0F0=PokeStop Blue, #FF2020=PokeBall Red, #ff9900=Orange, #7080C0=ExRaid Egg Purple, #808080=Gray, #000000=Black, #800000=Dark Red, #000080=Dark Blue, #008000=Dark Green
 set ColorStop=#40B0F0
 set ColorGym=#ff9900
 set ColorExGym=#FF2020
 set ColorUnknown=#808080
 set ColorNone=#000000
 set ColorRemoved=#800000
+set ColorPending=#000080
 set ColorPark=#008000
 
-@rem Marker Styles: circle-stroked: Stop, minefield: Gym, star-stroked: Ex Raid, marker-stroked: Unknown, <null>: None, cross: Removed
+@rem Marker Styles: circle-stroked: Stop, minefield: Gym, star-stroked: Ex Raid, marker-stroked: Unknown, <null>: None, cross: Removed, triangle-stroked: Pending
 set StyleStop=circle-stroked
 set StyleGym=fire-station
 set StyleExGym=minefield
 set StyleUnknown=marker-stroked
 set StyleNone=
 set StyleRemoved=cross
+set StylePending=triangle-stroked
 
 @rem Marker Size: small, medium, large
 set Size=small
@@ -61,7 +63,7 @@ bin\sed\sed -r ":r; s/(\x22[^\x22,]+),([^\x22,]*)/\1;\2/g; tr; s/\x22//g" %tmp% 
 @rem Translate Location type column = "Unknown/Stop/Gym/Ex Gym/None/Removed" to location prefix
 rem bin\sed\sed -r "s/(^.*,Stop,.*$)/Pokestop: \1/; s/(^.*,Gym,.*$)/Pokegym: \1/; s/(^.*,ExGym,.*$)/Ex Raid Pokegym: \1/; s/(^.*,Unknown,.*$)/Unknown: \1/; s/(^.*,None,.*$)/Not Availble: \1/; s/(^.*,Removed,.*$)/Removed: \1/" %tmp%1 > %tmp%2
 @rem Space saving version
-bin\sed\sed -r "s/(^.*,Stop,.*$)/Stop: \1/; s/(^.*,Gym,.*$)/Gym: \1/; s/(^.*,ExGym,.*$)/Ex-raid Gym: \1/; s/(^.*,Unknown,.*$)/Unknown: \1/; s/(^.*,None,.*$)/Not Availble: \1/; s/(^.*,Removed,.*$)/Removed: \1/" %tmp%1 > %tmp%2
+bin\sed\sed -r "s/(^.*,Stop,.*$)/Stop: \1/; s/(^.*,Gym,.*$)/Gym: \1/; s/(^.*,ExGym,.*$)/Ex-raid Gym: \1/; s/(^.*,Unknown,.*$)/Unknown: \1/; s/(^.*,None,.*$)/Not Availble: \1/; s/(^.*,Removed,.*$)/Removed: \1/; s/(^.*,Pending,.*$)/Pending approval: \1/ " %tmp%1 > %tmp%2
 
 @rem Move column 2 contents to column 1 postfix between []
 bin\sed\sed -r "s/^([^,]*),([^,]*),(.*)$/\1 \[\2\],,\3/; s/ \[\]//" %tmp%2 > %tmp%3
@@ -174,6 +176,7 @@ bin\jq\jq-win64.exe -c ".features[].properties.\"marker-color\"=\"%ColorExGym%\"
 bin\jq\jq-win64.exe -c ".features[].properties.\"marker-color\"=\"%ColorUnknown%\" | .features[].properties.\"marker-size\"=\"%Size%\" | .features[].properties.\"marker-symbol\"=\"%StyleUnknown%\"" %typefilename%_Unknown.geojson1 > %typefilename%_Unknown.geojson
 bin\jq\jq-win64.exe -c ".features[].properties.\"marker-color\"=\"%ColorNone%\"    | .features[].properties.\"marker-size\"=\"%Size%\" | .features[].properties.\"marker-symbol\"=\"%StyleNone%\"   " %typefilename%_None.geojson1    > %typefilename%_None.geojson
 bin\jq\jq-win64.exe -c ".features[].properties.\"marker-color\"=\"%ColorRemoved%\" | .features[].properties.\"marker-size\"=\"%Size%\" | .features[].properties.\"marker-symbol\"=\"%StyleRemoved%\"" %typefilename%_Removed.geojson1 > %typefilename%_Removed.geojson
+bin\jq\jq-win64.exe -c ".features[].properties.\"marker-color\"=\"%ColorPending%\" | .features[].properties.\"marker-size\"=\"%Size%\" | .features[].properties.\"marker-symbol\"=\"%StylePending%\"" %typefilename%_Pending.geojson1 > %typefilename%_Pending.geojson
 
 IF [%keeptmp%] NEQ [1] (
 	del %typefilename%_Stop.geojson1
@@ -182,6 +185,7 @@ IF [%keeptmp%] NEQ [1] (
 	del %typefilename%_Unknown.geojson1
 	del %typefilename%_None.geojson1
 	del %typefilename%_Removed.geojson1
+	del %typefilename%_Pending.geojson1
 )
 
 
@@ -205,10 +209,14 @@ ECHO Combine all data
 @rem Then combines all "features" records in a new "features" array
 @rem Adds the type: property again (at the end)
 @rem -c=Compact output, --tab=1-tab instead of 2-spaces (not working in this version)
-bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %s2filename%17.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1_min.geojson
-bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %s2filename%17.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1.geojson
-bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1_gym_min.geojson
-bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1_gym.geojson
+bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %typefilename%_Pending.geojson %s2filename%17.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1_min.geojson
+bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %typefilename%_Pending.geojson %s2filename%17.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1.geojson
+ECHO Combine all (Ex-Raid) gym placement data (no stop grid) (<1Mb for geojson github limit)
+bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %typefilename%_Pending.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1_gym_min.geojson
+bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %typefilename%_Pending.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1_gym.geojson
+ECHO Combine all stop placement data (no ex raid and gym grid)
+bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %typefilename%_Pending.geojson %s2filename%17.geojson > %~n1_stop_min.geojson
+bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %typefilename%_Pending.geojson %s2filename%17.geojson > %~n1_stop.geojson
 
 
 GOTO End
