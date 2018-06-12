@@ -5,6 +5,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.524279,
+          51.768748
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5e3ef45991",
+        "marker-color": "#40B0F0",
+        "name": "Stop: 'T Gengske",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.5832,
           51.767311
         ]
@@ -64,6 +81,23 @@
         "cellid": "47c6fc60608b63b9",
         "marker-color": "#40B0F0",
         "name": "Stop: Baloon Popper",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.500207,
+          51.776244
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc78246b95dd",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Basketbalveld",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -234,6 +268,23 @@
         "cellid": "47c6fcf6200597a7",
         "marker-color": "#40B0F0",
         "name": "Stop: De Pil van Organon",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.516733,
+          51.751101
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc930e8057c5",
+        "marker-color": "#40B0F0",
+        "name": "Stop: De Slang",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -974,23 +1025,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.504161,
-          51.774056
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc798090674d",
-        "marker-color": "#40B0F0",
-        "name": "Stop: Kunst Poppen",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.527876,
           51.778306
         ]
@@ -1016,6 +1050,23 @@
         "cellid": "47c6fc60147aa44f",
         "marker-color": "#40B0F0",
         "name": "Stop: Man with Bag",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.516097,
+          51.775197
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc65ed6b941b",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Mannetje Bij De Handboog",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1314,6 +1365,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.50252,
+          51.772442
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7941a65a51",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Playground [Westerveldlaan]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.52172,
           51.775379
         ]
@@ -1322,6 +1390,40 @@
         "cellid": "47c6fc67d7453821",
         "marker-color": "#40B0F0",
         "name": "Stop: Playground [Rusheuvel]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.50416,
+          51.775389
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc79f469799f",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Playground [Duiker]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.498342,
+          51.775493
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc780ca6dfcf",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Playground Kraaienest",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1356,6 +1458,23 @@
         "cellid": "47c6fdb49b7e9b2d",
         "marker-color": "#40B0F0",
         "name": "Stop: Rhino On Rooftop",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.512959,
+          51.779098
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc6e3143403b",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Ringen",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1424,6 +1543,23 @@
         "cellid": "47c6fc900c57bcff",
         "marker-color": "#40B0F0",
         "name": "Stop: Schommele Schommele Schommele",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.491934,
+          51.766578
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb81d838aa77",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Schutskooi Ussen",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1526,6 +1662,23 @@
         "cellid": "47c6fc9cb79fba75",
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin Albarda",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.500579,
+          51.773681
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc78fe9d9be5",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Anker",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -2368,23 +2521,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.496448,
-          51.769631
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fb809cc75677",
-        "marker-color": "#ff9900",
-        "name": "Gym: IJzertijdboerderij Ussen",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.528841,
           51.758636
         ]
@@ -2436,14 +2572,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.511939,
-          51.778906
+          5.504161,
+          51.774056
         ]
       },
       "properties": {
-        "cellid": "47c6fc6e2afbb075",
+        "cellid": "47c6fc798090674d",
         "marker-color": "#ff9900",
-        "name": "Gym: Lancer Sculpture",
+        "name": "Gym: Kunst Poppen",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2521,23 +2657,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.500713,
-          51.777193
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc778f885a59",
-        "marker-color": "#ff9900",
-        "name": "Gym: Piramide Kunst",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.512807,
           51.755554
         ]
@@ -2597,23 +2716,6 @@
         "cellid": "47c6fc5954f7b771",
         "marker-color": "#ff9900",
         "name": "Gym: Statue of Saint Mary",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.493715,
-          51.765093
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fb7f96193dc3",
-        "marker-color": "#ff9900",
-        "name": "Gym: Wall Art",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2708,6 +2810,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.496448,
+          51.769631
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb809cc75677",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: IJzertijdboerderij Ussen",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.511939,
+          51.778906
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc6e2afbb075",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Lancer Sculpture",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.501357,
           51.760628
         ]
@@ -2742,6 +2878,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.500713,
+          51.777193
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc778f885a59",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Piramide Kunst",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.510038,
           51.754783
         ]
@@ -2759,67 +2912,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.524279,
-          51.768748
+          5.493715,
+          51.765093
         ]
       },
       "properties": {
-        "cellid": "47c6fc5e3ef45991",
-        "marker-color": "#808080",
-        "name": "Unknown: 'T Gengske",
+        "cellid": "47c6fb7f96193dc3",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Wall Art",
         "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.506629,
-          51.756857
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc8565e29f1b",
-        "marker-color": "#808080",
-        "name": "Unknown: Abstract Art",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.500207,
-          51.776244
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc78246b95dd",
-        "marker-color": "#808080",
-        "name": "Unknown: Basketbalveld",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.516733,
-          51.751101
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc930e8057c5",
-        "marker-color": "#808080",
-        "name": "Unknown: De Slang",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
+        "marker-symbol": "minefield"
       }
     },
     {
@@ -2844,23 +2946,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.513008,
-          51.754259
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc91fa066f5b",
-        "marker-color": "#808080",
-        "name": "Unknown: Glijbaan",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.576467,
           51.762907
         ]
@@ -2869,23 +2954,6 @@
         "cellid": "47c6fd9fdc6ca95b",
         "marker-color": "#808080",
         "name": "Unknown: Half Pipe",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.533769,
-          51.762751
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcf7913dc2db",
-        "marker-color": "#808080",
-        "name": "Unknown: Het Gezin",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2929,23 +2997,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.516097,
-          51.775197
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc65ed6b941b",
-        "marker-color": "#808080",
-        "name": "Unknown: Mannetje Bij De Handboog",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.504096,
           51.769879
         ]
@@ -2954,74 +3005,6 @@
         "cellid": "47c6fc7c1875989f",
         "marker-color": "#808080",
         "name": "Unknown: Mozaïek Kunst",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.50687,
-          51.757149
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc8564d10da7",
-        "marker-color": "#808080",
-        "name": "Unknown: Paal",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.50252,
-          51.772442
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc7941a65a51",
-        "marker-color": "#808080",
-        "name": "Unknown: Playground [1]",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.50416,
-          51.775389
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc79f469799f",
-        "marker-color": "#808080",
-        "name": "Unknown: Playground [2]",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.498342,
-          51.775493
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc780ca6dfcf",
-        "marker-color": "#808080",
-        "name": "Unknown: Playground Kraaienest",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3065,57 +3048,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.512959,
-          51.779098
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc6e3143403b",
-        "marker-color": "#808080",
-        "name": "Unknown: Ringen",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.491934,
-          51.766578
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fb81d838aa77",
-        "marker-color": "#808080",
-        "name": "Unknown: Schutskooi Ussen",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.506375,
-          51.753445
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc9a9c6f19c7",
-        "marker-color": "#808080",
-        "name": "Unknown: Sitting Female Statue",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.561175,
           51.749585
         ]
@@ -3124,23 +3056,6 @@
         "cellid": "47c6fd10fa139d15",
         "marker-color": "#808080",
         "name": "Unknown: Solar Tree [Zuid]",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.500579,
-          51.773681
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc78fe9d9be5",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Anker",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3201,23 +3116,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.493553,
-          51.765344
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fb7f9738d4bb",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Meijerij",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.489799,
           51.76537
         ]
@@ -3226,23 +3124,6 @@
         "cellid": "47c6fb7f49906ae1",
         "marker-color": "#808080",
         "name": "Unknown: Speeltuin Ussen",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.509495,
-          51.754643
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc902f6973ed",
-        "marker-color": "#808080",
-        "name": "Unknown: Standing Figure II",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3286,16 +3167,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.505916,
-          51.753504
+          5.506629,
+          51.756857
         ]
       },
       "properties": {
-        "cellid": "47c6fc9a9a0adc8b",
-        "marker-color": "#808080",
-        "name": "Unknown: Yellow Man",
+        "cellid": "47c6fc8565e29f1b",
+        "marker-color": "#000000",
+        "name": "Not Availble: Abstract Art",
         "marker-size": "small",
-        "marker-symbol": "marker-stroked"
+        "marker-symbol": ""
       }
     },
     {
@@ -3328,6 +3209,40 @@
         "cellid": "47c6fc60656b3931",
         "marker-color": "#000000",
         "name": "Not Availble: Butter Art",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.513008,
+          51.754259
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc91fa066f5b",
+        "marker-color": "#000000",
+        "name": "Not Availble: Glijbaan",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.533769,
+          51.762751
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf7913dc2db",
+        "marker-color": "#000000",
+        "name": "Not Availble: Het Gezin",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -3371,6 +3286,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.50687,
+          51.757149
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc8564d10da7",
+        "marker-color": "#000000",
+        "name": "Not Availble: Paal",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.510413,
           51.761996
         ]
@@ -3388,6 +3320,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.506375,
+          51.753445
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc9a9c6f19c7",
+        "marker-color": "#000000",
+        "name": "Not Availble: Sitting Female Statue",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.521039,
           51.76721
         ]
@@ -3396,6 +3345,40 @@
         "cellid": "47c6fc606790f901",
         "marker-color": "#000000",
         "name": "Not Availble: Sociaal Cultureel Centrum",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.493553,
+          51.765344
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb7f9738d4bb",
+        "marker-color": "#000000",
+        "name": "Not Availble: Speeltuin Meijerij",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509495,
+          51.754643
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc902f6973ed",
+        "marker-color": "#000000",
+        "name": "Not Availble: Standing Figure II",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -3456,6 +3439,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.505916,
+          51.753504
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc9a9a0adc8b",
+        "marker-color": "#000000",
+        "name": "Not Availble: Yellow Man",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.502799,
           51.755434
         ]
@@ -3488,8 +3488,100 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5053137,
+          51.747467
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc99d4fdb575",
+        "marker-color": "#000080",
+        "name": "Pending approval: Boom Da Costa [PLP]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5094241,
+          51.7401846
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcbc13ffa4c1",
+        "marker-color": "#000080",
+        "name": "Pending approval: Landgoed van Tosse [PLP]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5484348,
+          51.7673199
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc54cef09b95",
+        "marker-color": "#000080",
+        "name": "Pending approval: Sperwer speeltuin [PLP]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5448339,
+          51.7671939
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc544fdeb35d",
+        "marker-color": "#000080",
+        "name": "Pending approval: Zwaluw honden [PLP]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
+          [
+            [
+              [
+                5.490907274262929,
+                51.74006649034361
+              ],
+              [
+                5.491943715697197,
+                51.74530825792965
+              ],
+              [
+                5.485425143963983,
+                51.74561280010438
+              ],
+              [
+                5.484389917640633,
+                51.74037093129193
+              ],
+              [
+                5.490907274262929,
+                51.74006649034361
+              ]
+            ]
+          ],
           [
             [
               [
@@ -5173,6 +5265,198 @@
           [
             [
               [
+                5.4974252067785505,
+                51.73976165787749
+              ],
+              [
+                5.498462863377443,
+                51.74500332410858
+              ],
+              [
+                5.491943715697197,
+                51.74530825792965
+              ],
+              [
+                5.490907274262929,
+                51.74006649034361
+              ],
+              [
+                5.4974252067785505,
+                51.73976165787749
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.503943714976312,
+                51.73945643379611
+              ],
+              [
+                5.504982586793421,
+                51.74469799854364
+              ],
+              [
+                5.498462863377443,
+                51.74500332410858
+              ],
+              [
+                5.4974252067785505,
+                51.73976165787749
+              ],
+              [
+                5.503943714976312,
+                51.73945643379611
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.510462798644939,
+                51.739150818002
+              ],
+              [
+                5.511502885733736,
+                51.74439228113739
+              ],
+              [
+                5.504982586793421,
+                51.74469799854364
+              ],
+              [
+                5.503943714976312,
+                51.73945643379611
+              ],
+              [
+                5.510462798644939,
+                51.739150818002
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.516982457573065,
+                51.73884481039776
+              ],
+              [
+                5.518023759986909,
+                51.74408617179235
+              ],
+              [
+                5.511502885733736,
+                51.74439228113739
+              ],
+              [
+                5.510462798644939,
+                51.739150818002
+              ],
+              [
+                5.516982457573065,
+                51.73884481039776
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.523502691549229,
+                51.738538410885965
+              ],
+              [
+                5.52454520934136,
+                51.743779670411115
+              ],
+              [
+                5.518023759986909,
+                51.74408617179235
+              ],
+              [
+                5.516982457573065,
+                51.73884481039776
+              ],
+              [
+                5.523502691549229,
+                51.738538410885965
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.530023500361881,
+                51.73823161936926
+              ],
+              [
+                5.531067233585423,
+                51.74347277689627
+              ],
+              [
+                5.52454520934136,
+                51.743779670411115
+              ],
+              [
+                5.523502691549229,
+                51.738538410885965
+              ],
+              [
+                5.530023500361881,
+                51.73823161936926
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.536544883799379,
+                51.73792443575027
+              ],
+              [
+                5.53758983250734,
+                51.74316549115044
+              ],
+              [
+                5.531067233585423,
+                51.74347277689627
+              ],
+              [
+                5.530023500361881,
+                51.73823161936926
+              ],
+              [
+                5.536544883799379,
+                51.73792443575027
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5430668416499875,
+                51.737616859931705
+              ],
+              [
+                5.544113005895259,
+                51.742857813076284
+              ],
+              [
+                5.53758983250734,
+                51.74316549115044
+              ],
+              [
+                5.536544883799379,
+                51.73792443575027
+              ],
+              [
+                5.5430668416499875,
+                51.737616859931705
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.544113005895259,
                 51.742857813076284
               ],
@@ -5941,6 +6225,174 @@
           [
             [
               [
+                5.549589373701883,
+                51.737308891816234
+              ],
+              [
+                5.550636753537236,
+                51.742549742576465
+              ],
+              [
+                5.544113005895259,
+                51.742857813076284
+              ],
+              [
+                5.5430668416499875,
+                51.737616859931705
+              ],
+              [
+                5.549589373701883,
+                51.737308891816234
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.556112479743148,
+                51.73700053130659
+              ],
+              [
+                5.557161075221242,
+                51.74224127955369
+              ],
+              [
+                5.550636753537236,
+                51.742549742576465
+              ],
+              [
+                5.549589373701883,
+                51.737308891816234
+              ],
+              [
+                5.556112479743148,
+                51.73700053130659
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.562636159561772,
+                51.73669177830553
+              ],
+              [
+                5.563685970735146,
+                51.74193242391067
+              ],
+              [
+                5.557161075221242,
+                51.74224127955369
+              ],
+              [
+                5.556112479743148,
+                51.73700053130659
+              ],
+              [
+                5.562636159561772,
+                51.73669177830553
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5691604129456564,
+                51.73638263271581
+              ],
+              [
+                5.570211439866731,
+                51.74162317555015
+              ],
+              [
+                5.563685970735146,
+                51.74193242391067
+              ],
+              [
+                5.562636159561772,
+                51.73669177830553
+              ],
+              [
+                5.5691604129456564,
+                51.73638263271581
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.57568523968261,
+                51.73607309444025
+              ],
+              [
+                5.576737482403694,
+                51.741313534374925
+              ],
+              [
+                5.570211439866731,
+                51.74162317555015
+              ],
+              [
+                5.5691604129456564,
+                51.73638263271581
+              ],
+              [
+                5.57568523968261,
+                51.73607309444025
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.582210639560347,
+                51.73576316338165
+              ],
+              [
+                5.58326409813363,
+                51.74100350028777
+              ],
+              [
+                5.576737482403694,
+                51.741313534374925
+              ],
+              [
+                5.57568523968261,
+                51.73607309444025
+              ],
+              [
+                5.582210639560347,
+                51.73576316338165
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.588736612366493,
+                51.73545283944287
+              ],
+              [
+                5.589791286844045,
+                51.7406930731915
+              ],
+              [
+                5.58326409813363,
+                51.74100350028777
+              ],
+              [
+                5.582210639560347,
+                51.73576316338165
+              ],
+              [
+                5.588736612366493,
+                51.73545283944287
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.590846287866363,
                 51.745933704187784
               ],
@@ -5959,6 +6411,54 @@
               [
                 5.590846287866363,
                 51.745933704187784
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.589791286844045,
+                51.7406930731915
+              ],
+              [
+                5.590846287866363,
+                51.745933704187784
+              ],
+              [
+                5.584317882884047,
+                51.746244234477764
+              ],
+              [
+                5.58326409813363,
+                51.74100350028777
+              ],
+              [
+                5.589791286844045,
+                51.7406930731915
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.58326409813363,
+                51.74100350028777
+              ],
+              [
+                5.584317882884047,
+                51.746244234477764
+              ],
+              [
+                5.57779005093427,
+                51.7465543716297
+              ],
+              [
+                5.576737482403694,
+                51.741313534374925
+              ],
+              [
+                5.58326409813363,
+                51.74100350028777
               ]
             ]
           ],
@@ -6916,6 +7416,30 @@
           [
             [
               [
+                5.489871153715926,
+                51.73482512062687
+              ],
+              [
+                5.491943715697197,
+                51.74530825792965
+              ],
+              [
+                5.478907148389009,
+                51.745916950730276
+              ],
+              [
+                5.476839446008364,
+                51.73543340885002
+              ],
+              [
+                5.489871153715926,
+                51.73482512062687
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.491943715697197,
                 51.74530825792965
               ],
@@ -7420,6 +7944,102 @@
           [
             [
               [
+                5.502905164781813,
+                51.73421526684661
+              ],
+              [
+                5.504982586793421,
+                51.74469799854364
+              ],
+              [
+                5.491943715697197,
+                51.74530825792965
+              ],
+              [
+                5.489871153715926,
+                51.73482512062687
+              ],
+              [
+                5.502905164781813,
+                51.73421526684661
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5159414775171145,
+                51.733603846729736
+              ],
+              [
+                5.518023759986909,
+                51.74408617179235
+              ],
+              [
+                5.504982586793421,
+                51.74469799854364
+              ],
+              [
+                5.502905164781813,
+                51.73421526684661
+              ],
+              [
+                5.5159414775171145,
+                51.733603846729736
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.52898009023146,
+                51.73299085949718
+              ],
+              [
+                5.531067233585423,
+                51.74347277689627
+              ],
+              [
+                5.518023759986909,
+                51.74408617179235
+              ],
+              [
+                5.5159414775171145,
+                51.733603846729736
+              ],
+              [
+                5.52898009023146,
+                51.73299085949718
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.542021001233009,
+                51.73237630437025
+              ],
+              [
+                5.544113005895259,
+                51.742857813076284
+              ],
+              [
+                5.531067233585423,
+                51.74347277689627
+              ],
+              [
+                5.52898009023146,
+                51.73299085949718
+              ],
+              [
+                5.542021001233009,
+                51.73237630437025
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.544113005895259,
                 51.742857813076284
               ],
@@ -7606,6 +8226,102 @@
               [
                 5.557161075221242,
                 51.74224127955369
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5550642088284565,
+                51.73176018057064
+              ],
+              [
+                5.557161075221242,
+                51.74224127955369
+              ],
+              [
+                5.544113005895259,
+                51.742857813076284
+              ],
+              [
+                5.542021001233009,
+                51.73237630437025
+              ],
+              [
+                5.5550642088284565,
+                51.73176018057064
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.568109711323034,
+                51.73114248732044
+              ],
+              [
+                5.570211439866731,
+                51.74162317555015
+              ],
+              [
+                5.557161075221242,
+                51.74224127955369
+              ],
+              [
+                5.5550642088284565,
+                51.73176018057064
+              ],
+              [
+                5.568109711323034,
+                51.73114248732044
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.581157507020509,
+                51.73052322384217
+              ],
+              [
+                5.58326409813363,
+                51.74100350028777
+              ],
+              [
+                5.570211439866731,
+                51.74162317555015
+              ],
+              [
+                5.568109711323034,
+                51.73114248732044
+              ],
+              [
+                5.581157507020509,
+                51.73052322384217
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5942075942231835,
+                51.72990238935869
+              ],
+              [
+                5.596319048322363,
+                51.740382252988994
+              ],
+              [
+                5.58326409813363,
+                51.74100350028777
+              ],
+              [
+                5.581157507020509,
+                51.73052322384217
+              ],
+              [
+                5.5942075942231835,
+                51.72990238935869
               ]
             ]
           ],
