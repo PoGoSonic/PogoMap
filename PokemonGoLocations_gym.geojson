@@ -1875,23 +1875,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.524279,
-          51.768748
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5e3ef45991",
-        "marker-color": "#40B0F0",
-        "name": "Stop: T Gengske",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.544729,
           51.746842
         ]
@@ -2987,7 +2970,7 @@
       "properties": {
         "cellid": "47c6fd97c89eb781",
         "marker-color": "#808080",
-        "name": "Unknown: Kids Playground [2]",
+        "name": "Unknown: Kids Playground [Wolvepad]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3549,6 +3532,465 @@
         "cellid": "47c6fc544fdeb35d",
         "marker-color": "#000080",
         "name": "Pending approval: Zwaluw honden [PLP]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.500883,
+          51.770782
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7ed0f5b18f",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin Perzikhof [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.503932,
+          51.769923
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7c189761dd",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin Braambes [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.50563,
+          51.771376
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7b8b9577ef",
+        "marker-color": "#000080",
+        "name": "Pending approval: Glijbaan Stippelmot [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.501032,
+          51.778246
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc77a35d52ad",
+        "marker-color": "#000080",
+        "name": "Pending approval: Evenwichtsbalk Rietkraag [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5140482,
+          51.7611801
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc895cb1d78f",
+        "marker-color": "#000080",
+        "name": "Pending approval: ?? Vogelwijk; Louis de Bourbon beeld [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5140482,
+          51.7611801
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc895cb1d78f",
+        "marker-color": "#000080",
+        "name": "Pending approval: ?? Vogelwijk; Louis de Bourbon speeltuin [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.551427,
+          51.770176
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fdac94e29a03",
+        "marker-color": "#000080",
+        "name": "Pending approval: Voetbalmuur met gaten bij Zonnecelboom [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.550849,
+          51.767795
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fdab6aed4435",
+        "marker-color": "#000080",
+        "name": "Pending approval: Basket Adelaar [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.550848,
+          51.76755
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fdab15055505",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin Adelaar [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.548252,
+          51.767296
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc54cf9e132f",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin Sperwer [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.544551,
+          51.768615
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc546d86a4eb",
+        "marker-color": "#000080",
+        "name": "Pending approval: Fontein in het park [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.544788,
+          51.767645
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc54437cc84f",
+        "marker-color": "#000080",
+        "name": "Pending approval: Schommels in het park [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.544325,
+          51.769422
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc53f5103aa9",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin in het park [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.543717,
+          51.77355
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc521e3d7879",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin Theodorus Dobbestraat [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.514254,
+          51.771408
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc64653198b1",
+        "marker-color": "#000080",
+        "name": "Pending approval: Gele kunstwerk bij Pauluskerk [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.524535,
+          51.768031
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5e49b89f67",
+        "marker-color": "#000080",
+        "name": "Pending approval: Oss mural op V&D rolluik [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.531048,
+          51.767731
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc59189256ab",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin Schering bij Bergoss [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.534451,
+          51.774507
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5ad0c3e3ff",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin Kuipers Rietberg [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.511118,
+          51.747742
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc9691d3e973",
+        "marker-color": "#000080",
+        "name": "Pending approval: ?? Mozaiek Dichtersbuurt [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.530873,
+          51.765236
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5899f57f3d",
+        "marker-color": "#000080",
+        "name": "Pending approval: Plaquette bij NS-station [OCL]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.532441,
+          51.777969
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc44624d36cb",
+        "marker-color": "#000080",
+        "name": "Pending approval: Nieuwe Horzak-wijk [OCL ToDo]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.496217,
+          51.773617
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb8772149263",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin Zalm [OCL ToDo]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.496821,
+          51.776837
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb880a75dbe1",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin Boegbeeld [OCL ToDo]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.529111,
+          51.758437
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf13f557981",
+        "marker-color": "#000080",
+        "name": "Pending approval: Struikelsteentjes bij Jezusgym [OCL ToDo]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.528167,
+          51.758801
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf15a812ce5",
+        "marker-color": "#000080",
+        "name": "Pending approval: Oude kazerne bij Jezusgym [OCL ToDo]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5238324,
+          51.7669506
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5fc603d0f7",
+        "marker-color": "#000080",
+        "name": "Pending approval: Gedicht bij Emté op de muur [OCL ToDo]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5296032,
+          51.7699271
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5eaa925f57",
+        "marker-color": "#000080",
+        "name": "Pending approval: Meerpaal bij Visserskerk [OCL ToDo]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }

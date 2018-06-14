@@ -102,6 +102,9 @@ IF [%keeptmp%] NEQ [1] (
 )
 
 
+@rem S2 Level 13: 1 Ex raid gym
+@rem S2 Level 14: >2 stops = 1 gym, > 5/6 stops = 2 gyms, >20? = 3 gyms, >35? = 4 gyms
+@rem S2 Level 17: 1 Stop
 FOR %%L IN (13 14 17) DO (
 	ECHO Generating S2 grid level %%L in %s2filename%%%L.geojson
 
