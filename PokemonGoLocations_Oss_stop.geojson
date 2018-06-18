@@ -13,6 +13,7 @@
         "cellid": "47c6fc5e3ef45991",
         "marker-color": "#40B0F0",
         "name": "Stop: 'T Gengske",
+        "title": "Stop: 'T Gengske",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -30,6 +31,7 @@
         "cellid": "47c6fc5f658b3a23",
         "marker-color": "#40B0F0",
         "name": "Stop: Bacchus",
+        "title": "Stop: Bacchus",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -47,6 +49,7 @@
         "cellid": "47c6fc60608b63b9",
         "marker-color": "#40B0F0",
         "name": "Stop: Baloon Popper",
+        "title": "Stop: Baloon Popper",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -64,6 +67,7 @@
         "cellid": "47c6fc78246b95dd",
         "marker-color": "#40B0F0",
         "name": "Stop: Basketbalveld",
+        "title": "Stop: Basketbalveld",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -81,6 +85,7 @@
         "cellid": "47c6fc8ab54f4ced",
         "marker-color": "#40B0F0",
         "name": "Stop: Bibliotheek",
+        "title": "Stop: Bibliotheek",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -98,6 +103,7 @@
         "cellid": "47c6fc91f96e9761",
         "marker-color": "#40B0F0",
         "name": "Stop: Blikmikker",
+        "title": "Stop: Blikmikker",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -115,6 +121,7 @@
         "cellid": "47c6fc6c3ad603ab",
         "marker-color": "#40B0F0",
         "name": "Stop: Bronzen Ooievaar",
+        "title": "Stop: Bronzen Ooievaar",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -132,6 +139,7 @@
         "cellid": "47c6fc917a3fcdff",
         "marker-color": "#40B0F0",
         "name": "Stop: Buurtbewoners",
+        "title": "Stop: Buurtbewoners",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -149,6 +157,7 @@
         "cellid": "47c6fc77f995c637",
         "marker-color": "#40B0F0",
         "name": "Stop: De Duiker",
+        "title": "Stop: De Duiker",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -166,6 +175,7 @@
         "cellid": "47c6fc6f70372bcd",
         "marker-color": "#40B0F0",
         "name": "Stop: De Edelen",
+        "title": "Stop: De Edelen",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -183,6 +193,7 @@
         "cellid": "47c6fc5e70766213",
         "marker-color": "#40B0F0",
         "name": "Stop: De Harlekijn",
+        "title": "Stop: De Harlekijn",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -200,6 +211,7 @@
         "cellid": "47c6fcf6200597a7",
         "marker-color": "#40B0F0",
         "name": "Stop: De Pil van Organon",
+        "title": "Stop: De Pil van Organon",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -217,6 +229,7 @@
         "cellid": "47c6fc930e8057c5",
         "marker-color": "#40B0F0",
         "name": "Stop: De Slang",
+        "title": "Stop: De Slang",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -234,6 +247,7 @@
         "cellid": "47c6fb7de4a8dad5",
         "marker-color": "#40B0F0",
         "name": "Stop: De Voetbal",
+        "title": "Stop: De Voetbal",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -251,6 +265,7 @@
         "cellid": "47c6fc8ab8a6483b",
         "marker-color": "#40B0F0",
         "name": "Stop: Dierlijke figuren",
+        "title": "Stop: Dierlijke figuren",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -268,6 +283,7 @@
         "cellid": "47c6fc617c85acc3",
         "marker-color": "#40B0F0",
         "name": "Stop: Dorus Hoeks Speeltuin",
+        "title": "Stop: Dorus Hoeks Speeltuin",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -285,6 +301,7 @@
         "cellid": "47c6fc8b60e312f7",
         "marker-color": "#40B0F0",
         "name": "Stop: Draak",
+        "title": "Stop: Draak",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -302,6 +319,7 @@
         "cellid": "47c6fc9ee0b367c9",
         "marker-color": "#40B0F0",
         "name": "Stop: Dwarf's Playground",
+        "title": "Stop: Dwarf's Playground",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -319,6 +337,7 @@
         "cellid": "47c6fc5dc9bd7911",
         "marker-color": "#40B0F0",
         "name": "Stop: Engel In Boom",
+        "title": "Stop: Engel In Boom",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -336,6 +355,7 @@
         "cellid": "47c6fcfa97b845ef",
         "marker-color": "#40B0F0",
         "name": "Stop: Female Rights Memorial",
+        "title": "Stop: Female Rights Memorial",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -353,6 +373,7 @@
         "cellid": "47c6fc8874ace5a5",
         "marker-color": "#40B0F0",
         "name": "Stop: Fontein",
+        "title": "Stop: Fontein",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -370,6 +391,7 @@
         "cellid": "47c6fc681c27dc23",
         "marker-color": "#40B0F0",
         "name": "Stop: Fontein Rusheuvel",
+        "title": "Stop: Fontein Rusheuvel",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -387,6 +409,7 @@
         "cellid": "47c6fc5f7c04c355",
         "marker-color": "#40B0F0",
         "name": "Stop: Fountain [Jan Cunen]",
+        "title": "Stop: Fountain [Jan Cunen]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -404,6 +427,7 @@
         "cellid": "47c6fc6940fac601",
         "marker-color": "#40B0F0",
         "name": "Stop: Fruithapje",
+        "title": "Stop: Fruithapje",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -421,6 +445,7 @@
         "cellid": "47c6fc91b598b80f",
         "marker-color": "#40B0F0",
         "name": "Stop: Gedicht Camphuysenstraat",
+        "title": "Stop: Gedicht Camphuysenstraat",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -438,6 +463,7 @@
         "cellid": "47c6fc90f51b178f",
         "marker-color": "#40B0F0",
         "name": "Stop: Gedicht spieghelstraat",
+        "title": "Stop: Gedicht spieghelstraat",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -455,6 +481,7 @@
         "cellid": "47c6fc90fd728bfb",
         "marker-color": "#40B0F0",
         "name": "Stop: Gedicht Vd Nootstr [Zuid]",
+        "title": "Stop: Gedicht Vd Nootstr [Zuid]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -472,6 +499,7 @@
         "cellid": "47c6fc90586f7b3f",
         "marker-color": "#40B0F0",
         "name": "Stop: Gedicht Vd Nootstr [Noord]",
+        "title": "Stop: Gedicht Vd Nootstr [Noord]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -489,6 +517,7 @@
         "cellid": "47c6fc64f974fcf3",
         "marker-color": "#40B0F0",
         "name": "Stop: Gekleurde Hand",
+        "title": "Stop: Gekleurde Hand",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -506,6 +535,7 @@
         "cellid": "47c6fcf57ce6896d",
         "marker-color": "#40B0F0",
         "name": "Stop: Gemeentehuis Oss",
+        "title": "Stop: Gemeentehuis Oss",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -523,6 +553,7 @@
         "cellid": "47c6fc674fe0d9ef",
         "marker-color": "#40B0F0",
         "name": "Stop: Gift to the City",
+        "title": "Stop: Gift to the City",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -540,6 +571,7 @@
         "cellid": "47c6fc5db8715aa1",
         "marker-color": "#40B0F0",
         "name": "Stop: Glimmende Bal",
+        "title": "Stop: Glimmende Bal",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -557,6 +589,7 @@
         "cellid": "47c6fc8869086055",
         "marker-color": "#40B0F0",
         "name": "Stop: Grafengel",
+        "title": "Stop: Grafengel",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -574,6 +607,7 @@
         "cellid": "47c6fc9bdae2bc49",
         "marker-color": "#40B0F0",
         "name": "Stop: Grand Fountain",
+        "title": "Stop: Grand Fountain",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -591,6 +625,7 @@
         "cellid": "47c6fc859e2ead61",
         "marker-color": "#40B0F0",
         "name": "Stop: Hand at Station; Oss West",
+        "title": "Stop: Hand at Station; Oss West",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -608,6 +643,7 @@
         "cellid": "47c6fc811986fac1",
         "marker-color": "#40B0F0",
         "name": "Stop: Hand Paal",
+        "title": "Stop: Hand Paal",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -625,6 +661,7 @@
         "cellid": "47c6fc92e8878ceb",
         "marker-color": "#40B0F0",
         "name": "Stop: Handje [Verdistraat]",
+        "title": "Stop: Handje [Verdistraat]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -642,6 +679,7 @@
         "cellid": "47c6fc882d05886d",
         "marker-color": "#40B0F0",
         "name": "Stop: Hands",
+        "title": "Stop: Hands",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -659,6 +697,7 @@
         "cellid": "47c6fc5e1fe8e3ff",
         "marker-color": "#40B0F0",
         "name": "Stop: Head",
+        "title": "Stop: Head",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -676,6 +715,7 @@
         "cellid": "47c6fcf56901e8ff",
         "marker-color": "#40B0F0",
         "name": "Stop: Het Denkproces",
+        "title": "Stop: Het Denkproces",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -693,6 +733,7 @@
         "cellid": "47c6fc85427e3931",
         "marker-color": "#40B0F0",
         "name": "Stop: High Five",
+        "title": "Stop: High Five",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -710,6 +751,7 @@
         "cellid": "47c6fc5eaba497f3",
         "marker-color": "#40B0F0",
         "name": "Stop: Holy Ghost Church",
+        "title": "Stop: Holy Ghost Church",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -727,6 +769,7 @@
         "cellid": "47c6fb805938a1eb",
         "marker-color": "#40B0F0",
         "name": "Stop: Honden Speelplaats",
+        "title": "Stop: Honden Speelplaats",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -744,6 +787,7 @@
         "cellid": "47c6fc609efae0af",
         "marker-color": "#40B0F0",
         "name": "Stop: Horlogerie",
+        "title": "Stop: Horlogerie",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -761,6 +805,7 @@
         "cellid": "47c6fc58ab901721",
         "marker-color": "#40B0F0",
         "name": "Stop: In Remembrance of World War Two Victims [1]",
+        "title": "Stop: In Remembrance of World War Two Victims [1]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -778,6 +823,7 @@
         "cellid": "47c6fc81563d8bbf",
         "marker-color": "#40B0F0",
         "name": "Stop: Jezus Aan Het Kruis",
+        "title": "Stop: Jezus Aan Het Kruis",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -795,6 +841,7 @@
         "cellid": "47c6fc5cd7623435",
         "marker-color": "#40B0F0",
         "name": "Stop: Jumping",
+        "title": "Stop: Jumping",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -812,6 +859,7 @@
         "cellid": "47c6fc87b2a993eb",
         "marker-color": "#40B0F0",
         "name": "Stop: Kabelbaan",
+        "title": "Stop: Kabelbaan",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -829,6 +877,7 @@
         "cellid": "47c6fcf52040a6db",
         "marker-color": "#40B0F0",
         "name": "Stop: Kiss (Maaslandcollege)",
+        "title": "Stop: Kiss (Maaslandcollege)",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -846,6 +895,7 @@
         "cellid": "47c6fcf73cc5bac9",
         "marker-color": "#40B0F0",
         "name": "Stop: Klokkentoren Karmelieten 1890-1990",
+        "title": "Stop: Klokkentoren Karmelieten 1890-1990",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -863,6 +913,7 @@
         "cellid": "47c6fc8f7e1a88a7",
         "marker-color": "#40B0F0",
         "name": "Stop: Knooppunt 28",
+        "title": "Stop: Knooppunt 28",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -880,6 +931,7 @@
         "cellid": "47c6fc658981526f",
         "marker-color": "#40B0F0",
         "name": "Stop: Kroonprins",
+        "title": "Stop: Kroonprins",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -897,6 +949,7 @@
         "cellid": "47c6fc42546524c1",
         "marker-color": "#40B0F0",
         "name": "Stop: Logo Osse Tennisclub",
+        "title": "Stop: Logo Osse Tennisclub",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -914,6 +967,7 @@
         "cellid": "47c6fc60147aa44f",
         "marker-color": "#40B0F0",
         "name": "Stop: Man with Bag",
+        "title": "Stop: Man with Bag",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -931,6 +985,7 @@
         "cellid": "47c6fc65ed6b941b",
         "marker-color": "#40B0F0",
         "name": "Stop: Mannetje Bij De Handboog",
+        "title": "Stop: Mannetje Bij De Handboog",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -948,6 +1003,7 @@
         "cellid": "47c6fc5f55b9db65",
         "marker-color": "#40B0F0",
         "name": "Stop: Medoc",
+        "title": "Stop: Medoc",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -965,6 +1021,7 @@
         "cellid": "47c6fcf721efda3b",
         "marker-color": "#40B0F0",
         "name": "Stop: Meisjesschool",
+        "title": "Stop: Meisjesschool",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -982,6 +1039,7 @@
         "cellid": "47c6fce4d262c257",
         "marker-color": "#40B0F0",
         "name": "Stop: Modern Art [Emmalaan]",
+        "title": "Stop: Modern Art [Emmalaan]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -999,6 +1057,7 @@
         "cellid": "47c6fc4c97a737b9",
         "marker-color": "#40B0F0",
         "name": "Stop: Modern Art [Heesen]",
+        "title": "Stop: Modern Art [Heesen]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1016,6 +1075,7 @@
         "cellid": "47c6fc5f085fd14f",
         "marker-color": "#40B0F0",
         "name": "Stop: Moeder Mariabeeld",
+        "title": "Stop: Moeder Mariabeeld",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1033,6 +1093,7 @@
         "cellid": "47c6fc58b8568ed5",
         "marker-color": "#40B0F0",
         "name": "Stop: Monumental Building",
+        "title": "Stop: Monumental Building",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1050,6 +1111,7 @@
         "cellid": "47c6fc64565cdb39",
         "marker-color": "#40B0F0",
         "name": "Stop: Mozaiek Bank",
+        "title": "Stop: Mozaiek Bank",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1067,6 +1129,7 @@
         "cellid": "47c6fc9eec83342f",
         "marker-color": "#40B0F0",
         "name": "Stop: Mozaïek 't Woud",
+        "title": "Stop: Mozaïek 't Woud",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1084,6 +1147,7 @@
         "cellid": "47c6fc9a9f5c0985",
         "marker-color": "#40B0F0",
         "name": "Stop: Nadenkend Mannetje",
+        "title": "Stop: Nadenkend Mannetje",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1101,6 +1165,25 @@
         "cellid": "47c6fc6105f27d59",
         "marker-color": "#40B0F0",
         "name": "Stop: Nieuw Leven 1895",
+        "title": "Stop: Nieuw Leven 1895",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.530366,
+          51.765147
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc58a261549f",
+        "marker-color": "#40B0F0",
+        "name": "Stop: NS-plaquette",
+        "title": "Stop: NS-plaquette",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1118,6 +1201,7 @@
         "cellid": "47c6fc77cc1e34d5",
         "marker-color": "#40B0F0",
         "name": "Stop: Ontvangende kunstpop",
+        "title": "Stop: Ontvangende kunstpop",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1135,6 +1219,7 @@
         "cellid": "47c6fd02a4248535",
         "marker-color": "#40B0F0",
         "name": "Stop: Ossekop",
+        "title": "Stop: Ossekop",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1152,6 +1237,7 @@
         "cellid": "47c6fcf4e7845e79",
         "marker-color": "#40B0F0",
         "name": "Stop: Pauskerk",
+        "title": "Stop: Pauskerk",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1169,6 +1255,7 @@
         "cellid": "47c6fc62c5c3c1b7",
         "marker-color": "#40B0F0",
         "name": "Stop: Playground [Vierhoeksingel]",
+        "title": "Stop: Playground [Vierhoeksingel]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1186,6 +1273,7 @@
         "cellid": "47c6fc7941a65a51",
         "marker-color": "#40B0F0",
         "name": "Stop: Playground [Westerveldlaan]",
+        "title": "Stop: Playground [Westerveldlaan]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1203,6 +1291,7 @@
         "cellid": "47c6fc67d7453821",
         "marker-color": "#40B0F0",
         "name": "Stop: Playground [Rusheuvel]",
+        "title": "Stop: Playground [Rusheuvel]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1220,6 +1309,7 @@
         "cellid": "47c6fc79f469799f",
         "marker-color": "#40B0F0",
         "name": "Stop: Playground [Duiker]",
+        "title": "Stop: Playground [Duiker]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1237,6 +1327,7 @@
         "cellid": "47c6fc780ca6dfcf",
         "marker-color": "#40B0F0",
         "name": "Stop: Playground Kraaienest",
+        "title": "Stop: Playground Kraaienest",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1254,6 +1345,7 @@
         "cellid": "47c6fcf4c98ab0ef",
         "marker-color": "#40B0F0",
         "name": "Stop: Regenboog",
+        "title": "Stop: Regenboog",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1271,6 +1363,7 @@
         "cellid": "47c6fdb49b7e9b2d",
         "marker-color": "#40B0F0",
         "name": "Stop: Rhino On Rooftop",
+        "title": "Stop: Rhino On Rooftop",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1288,6 +1381,7 @@
         "cellid": "47c6fc6e3143403b",
         "marker-color": "#40B0F0",
         "name": "Stop: Ringen",
+        "title": "Stop: Ringen",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1305,6 +1399,7 @@
         "cellid": "47c6fc5f377ea319",
         "marker-color": "#40B0F0",
         "name": "Stop: Rollout Art Bench",
+        "title": "Stop: Rollout Art Bench",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1322,6 +1417,7 @@
         "cellid": "47c6fc638a6bf6a5",
         "marker-color": "#40B0F0",
         "name": "Stop: Roundabout Art",
+        "title": "Stop: Roundabout Art",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1339,6 +1435,7 @@
         "cellid": "47c6fc900c57bcff",
         "marker-color": "#40B0F0",
         "name": "Stop: Schommele Schommele Schommele",
+        "title": "Stop: Schommele Schommele Schommele",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1356,6 +1453,7 @@
         "cellid": "47c6fb81d838aa77",
         "marker-color": "#40B0F0",
         "name": "Stop: Schutskooi Ussen",
+        "title": "Stop: Schutskooi Ussen",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1373,6 +1471,7 @@
         "cellid": "47c6fc6850afe2bb",
         "marker-color": "#40B0F0",
         "name": "Stop: Skate Baan Graffiti",
+        "title": "Stop: Skate Baan Graffiti",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1390,6 +1489,7 @@
         "cellid": "47c6fc5ebbaadd3f",
         "marker-color": "#40B0F0",
         "name": "Stop: Sneeuwpop",
+        "title": "Stop: Sneeuwpop",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1407,6 +1507,7 @@
         "cellid": "47c6fdac91f92b95",
         "marker-color": "#40B0F0",
         "name": "Stop: Solar Tree [Osseweg]",
+        "title": "Stop: Solar Tree [Osseweg]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1424,6 +1525,7 @@
         "cellid": "47c6fc7bb50fe9db",
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin",
+        "title": "Stop: Speeltuin",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1441,6 +1543,7 @@
         "cellid": "47c6fc9cb79fba75",
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin Albarda",
+        "title": "Stop: Speeltuin Albarda",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1458,6 +1561,7 @@
         "cellid": "47c6fc78fe9d9be5",
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin Anker",
+        "title": "Stop: Speeltuin Anker",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1475,6 +1579,7 @@
         "cellid": "47c6fc9949fb681f",
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin Cluster",
+        "title": "Stop: Speeltuin Cluster",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1492,6 +1597,7 @@
         "cellid": "47c6fc8287d32d8d",
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin Heihoek",
+        "title": "Stop: Speeltuin Heihoek",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1509,6 +1615,7 @@
         "cellid": "47c6fcf699555423",
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin Seringenhof",
+        "title": "Stop: Speeltuin Seringenhof",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1526,6 +1633,7 @@
         "cellid": "47c6fb7e37ab6265",
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin Tinnegieter",
+        "title": "Stop: Speeltuin Tinnegieter",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1543,6 +1651,7 @@
         "cellid": "47c6fcf5a514e5bd",
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin Zonnebloem",
+        "title": "Stop: Speeltuin Zonnebloem",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1560,6 +1669,7 @@
         "cellid": "47c6fc45e018bead",
         "marker-color": "#40B0F0",
         "name": "Stop: Spelen Met Een Bal",
+        "title": "Stop: Spelen Met Een Bal",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1577,6 +1687,7 @@
         "cellid": "47c6fc90186cc111",
         "marker-color": "#40B0F0",
         "name": "Stop: Standing Figure",
+        "title": "Stop: Standing Figure",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1594,6 +1705,7 @@
         "cellid": "47c6fc8584cc92f7",
         "marker-color": "#40B0F0",
         "name": "Stop: Station Oss West",
+        "title": "Stop: Station Oss West",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1611,6 +1723,7 @@
         "cellid": "47c6fc5bd766fa7f",
         "marker-color": "#40B0F0",
         "name": "Stop: Statue Jurgensplein",
+        "title": "Stop: Statue Jurgensplein",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1628,6 +1741,7 @@
         "cellid": "47c6fc5f9e8ebd45",
         "marker-color": "#40B0F0",
         "name": "Stop: Struikelsteentjes",
+        "title": "Stop: Struikelsteentjes",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1645,23 +1759,7 @@
         "cellid": "47c6fc784b2a554f",
         "marker-color": "#40B0F0",
         "name": "Stop: T Art",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.524279,
-          51.768748
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5e3ef45991",
-        "marker-color": "#40B0F0",
-        "name": "Stop: T Gengske",
+        "title": "Stop: T Art",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1679,6 +1777,7 @@
         "cellid": "47c6fce1e064a0d3",
         "marker-color": "#40B0F0",
         "name": "Stop: T Putje",
+        "title": "Stop: T Putje",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1696,6 +1795,7 @@
         "cellid": "47c6fc590868d44f",
         "marker-color": "#40B0F0",
         "name": "Stop: The Peacock",
+        "title": "Stop: The Peacock",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1713,6 +1813,7 @@
         "cellid": "47c6fc9a4ef65a89",
         "marker-color": "#40B0F0",
         "name": "Stop: The Playground",
+        "title": "Stop: The Playground",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1730,23 +1831,7 @@
         "cellid": "47c6fc5fa838c925",
         "marker-color": "#40B0F0",
         "name": "Stop: Titus Brandsma",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.530683,
-          51.765212
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5899b3f2b3",
-        "marker-color": "#40B0F0",
-        "name": "Stop: Train Station Oss",
+        "title": "Stop: Titus Brandsma",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1764,6 +1849,7 @@
         "cellid": "47c6fb6193b91863",
         "marker-color": "#40B0F0",
         "name": "Stop: Triton Oss",
+        "title": "Stop: Triton Oss",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1781,6 +1867,7 @@
         "cellid": "47c6fc9ba5a8551b",
         "marker-color": "#40B0F0",
         "name": "Stop: Tussen Jou En Mij",
+        "title": "Stop: Tussen Jou En Mij",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1798,6 +1885,7 @@
         "cellid": "47c6fc5e36fdc8c5",
         "marker-color": "#40B0F0",
         "name": "Stop: Varken",
+        "title": "Stop: Varken",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1815,6 +1903,7 @@
         "cellid": "47c6fb81c7258a7b",
         "marker-color": "#40B0F0",
         "name": "Stop: Voetbal Veld",
+        "title": "Stop: Voetbal Veld",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1832,6 +1921,7 @@
         "cellid": "47c6fc8a9be5dee3",
         "marker-color": "#40B0F0",
         "name": "Stop: VolksUNIversiteit",
+        "title": "Stop: VolksUNIversiteit",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1849,6 +1939,7 @@
         "cellid": "47c6fcf0bf97163d",
         "marker-color": "#40B0F0",
         "name": "Stop: War Memorial Oss",
+        "title": "Stop: War Memorial Oss",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1866,6 +1957,7 @@
         "cellid": "47c6fc5e6d1c579b",
         "marker-color": "#40B0F0",
         "name": "Stop: Water Kunstlicht",
+        "title": "Stop: Water Kunstlicht",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1883,6 +1975,7 @@
         "cellid": "47c6fcffa2bcf11b",
         "marker-color": "#40B0F0",
         "name": "Stop: Waterpaddestoel",
+        "title": "Stop: Waterpaddestoel",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1900,6 +1993,7 @@
         "cellid": "47c6fc60bffbdc8d",
         "marker-color": "#40B0F0",
         "name": "Stop: Window Mural",
+        "title": "Stop: Window Mural",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1917,6 +2011,7 @@
         "cellid": "47c6fc5e28ba715d",
         "marker-color": "#40B0F0",
         "name": "Stop: Wooden Art Couch I",
+        "title": "Stop: Wooden Art Couch I",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1934,6 +2029,7 @@
         "cellid": "47c6fdaa43584c77",
         "marker-color": "#40B0F0",
         "name": "Stop: Zonneboom",
+        "title": "Stop: Zonneboom",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1951,6 +2047,7 @@
         "cellid": "47c6fc5febd65e99",
         "marker-color": "#40B0F0",
         "name": "Stop: Zuilensculptuur",
+        "title": "Stop: Zuilensculptuur",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1968,6 +2065,7 @@
         "cellid": "47c6fc86563df5b7",
         "marker-color": "#40B0F0",
         "name": "Stop: Zwaan",
+        "title": "Stop: Zwaan",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1985,6 +2083,7 @@
         "cellid": "47c6fc866eeafa41",
         "marker-color": "#ff9900",
         "name": "Gym: Bakkerij Mural Links",
+        "title": "Gym: Bakkerij Mural Links",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2002,6 +2101,7 @@
         "cellid": "47c6fc5ec41f4501",
         "marker-color": "#ff9900",
         "name": "Gym: Bankje Bergoss",
+        "title": "Gym: Bankje Bergoss",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2019,6 +2119,7 @@
         "cellid": "47c6fc5f295399d7",
         "marker-color": "#ff9900",
         "name": "Gym: Bergos Factory Murial",
+        "title": "Gym: Bergos Factory Murial",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2036,6 +2137,7 @@
         "cellid": "47c6fc9bcf3ea871",
         "marker-color": "#ff9900",
         "name": "Gym: Blauw Rendier",
+        "title": "Gym: Blauw Rendier",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2053,6 +2155,7 @@
         "cellid": "47c6fc9015e30c85",
         "marker-color": "#ff9900",
         "name": "Gym: Crouching Figure",
+        "title": "Gym: Crouching Figure",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2070,6 +2173,7 @@
         "cellid": "47c6fc5da2241f85",
         "marker-color": "#ff9900",
         "name": "Gym: De 3 Paters",
+        "title": "Gym: De 3 Paters",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2087,6 +2191,7 @@
         "cellid": "47c6fc70e91c8a11",
         "marker-color": "#ff9900",
         "name": "Gym: De Waterdrager",
+        "title": "Gym: De Waterdrager",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2104,6 +2209,7 @@
         "cellid": "47c6fcf795d91e37",
         "marker-color": "#ff9900",
         "name": "Gym: Dr Zwanenburg",
+        "title": "Gym: Dr Zwanenburg",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2121,6 +2227,7 @@
         "cellid": "47c6fc782fea9eab",
         "marker-color": "#ff9900",
         "name": "Gym: Fountain [Mettegeupel]",
+        "title": "Gym: Fountain [Mettegeupel]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2138,6 +2245,7 @@
         "cellid": "47c6fcf567b274e3",
         "marker-color": "#ff9900",
         "name": "Gym: Hand",
+        "title": "Gym: Hand",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2155,6 +2263,7 @@
         "cellid": "47c6fc856126de7b",
         "marker-color": "#ff9900",
         "name": "Gym: Handje bij Oss West III",
+        "title": "Gym: Handje bij Oss West III",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2172,6 +2281,7 @@
         "cellid": "47c6fc42c352b7cd",
         "marker-color": "#ff9900",
         "name": "Gym: Horse Statue",
+        "title": "Gym: Horse Statue",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2189,6 +2299,7 @@
         "cellid": "47c6fcf1465e294b",
         "marker-color": "#ff9900",
         "name": "Gym: Jesus Statue",
+        "title": "Gym: Jesus Statue",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2206,6 +2317,7 @@
         "cellid": "47c6fc9bc235ba7f",
         "marker-color": "#ff9900",
         "name": "Gym: Kasteel Snor",
+        "title": "Gym: Kasteel Snor",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2223,6 +2335,7 @@
         "cellid": "47c6fc6464ed8529",
         "marker-color": "#ff9900",
         "name": "Gym: Kerk",
+        "title": "Gym: Kerk",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2240,6 +2353,7 @@
         "cellid": "47c6fc798090674d",
         "marker-color": "#ff9900",
         "name": "Gym: Kunst Poppen",
+        "title": "Gym: Kunst Poppen",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2257,6 +2371,7 @@
         "cellid": "47c6fc8afb173fef",
         "marker-color": "#ff9900",
         "name": "Gym: Metal Art",
+        "title": "Gym: Metal Art",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2274,6 +2389,7 @@
         "cellid": "47c6fc60223d55e3",
         "marker-color": "#ff9900",
         "name": "Gym: Mill Oss",
+        "title": "Gym: Mill Oss",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2291,6 +2407,7 @@
         "cellid": "47c6fc81deff2039",
         "marker-color": "#ff9900",
         "name": "Gym: Old Windmill",
+        "title": "Gym: Old Windmill",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2308,6 +2425,7 @@
         "cellid": "47c6fcf570a03b93",
         "marker-color": "#ff9900",
         "name": "Gym: Oss",
+        "title": "Gym: Oss",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2325,6 +2443,7 @@
         "cellid": "47c6fc8e1aa17e73",
         "marker-color": "#ff9900",
         "name": "Gym: Speeltuin Beethovengaarde",
+        "title": "Gym: Speeltuin Beethovengaarde",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2342,6 +2461,7 @@
         "cellid": "47c6fcfac3c65365",
         "marker-color": "#ff9900",
         "name": "Gym: Speeltuin Hendriklaan",
+        "title": "Gym: Speeltuin Hendriklaan",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2359,6 +2479,7 @@
         "cellid": "47c6fc60a2696b35",
         "marker-color": "#ff9900",
         "name": "Gym: St Mary with Angels",
+        "title": "Gym: St Mary with Angels",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2376,6 +2497,25 @@
         "cellid": "47c6fc5954f7b771",
         "marker-color": "#ff9900",
         "name": "Gym: Statue of Saint Mary",
+        "title": "Gym: Statue of Saint Mary",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.530683,
+          51.765212
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5899b3f2b3",
+        "marker-color": "#ff9900",
+        "name": "Gym: Train Station Oss",
+        "title": "Gym: Train Station Oss",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2393,6 +2533,7 @@
         "cellid": "47c6fc620125792b",
         "marker-color": "#ff9900",
         "name": "Gym: Watertoren",
+        "title": "Gym: Watertoren",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2410,6 +2551,7 @@
         "cellid": "47c6fc6979e23835",
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Cow Statue",
+        "title": "Ex-raid Gym: Cow Statue",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -2427,6 +2569,7 @@
         "cellid": "47c6fc66fbb56ea1",
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Cross at Oss",
+        "title": "Ex-raid Gym: Cross at Oss",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -2444,6 +2587,7 @@
         "cellid": "47c6fc88e8dba8af",
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Heilig Hart Church",
+        "title": "Ex-raid Gym: Heilig Hart Church",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -2461,6 +2605,7 @@
         "cellid": "47c6fb809cc75677",
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: IJzertijdboerderij Ussen",
+        "title": "Ex-raid Gym: IJzertijdboerderij Ussen",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -2478,6 +2623,7 @@
         "cellid": "47c6fc6e2afbb075",
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Lancer Sculpture",
+        "title": "Ex-raid Gym: Lancer Sculpture",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -2495,6 +2641,7 @@
         "cellid": "47c6fc83ffb320e1",
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Lippen",
+        "title": "Ex-raid Gym: Lippen",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -2512,6 +2659,7 @@
         "cellid": "47c6fc5b15b7ab3b",
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Peach Memorial",
+        "title": "Ex-raid Gym: Peach Memorial",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -2529,6 +2677,7 @@
         "cellid": "47c6fc778f885a59",
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Piramide Kunst",
+        "title": "Ex-raid Gym: Piramide Kunst",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -2546,6 +2695,7 @@
         "cellid": "47c6fc902b992425",
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Walking figure Oss",
+        "title": "Ex-raid Gym: Walking figure Oss",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -2563,8 +2713,27 @@
         "cellid": "47c6fb7f96193dc3",
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Wall Art",
+        "title": "Ex-raid Gym: Wall Art",
         "marker-size": "small",
         "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.503801,
+          51.770002
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7c1f322a81",
+        "marker-color": "#808080",
+        "name": "Unknown: De Speelbes",
+        "title": "Unknown: De Speelbes",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
       }
     },
     {
@@ -2580,6 +2749,43 @@
         "cellid": "47c6fc599f9ba349",
         "marker-color": "#808080",
         "name": "Unknown: De Trekschuit",
+        "title": "Unknown: De Trekschuit",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.542352,
+          51.748951
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fce232136a19",
+        "marker-color": "#808080",
+        "name": "Unknown: Docfapark Playground",
+        "title": "Unknown: Docfapark Playground",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.495756,
+          51.769352
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb808f3e3d4b",
+        "marker-color": "#808080",
+        "name": "Unknown: Drijvende Constructie Ijzertijdboerderij",
+        "title": "Unknown: Drijvende Constructie Ijzertijdboerderij",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2597,6 +2803,43 @@
         "cellid": "47c6fc877702fa09",
         "marker-color": "#808080",
         "name": "Unknown: Kids Playground [1]",
+        "title": "Unknown: Kids Playground [1]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.541671,
+          51.757761
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcfc1393aa69",
+        "marker-color": "#808080",
+        "name": "Unknown: Kids Playground Zuid",
+        "title": "Unknown: Kids Playground Zuid",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.535825,
+          51.767271
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc577e263725",
+        "marker-color": "#808080",
+        "name": "Unknown: Louis de Bourbon",
+        "title": "Unknown: Louis de Bourbon",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2614,6 +2857,7 @@
         "cellid": "47c6fc7c1875989f",
         "marker-color": "#808080",
         "name": "Unknown: Mozaïek Kunst",
+        "title": "Unknown: Mozaïek Kunst",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2631,6 +2875,7 @@
         "cellid": "47c6fc70b634e755",
         "marker-color": "#808080",
         "name": "Unknown: Playground Polderkade",
+        "title": "Unknown: Playground Polderkade",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2648,6 +2893,43 @@
         "cellid": "47c6fc79ff1ac31f",
         "marker-color": "#808080",
         "name": "Unknown: Playground Zinker",
+        "title": "Unknown: Playground Zinker",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.550956,
+          51.77026
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fdacbf6ec6bd",
+        "marker-color": "#808080",
+        "name": "Unknown: Prijsschieten",
+        "title": "Unknown: Prijsschieten",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.544385,
+          51.769287
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc540aa6603d",
+        "marker-color": "#808080",
+        "name": "Unknown: Schommelplaats Park Waterlaat",
+        "title": "Unknown: Schommelplaats Park Waterlaat",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2665,6 +2947,25 @@
         "cellid": "47c6fc711e48f187",
         "marker-color": "#808080",
         "name": "Unknown: Speeltuin Buitenhof",
+        "title": "Unknown: Speeltuin Buitenhof",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.543698,
+          51.773557
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc521e186b8f",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Dobbe",
+        "title": "Unknown: Speeltuin Dobbe",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2682,6 +2983,43 @@
         "cellid": "47c6fc69124ac45d",
         "marker-color": "#808080",
         "name": "Unknown: Speeltuin Haagpoort",
+        "title": "Unknown: Speeltuin Haagpoort",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.548956,
+          51.772275
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc52db1d4367",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Kiviet",
+        "title": "Unknown: Speeltuin Kiviet",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.527487,
+          51.774519
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5cd8ed992f",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Kuipers Rietberg",
+        "title": "Unknown: Speeltuin Kuipers Rietberg",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2699,6 +3037,43 @@
         "cellid": "47c6fc7954001127",
         "marker-color": "#808080",
         "name": "Unknown: Speeltuin Lichtmot",
+        "title": "Unknown: Speeltuin Lichtmot",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.548327,
+          51.767285
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc54cfa88e4f",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Sperwerstraat",
+        "title": "Unknown: Speeltuin Sperwerstraat",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.543717,
+          51.77355
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc521e3d7879",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Theodorus Dobbestraat",
+        "title": "Unknown: Speeltuin Theodorus Dobbestraat",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2716,6 +3091,25 @@
         "cellid": "47c6fb7f49906ae1",
         "marker-color": "#808080",
         "name": "Unknown: Speeltuin Ussen",
+        "title": "Unknown: Speeltuin Ussen",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.52694,
+          51.769633
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5e844ca31f",
+        "marker-color": "#808080",
+        "name": "Unknown: Stolpersteine",
+        "title": "Unknown: Stolpersteine",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2733,6 +3127,7 @@
         "cellid": "47c6fce1e19b1963",
         "marker-color": "#808080",
         "name": "Unknown: Wandelroute Putje",
+        "title": "Unknown: Wandelroute Putje",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2750,6 +3145,7 @@
         "cellid": "47c6fc60bcfa2569",
         "marker-color": "#808080",
         "name": "Unknown: Willibrordus Kerk",
+        "title": "Unknown: Willibrordus Kerk",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2767,6 +3163,7 @@
         "cellid": "47c6fc8565e29f1b",
         "marker-color": "#000000",
         "name": "Not Availble: Abstract Art",
+        "title": "Not Availble: Abstract Art",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -2784,6 +3181,7 @@
         "cellid": "47c6fc606422269b",
         "marker-color": "#000000",
         "name": "Not Availble: Boombankje",
+        "title": "Not Availble: Boombankje",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -2801,6 +3199,7 @@
         "cellid": "47c6fc60656b3931",
         "marker-color": "#000000",
         "name": "Not Availble: Butter Art",
+        "title": "Not Availble: Butter Art",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -2818,6 +3217,7 @@
         "cellid": "47c6fc91fa066f5b",
         "marker-color": "#000000",
         "name": "Not Availble: Glijbaan",
+        "title": "Not Availble: Glijbaan",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -2835,6 +3235,7 @@
         "cellid": "47c6fcf7913dc2db",
         "marker-color": "#000000",
         "name": "Not Availble: Het Gezin",
+        "title": "Not Availble: Het Gezin",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -2852,6 +3253,7 @@
         "cellid": "47c6fc58aed46647",
         "marker-color": "#000000",
         "name": "Not Availble: In Rememberance of World War Two Victims [2]",
+        "title": "Not Availble: In Rememberance of World War Two Victims [2]",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -2869,6 +3271,7 @@
         "cellid": "47c6fc5f62d11cbb",
         "marker-color": "#000000",
         "name": "Not Availble: Muziekkapel",
+        "title": "Not Availble: Muziekkapel",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -2886,6 +3289,7 @@
         "cellid": "47c6fc8564d10da7",
         "marker-color": "#000000",
         "name": "Not Availble: Paal",
+        "title": "Not Availble: Paal",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -2903,6 +3307,7 @@
         "cellid": "47c6fc88ec0f4017",
         "marker-color": "#000000",
         "name": "Not Availble: Parochie Beeld",
+        "title": "Not Availble: Parochie Beeld",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -2920,6 +3325,7 @@
         "cellid": "47c6fc9a9c6f19c7",
         "marker-color": "#000000",
         "name": "Not Availble: Sitting Female Statue",
+        "title": "Not Availble: Sitting Female Statue",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -2937,6 +3343,7 @@
         "cellid": "47c6fc606790f901",
         "marker-color": "#000000",
         "name": "Not Availble: Sociaal Cultureel Centrum",
+        "title": "Not Availble: Sociaal Cultureel Centrum",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -2954,6 +3361,7 @@
         "cellid": "47c6fb7f9738d4bb",
         "marker-color": "#000000",
         "name": "Not Availble: Speeltuin Meijerij",
+        "title": "Not Availble: Speeltuin Meijerij",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -2971,6 +3379,7 @@
         "cellid": "47c6fc902f6973ed",
         "marker-color": "#000000",
         "name": "Not Availble: Standing Figure II",
+        "title": "Not Availble: Standing Figure II",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -2988,6 +3397,7 @@
         "cellid": "47c6fc5f64768207",
         "marker-color": "#000000",
         "name": "Not Availble: Statute in Stone of Female; Oss",
+        "title": "Not Availble: Statute in Stone of Female; Oss",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -3005,6 +3415,7 @@
         "cellid": "47c6fc5f7aeabb1f",
         "marker-color": "#000000",
         "name": "Not Availble: Stieropdemuur",
+        "title": "Not Availble: Stieropdemuur",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -3022,6 +3433,7 @@
         "cellid": "47c6fc5f7f490bfb",
         "marker-color": "#000000",
         "name": "Not Availble: Violin in Stone",
+        "title": "Not Availble: Violin in Stone",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -3039,6 +3451,7 @@
         "cellid": "47c6fc9a9a0adc8b",
         "marker-color": "#000000",
         "name": "Not Availble: Yellow Man",
+        "title": "Not Availble: Yellow Man",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -3056,6 +3469,7 @@
         "cellid": "47c6fc84cd270a17",
         "marker-color": "#800000",
         "name": "Removed: De Schaepskooi",
+        "title": "Removed: De Schaepskooi",
         "marker-size": "small",
         "marker-symbol": "cross"
       }
@@ -3073,6 +3487,7 @@
         "cellid": "47c6fcf3c721fe07",
         "marker-color": "#800000",
         "name": "Removed: Oude Bernhoven",
+        "title": "Removed: Oude Bernhoven",
         "marker-size": "small",
         "marker-symbol": "cross"
       }
@@ -3090,6 +3505,7 @@
         "cellid": "47c6fc99d4fdb575",
         "marker-color": "#000080",
         "name": "Pending approval: Boom Da Costa [PLP]",
+        "title": "Pending approval: Boom Da Costa [PLP]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3107,6 +3523,7 @@
         "cellid": "47c6fc54cef09b95",
         "marker-color": "#000080",
         "name": "Pending approval: Sperwer speeltuin [PLP]",
+        "title": "Pending approval: Sperwer speeltuin [PLP]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3124,6 +3541,151 @@
         "cellid": "47c6fc544fdeb35d",
         "marker-color": "#000080",
         "name": "Pending approval: Zwaluw honden [PLP]",
+        "title": "Pending approval: Zwaluw honden [PLP]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.54724,
+          51.76867
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5499820c2b",
+        "marker-color": "#000080",
+        "name": "Pending approval: Zijkant havikstraat 1 [PLP]",
+        "title": "Pending approval: Zijkant havikstraat 1 [PLP]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.544752,
+          51.769043
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc54743d12e1",
+        "marker-color": "#000080",
+        "name": "Pending approval: Vijversingel kruijff veld [PLP]",
+        "title": "Pending approval: Vijversingel kruijff veld [PLP]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.54457,
+          51.768618
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc546d862339",
+        "marker-color": "#000080",
+        "name": "Pending approval: Vijversingel fontein [PLP]",
+        "title": "Pending approval: Vijversingel fontein [PLP]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.545018,
+          51.769358
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5389b87cc1",
+        "marker-color": "#000080",
+        "name": "Pending approval: Vijversingel boomstammen [PLP]",
+        "title": "Pending approval: Vijversingel boomstammen [PLP]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.534374,
+          51.779267
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc4436eb8e51",
+        "marker-color": "#000080",
+        "name": "Pending approval: De Spie nieuwe horzak [PLP]",
+        "title": "Pending approval: De Spie nieuwe horzak [PLP]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.527579,
+          51.77635
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc42d8d1d5c3",
+        "marker-color": "#000080",
+        "name": "Pending approval: Zwevende Kei Horzak [PLP]",
+        "title": "Pending approval: Zwevende Kei Horzak [PLP]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.533151,
+          51.77444
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5b25514641",
+        "marker-color": "#000080",
+        "name": "Pending approval: Skatebaan Kuiper Rietbergstraat [PLP]",
+        "title": "Pending approval: Skatebaan Kuiper Rietbergstraat [PLP]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.534439,
+          51.77453
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5ad0db2645",
+        "marker-color": "#000080",
+        "name": "Pending approval: Kabelbaan Kuiper Rietbergstraat [PLP]",
+        "title": "Pending approval: Kabelbaan Kuiper Rietbergstraat [PLP]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3141,6 +3703,7 @@
         "cellid": "47c6fc7ed0f5b18f",
         "marker-color": "#000080",
         "name": "Pending approval: Speeltuin Perzikhof [OCL]",
+        "title": "Pending approval: Speeltuin Perzikhof [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3158,6 +3721,7 @@
         "cellid": "47c6fc7c189761dd",
         "marker-color": "#000080",
         "name": "Pending approval: Speeltuin Braambes [OCL]",
+        "title": "Pending approval: Speeltuin Braambes [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3175,6 +3739,7 @@
         "cellid": "47c6fc7b8b9577ef",
         "marker-color": "#000080",
         "name": "Pending approval: Glijbaan Stippelmot [OCL]",
+        "title": "Pending approval: Glijbaan Stippelmot [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3192,6 +3757,7 @@
         "cellid": "47c6fc77a35d52ad",
         "marker-color": "#000080",
         "name": "Pending approval: Evenwichtsbalk Rietkraag [OCL]",
+        "title": "Pending approval: Evenwichtsbalk Rietkraag [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3201,31 +3767,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.5140482,
-          51.7611801
+          5.536317,
+          51.767424
         ]
       },
       "properties": {
-        "cellid": "47c6fc895cb1d78f",
+        "cellid": "47c6fc577beef5ab",
         "marker-color": "#000080",
-        "name": "Pending approval: ?? Vogelwijk; Louis de Bourbon beeld [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5140482,
-          51.7611801
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc895cb1d78f",
-        "marker-color": "#000080",
-        "name": "Pending approval: ?? Vogelwijk; Louis de Bourbon speeltuin [OCL]",
+        "name": "Pending approval: Vogelwijk; Louis de Bourbon speeltuin [OCL]",
+        "title": "Pending approval: Vogelwijk; Louis de Bourbon speeltuin [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3243,6 +3793,7 @@
         "cellid": "47c6fdac94e29a03",
         "marker-color": "#000080",
         "name": "Pending approval: Voetbalmuur met gaten bij Zonnecelboom [OCL]",
+        "title": "Pending approval: Voetbalmuur met gaten bij Zonnecelboom [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3260,6 +3811,7 @@
         "cellid": "47c6fdab6aed4435",
         "marker-color": "#000080",
         "name": "Pending approval: Basket Adelaar [OCL]",
+        "title": "Pending approval: Basket Adelaar [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3277,23 +3829,7 @@
         "cellid": "47c6fdab15055505",
         "marker-color": "#000080",
         "name": "Pending approval: Speeltuin Adelaar [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.548252,
-          51.767296
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc54cf9e132f",
-        "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin Sperwer [OCL]",
+        "title": "Pending approval: Speeltuin Adelaar [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3311,6 +3847,7 @@
         "cellid": "47c6fc546d86a4eb",
         "marker-color": "#000080",
         "name": "Pending approval: Fontein in het park [OCL]",
+        "title": "Pending approval: Fontein in het park [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3328,6 +3865,7 @@
         "cellid": "47c6fc54437cc84f",
         "marker-color": "#000080",
         "name": "Pending approval: Schommels in het park [OCL]",
+        "title": "Pending approval: Schommels in het park [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3345,23 +3883,7 @@
         "cellid": "47c6fc53f5103aa9",
         "marker-color": "#000080",
         "name": "Pending approval: Speeltuin in het park [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.543717,
-          51.77355
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc521e3d7879",
-        "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin Theodorus Dobbestraat [OCL]",
+        "title": "Pending approval: Speeltuin in het park [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3379,6 +3901,7 @@
         "cellid": "47c6fc64653198b1",
         "marker-color": "#000080",
         "name": "Pending approval: Gele kunstwerk bij Pauluskerk [OCL]",
+        "title": "Pending approval: Gele kunstwerk bij Pauluskerk [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3396,6 +3919,7 @@
         "cellid": "47c6fc5e49b89f67",
         "marker-color": "#000080",
         "name": "Pending approval: Oss mural op V&D rolluik [OCL]",
+        "title": "Pending approval: Oss mural op V&D rolluik [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3413,6 +3937,7 @@
         "cellid": "47c6fc59189256ab",
         "marker-color": "#000080",
         "name": "Pending approval: Speeltuin Schering bij Bergoss [OCL]",
+        "title": "Pending approval: Speeltuin Schering bij Bergoss [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3422,48 +3947,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.534451,
-          51.774507
+          5.5104832,
+          51.7513942
         ]
       },
       "properties": {
-        "cellid": "47c6fc5ad0c3e3ff",
+        "cellid": "47c6fc9110b2f5c1",
         "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin Kuipers Rietberg [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.511118,
-          51.747742
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc9691d3e973",
-        "marker-color": "#000080",
-        "name": "Pending approval: ?? Mozaiek Dichtersbuurt [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.530873,
-          51.765236
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5899f57f3d",
-        "marker-color": "#000080",
-        "name": "Pending approval: Plaquette bij NS-station [OCL]",
+        "name": "Pending approval: Mozaiek Dichtersbuurt [OCL]",
+        "title": "Pending approval: Mozaiek Dichtersbuurt [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3481,6 +3973,7 @@
         "cellid": "47c6fc44624d36cb",
         "marker-color": "#000080",
         "name": "Pending approval: Nieuwe Horzak-wijk [OCL ToDo]",
+        "title": "Pending approval: Nieuwe Horzak-wijk [OCL ToDo]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3497,7 +3990,8 @@
       "properties": {
         "cellid": "47c6fb8772149263",
         "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin Zalm [OCL ToDo]",
+        "name": "Pending approval: Speeltuin Zalm [OCL]",
+        "title": "Pending approval: Speeltuin Zalm [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3514,7 +4008,8 @@
       "properties": {
         "cellid": "47c6fb880a75dbe1",
         "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin Boegbeeld [OCL ToDo]",
+        "name": "Pending approval: Speeltuin Boegbeeld [OCL]",
+        "title": "Pending approval: Speeltuin Boegbeeld [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3531,7 +4026,8 @@
       "properties": {
         "cellid": "47c6fcf13f557981",
         "marker-color": "#000080",
-        "name": "Pending approval: Struikelsteentjes bij Jezusgym [OCL ToDo]",
+        "name": "Pending approval: Struikelsteentjes bij Jezusgym [OCL]",
+        "title": "Pending approval: Struikelsteentjes bij Jezusgym [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3548,7 +4044,8 @@
       "properties": {
         "cellid": "47c6fcf15a812ce5",
         "marker-color": "#000080",
-        "name": "Pending approval: Oude kazerne bij Jezusgym [OCL ToDo]",
+        "name": "Pending approval: Oude kazerne bij Jezusgym [OCL]",
+        "title": "Pending approval: Oude kazerne bij Jezusgym [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3565,7 +4062,8 @@
       "properties": {
         "cellid": "47c6fc5fc603d0f7",
         "marker-color": "#000080",
-        "name": "Pending approval: Gedicht bij Emté op de muur [OCL ToDo]",
+        "name": "Pending approval: Gedicht bij Emté op de muur [OCL]",
+        "title": "Pending approval: Gedicht bij Emté op de muur [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3582,7 +4080,8 @@
       "properties": {
         "cellid": "47c6fc5eaa925f57",
         "marker-color": "#000080",
-        "name": "Pending approval: Meerpaal bij Visserskerk [OCL ToDo]",
+        "name": "Pending approval: Meerpaal bij Visserskerk [OCL]",
+        "title": "Pending approval: Meerpaal bij Visserskerk [OCL]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -106796,10 +107295,2089 @@
       },
       "properties": {
         "stroke": "#40B0F0",
-        "stroke-opacity": 0.4,
+        "stroke-opacity": 0.35,
         "fill": "#40B0F0",
         "fill-opacity": 0.05,
-        "stroke-width": 0.25
+        "stroke-width": 0.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                5.491943715697197,
+                51.74530825792965
+              ],
+              [
+                5.492980478160235,
+                51.750550423302485
+              ],
+              [
+                5.486460690948254,
+                51.750855066739206
+              ],
+              [
+                5.485425143963983,
+                51.74561280010438
+              ],
+              [
+                5.491943715697197,
+                51.74530825792965
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.492980478160235,
+                51.750550423302485
+              ],
+              [
+                5.494017561793627,
+                51.75579298637947
+              ],
+              [
+                5.4874965587348745,
+                51.75609773111379
+              ],
+              [
+                5.486460690948254,
+                51.750855066739206
+              ],
+              [
+                5.492980478160235,
+                51.750550423302485
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.494017561793627,
+                51.75579298637947
+              ],
+              [
+                5.495054966739044,
+                51.76103594707798
+              ],
+              [
+                5.488532747465357,
+                51.76134079314552
+              ],
+              [
+                5.4874965587348745,
+                51.75609773111379
+              ],
+              [
+                5.494017561793627,
+                51.75579298637947
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.495054966739044,
+                51.76103594707798
+              ],
+              [
+                5.496092693138232,
+                51.76627930531529
+              ],
+              [
+                5.489569257281293,
+                51.76658425275169
+              ],
+              [
+                5.488532747465357,
+                51.76134079314552
+              ],
+              [
+                5.495054966739044,
+                51.76103594707798
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.496092693138232,
+                51.76627930531529
+              ],
+              [
+                5.497130741133024,
+                51.77152306100866
+              ],
+              [
+                5.4906060883243555,
+                51.771828109849544
+              ],
+              [
+                5.489569257281293,
+                51.76658425275169
+              ],
+              [
+                5.496092693138232,
+                51.76627930531529
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.489569257281293,
+                51.76658425275169
+              ],
+              [
+                5.4906060883243555,
+                51.771828109849544
+              ],
+              [
+                5.484082011942835,
+                51.7721327664983
+              ],
+              [
+                5.483046397797747,
+                51.76688880812469
+              ],
+              [
+                5.489569257281293,
+                51.76658425275169
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.4906060883243555,
+                51.771828109849544
+              ],
+              [
+                5.4916432407363045,
+                51.77707236435629
+              ],
+              [
+                5.485117947088161,
+                51.7773771223164
+              ],
+              [
+                5.484082011942835,
+                51.7721327664983
+              ],
+              [
+                5.4906060883243555,
+                51.771828109849544
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.497130741133024,
+                51.77152306100866
+              ],
+              [
+                5.498169110865334,
+                51.77676721407526
+              ],
+              [
+                5.4916432407363045,
+                51.77707236435629
+              ],
+              [
+                5.4906060883243555,
+                51.771828109849544
+              ],
+              [
+                5.497130741133024,
+                51.77152306100866
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.498169110865334,
+                51.77676721407526
+              ],
+              [
+                5.499207802477154,
+                51.782011764432234
+              ],
+              [
+                5.492680714658976,
+                51.78231701618909
+              ],
+              [
+                5.4916432407363045,
+                51.77707236435629
+              ],
+              [
+                5.498169110865334,
+                51.77676721407526
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.4916432407363045,
+                51.77707236435629
+              ],
+              [
+                5.492680714658976,
+                51.78231701618909
+              ],
+              [
+                5.486154203375405,
+                51.782621875496176
+              ],
+              [
+                5.485117947088161,
+                51.7773771223164
+              ],
+              [
+                5.4916432407363045,
+                51.77707236435629
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.531851882163064,
+                51.78047961548253
+              ],
+              [
+                5.532896986888509,
+                51.785724053555285
+              ],
+              [
+                5.526365801254622,
+                51.786031371182396
+              ],
+              [
+                5.525321914854068,
+                51.78078683095334
+              ],
+              [
+                5.531851882163064,
+                51.78047961548253
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.530807101303722,
+                51.77523557443814
+              ],
+              [
+                5.531851882163064,
+                51.78047961548253
+              ],
+              [
+                5.525321914854068,
+                51.78078683095334
+              ],
+              [
+                5.524278351950744,
+                51.77554268778856
+              ],
+              [
+                5.530807101303722,
+                51.77523557443814
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.53733642586475,
+                51.77492806818109
+              ],
+              [
+                5.538382424733131,
+                51.78017200697608
+              ],
+              [
+                5.531851882163064,
+                51.78047961548253
+              ],
+              [
+                5.530807101303722,
+                51.77523557443814
+              ],
+              [
+                5.53733642586475,
+                51.77492806818109
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.538382424733131,
+                51.78017200697608
+              ],
+              [
+                5.539428747836472,
+                51.78541634276348
+              ],
+              [
+                5.532896986888509,
+                51.785724053555285
+              ],
+              [
+                5.531851882163064,
+                51.78047961548253
+              ],
+              [
+                5.538382424733131,
+                51.78017200697608
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.544913542351692,
+                51.779864005336414
+              ],
+              [
+                5.545961083885822,
+                51.78510823870941
+              ],
+              [
+                5.539428747836472,
+                51.78541634276348
+              ],
+              [
+                5.538382424733131,
+                51.78017200697608
+              ],
+              [
+                5.544913542351692,
+                51.779864005336414
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.551445234806076,
+                51.779555610466026
+              ],
+              [
+                5.552493994823764,
+                51.784799741295515
+              ],
+              [
+                5.545961083885822,
+                51.78510823870941
+              ],
+              [
+                5.544913542351692,
+                51.779864005336414
+              ],
+              [
+                5.551445234806076,
+                51.779555610466026
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.550396799761024,
+                51.77431187655692
+              ],
+              [
+                5.551445234806076,
+                51.779555610466026
+              ],
+              [
+                5.544913542351692,
+                51.779864005336414
+              ],
+              [
+                5.54386632542137,
+                51.77462016891985
+              ],
+              [
+                5.550396799761024,
+                51.77431187655692
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.54386632542137,
+                51.77462016891985
+              ],
+              [
+                5.544913542351692,
+                51.779864005336414
+              ],
+              [
+                5.538382424733131,
+                51.78017200697608
+              ],
+              [
+                5.53733642586475,
+                51.77492806818109
+              ],
+              [
+                5.54386632542137,
+                51.77462016891985
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.542819432951679,
+                51.76937672954273
+              ],
+              [
+                5.54386632542137,
+                51.77462016891985
+              ],
+              [
+                5.53733642586475,
+                51.77492806818109
+              ],
+              [
+                5.536290751088314,
+                51.769684526461525
+              ],
+              [
+                5.542819432951679,
+                51.76937672954273
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.549348689545274,
+                51.769068539651244
+              ],
+              [
+                5.550396799761024,
+                51.77431187655692
+              ],
+              [
+                5.54386632542137,
+                51.77462016891985
+              ],
+              [
+                5.542819432951679,
+                51.76937672954273
+              ],
+              [
+                5.549348689545274,
+                51.769068539651244
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.548300904015582,
+                51.76382559983195
+              ],
+              [
+                5.549348689545274,
+                51.769068539651244
+              ],
+              [
+                5.542819432951679,
+                51.76937672954273
+              ],
+              [
+                5.541772864799527,
+                51.764133687287995
+              ],
+              [
+                5.548300904015582,
+                51.76382559983195
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.541772864799527,
+                51.764133687287995
+              ],
+              [
+                5.542819432951679,
+                51.76937672954273
+              ],
+              [
+                5.536290751088314,
+                51.769684526461525
+              ],
+              [
+                5.535245400260887,
+                51.76444138190032
+              ],
+              [
+                5.541772864799527,
+                51.764133687287995
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.535245400260887,
+                51.76444138190032
+              ],
+              [
+                5.536290751088314,
+                51.769684526461525
+              ],
+              [
+                5.529762644167622,
+                51.76999193050512
+              ],
+              [
+                5.528718510611986,
+                51.76474868376638
+              ],
+              [
+                5.535245400260887,
+                51.76444138190032
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.536290751088314,
+                51.769684526461525
+              ],
+              [
+                5.53733642586475,
+                51.77492806818109
+              ],
+              [
+                5.530807101303722,
+                51.77523557443814
+              ],
+              [
+                5.529762644167622,
+                51.76999193050512
+              ],
+              [
+                5.536290751088314,
+                51.769684526461525
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.529762644167622,
+                51.76999193050512
+              ],
+              [
+                5.530807101303722,
+                51.77523557443814
+              ],
+              [
+                5.524278351950744,
+                51.77554268778856
+              ],
+              [
+                5.523235112401943,
+                51.77029894177102
+              ],
+              [
+                5.529762644167622,
+                51.76999193050512
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.528718510611986,
+                51.76474868376638
+              ],
+              [
+                5.529762644167622,
+                51.76999193050512
+              ],
+              [
+                5.523235112401943,
+                51.77029894177102
+              ],
+              [
+                5.522192196065046,
+                51.76505559298364
+              ],
+              [
+                5.528718510611986,
+                51.76474868376638
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.522192196065046,
+                51.76505559298364
+              ],
+              [
+                5.523235112401943,
+                51.77029894177102
+              ],
+              [
+                5.516708156003529,
+                51.770605560356756
+              ],
+              [
+                5.515666456832203,
+                51.76536210964963
+              ],
+              [
+                5.522192196065046,
+                51.76505559298364
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.515666456832203,
+                51.76536210964963
+              ],
+              [
+                5.516708156003529,
+                51.770605560356756
+              ],
+              [
+                5.510181775184542,
+                51.77091178635988
+              ],
+              [
+                5.509141293125501,
+                51.76566823386186
+              ],
+              [
+                5.515666456832203,
+                51.76536210964963
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.516708156003529,
+                51.770605560356756
+              ],
+              [
+                5.517750178018183,
+                51.775849408329876
+              ],
+              [
+                5.5112225797183205,
+                51.776155736159694
+              ],
+              [
+                5.510181775184542,
+                51.77091178635988
+              ],
+              [
+                5.516708156003529,
+                51.770605560356756
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.523235112401943,
+                51.77029894177102
+              ],
+              [
+                5.524278351950744,
+                51.77554268778856
+              ],
+              [
+                5.517750178018183,
+                51.775849408329876
+              ],
+              [
+                5.516708156003529,
+                51.770605560356756
+              ],
+              [
+                5.523235112401943,
+                51.77029894177102
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.524278351950744,
+                51.77554268778856
+              ],
+              [
+                5.525321914854068,
+                51.78078683095334
+              ],
+              [
+                5.518792523018631,
+                51.7810936534861
+              ],
+              [
+                5.517750178018183,
+                51.775849408329876
+              ],
+              [
+                5.524278351950744,
+                51.77554268778856
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.525321914854068,
+                51.78078683095334
+              ],
+              [
+                5.526365801254622,
+                51.786031371182396
+              ],
+              [
+                5.519835191147419,
+                51.786338295742446
+              ],
+              [
+                5.518792523018631,
+                51.7810936534861
+              ],
+              [
+                5.525321914854068,
+                51.78078683095334
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.518792523018631,
+                51.7810936534861
+              ],
+              [
+                5.519835191147419,
+                51.786338295742446
+              ],
+              [
+                5.513305156779412,
+                51.78664482733307
+              ],
+              [
+                5.512263706869147,
+                51.781400083178404
+              ],
+              [
+                5.518792523018631,
+                51.7810936534861
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.517750178018183,
+                51.775849408329876
+              ],
+              [
+                5.518792523018631,
+                51.7810936534861
+              ],
+              [
+                5.512263706869147,
+                51.781400083178404
+              ],
+              [
+                5.5112225797183205,
+                51.776155736159694
+              ],
+              [
+                5.517750178018183,
+                51.775849408329876
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5112225797183205,
+                51.776155736159694
+              ],
+              [
+                5.512263706869147,
+                51.781400083178404
+              ],
+              [
+                5.50573546661792,
+                51.7817061201279
+              ],
+              [
+                5.50469555726334,
+                51.776461671375614
+              ],
+              [
+                5.5112225797183205,
+                51.776155736159694
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.512263706869147,
+                51.781400083178404
+              ],
+              [
+                5.513305156779412,
+                51.78664482733307
+              ],
+              [
+                5.506775698363017,
+                51.786950966051904
+              ],
+              [
+                5.50573546661792,
+                51.7817061201279
+              ],
+              [
+                5.512263706869147,
+                51.781400083178404
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.50573546661792,
+                51.7817061201279
+              ],
+              [
+                5.506775698363017,
+                51.786950966051904
+              ],
+              [
+                5.500246816110564,
+                51.78725671199665
+              ],
+              [
+                5.499207802477154,
+                51.782011764432234
+              ],
+              [
+                5.50573546661792,
+                51.7817061201279
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.50469555726334,
+                51.776461671375614
+              ],
+              [
+                5.50573546661792,
+                51.7817061201279
+              ],
+              [
+                5.499207802477154,
+                51.782011764432234
+              ],
+              [
+                5.498169110865334,
+                51.77676721407526
+              ],
+              [
+                5.50469555726334,
+                51.776461671375614
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.503655970157047,
+                51.77121761987799
+              ],
+              [
+                5.50469555726334,
+                51.776461671375614
+              ],
+              [
+                5.498169110865334,
+                51.77676721407526
+              ],
+              [
+                5.497130741133024,
+                51.77152306100866
+              ],
+              [
+                5.503655970157047,
+                51.77121761987799
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.510181775184542,
+                51.77091178635988
+              ],
+              [
+                5.5112225797183205,
+                51.776155736159694
+              ],
+              [
+                5.50469555726334,
+                51.776461671375614
+              ],
+              [
+                5.503655970157047,
+                51.77121761987799
+              ],
+              [
+                5.510181775184542,
+                51.77091178635988
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.509141293125501,
+                51.76566823386186
+              ],
+              [
+                5.510181775184542,
+                51.77091178635988
+              ],
+              [
+                5.503655970157047,
+                51.77121761987799
+              ],
+              [
+                5.502616705156891,
+                51.76597396571789
+              ],
+              [
+                5.509141293125501,
+                51.76566823386186
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.502616705156891,
+                51.76597396571789
+              ],
+              [
+                5.503655970157047,
+                51.77121761987799
+              ],
+              [
+                5.497130741133024,
+                51.77152306100866
+              ],
+              [
+                5.496092693138232,
+                51.76627930531529
+              ],
+              [
+                5.502616705156891,
+                51.76597396571789
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.501577762120799,
+                51.76073070897814
+              ],
+              [
+                5.502616705156891,
+                51.76597396571789
+              ],
+              [
+                5.496092693138232,
+                51.76627930531529
+              ],
+              [
+                5.495054966739044,
+                51.76103594707798
+              ],
+              [
+                5.501577762120799,
+                51.76073070897814
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.500539140906785,
+                51.75548784974155
+              ],
+              [
+                5.501577762120799,
+                51.76073070897814
+              ],
+              [
+                5.495054966739044,
+                51.76103594707798
+              ],
+              [
+                5.494017561793627,
+                51.75579298637947
+              ],
+              [
+                5.500539140906785,
+                51.75548784974155
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.507061295862811,
+                51.755182321102474
+              ],
+              [
+                5.508101133398973,
+                51.760425078748455
+              ],
+              [
+                5.501577762120799,
+                51.76073070897814
+              ],
+              [
+                5.500539140906785,
+                51.75548784974155
+              ],
+              [
+                5.507061295862811,
+                51.755182321102474
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.508101133398973,
+                51.760425078748455
+              ],
+              [
+                5.509141293125501,
+                51.76566823386186
+              ],
+              [
+                5.502616705156891,
+                51.76597396571789
+              ],
+              [
+                5.501577762120799,
+                51.76073070897814
+              ],
+              [
+                5.508101133398973,
+                51.760425078748455
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.51462508036182,
+                51.76011905629136
+              ],
+              [
+                5.515666456832203,
+                51.76536210964963
+              ],
+              [
+                5.509141293125501,
+                51.76566823386186
+              ],
+              [
+                5.508101133398973,
+                51.760425078748455
+              ],
+              [
+                5.51462508036182,
+                51.76011905629136
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.52114960279751,
+                51.7598126415093
+              ],
+              [
+                5.522192196065046,
+                51.76505559298364
+              ],
+              [
+                5.515666456832203,
+                51.76536210964963
+              ],
+              [
+                5.51462508036182,
+                51.76011905629136
+              ],
+              [
+                5.52114960279751,
+                51.7598126415093
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.520107332456879,
+                51.75457008743081
+              ],
+              [
+                5.52114960279751,
+                51.7598126415093
+              ],
+              [
+                5.51462508036182,
+                51.76011905629136
+              ],
+              [
+                5.513584026450081,
+                51.75487640036473
+              ],
+              [
+                5.520107332456879,
+                51.75457008743081
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.513584026450081,
+                51.75487640036473
+              ],
+              [
+                5.51462508036182,
+                51.76011905629136
+              ],
+              [
+                5.508101133398973,
+                51.760425078748455
+              ],
+              [
+                5.507061295862811,
+                51.755182321102474
+              ],
+              [
+                5.513584026450081,
+                51.75487640036473
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5125432949547655,
+                51.749634141952505
+              ],
+              [
+                5.513584026450081,
+                51.75487640036473
+              ],
+              [
+                5.507061295862811,
+                51.755182321102474
+              ],
+              [
+                5.5060217803749545,
+                51.749939961006646
+              ],
+              [
+                5.5125432949547655,
+                51.749634141952505
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5190653849007765,
+                51.74932793083092
+              ],
+              [
+                5.520107332456879,
+                51.75457008743081
+              ],
+              [
+                5.513584026450081,
+                51.75487640036473
+              ],
+              [
+                5.5125432949547655,
+                51.749634141952505
+              ],
+              [
+                5.5190653849007765,
+                51.74932793083092
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.518023759986909,
+                51.74408617179235
+              ],
+              [
+                5.5190653849007765,
+                51.74932793083092
+              ],
+              [
+                5.5125432949547655,
+                51.749634141952505
+              ],
+              [
+                5.511502885733736,
+                51.74439228113739
+              ],
+              [
+                5.518023759986909,
+                51.74408617179235
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.511502885733736,
+                51.74439228113739
+              ],
+              [
+                5.5125432949547655,
+                51.749634141952505
+              ],
+              [
+                5.5060217803749545,
+                51.749939961006646
+              ],
+              [
+                5.504982586793421,
+                51.74469799854364
+              ],
+              [
+                5.511502885733736,
+                51.74439228113739
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.504982586793421,
+                51.74469799854364
+              ],
+              [
+                5.5060217803749545,
+                51.749939961006646
+              ],
+              [
+                5.4995008413729405,
+                51.750245388090796
+              ],
+              [
+                5.498462863377443,
+                51.74500332410858
+              ],
+              [
+                5.504982586793421,
+                51.74469799854364
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5060217803749545,
+                51.749939961006646
+              ],
+              [
+                5.507061295862811,
+                51.755182321102474
+              ],
+              [
+                5.500539140906785,
+                51.75548784974155
+              ],
+              [
+                5.4995008413729405,
+                51.750245388090796
+              ],
+              [
+                5.5060217803749545,
+                51.749939961006646
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.4995008413729405,
+                51.750245388090796
+              ],
+              [
+                5.500539140906785,
+                51.75548784974155
+              ],
+              [
+                5.494017561793627,
+                51.75579298637947
+              ],
+              [
+                5.492980478160235,
+                51.750550423302485
+              ],
+              [
+                5.4995008413729405,
+                51.750245388090796
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.498462863377443,
+                51.74500332410858
+              ],
+              [
+                5.4995008413729405,
+                51.750245388090796
+              ],
+              [
+                5.492980478160235,
+                51.750550423302485
+              ],
+              [
+                5.491943715697197,
+                51.74530825792965
+              ],
+              [
+                5.498462863377443,
+                51.74500332410858
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.544113005895259,
+                51.742857813076284
+              ],
+              [
+                5.545159494111576,
+                51.748099163721335
+              ],
+              [
+                5.538635104818614,
+                51.74840694408702
+              ],
+              [
+                5.53758983250734,
+                51.74316549115044
+              ],
+              [
+                5.544113005895259,
+                51.742857813076284
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.545159494111576,
+                51.748099163721335
+              ],
+              [
+                5.546206306441775,
+                51.75334091178414
+              ],
+              [
+                5.539680700875881,
+                51.75364879447731
+              ],
+              [
+                5.538635104818614,
+                51.74840694408702
+              ],
+              [
+                5.545159494111576,
+                51.748099163721335
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.538635104818614,
+                51.74840694408702
+              ],
+              [
+                5.539680700875881,
+                51.75364879447731
+              ],
+              [
+                5.533155669881724,
+                51.75395628458454
+              ],
+              [
+                5.532111290044529,
+                51.748714331995586
+              ],
+              [
+                5.538635104818614,
+                51.74840694408702
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.53758983250734,
+                51.74316549115044
+              ],
+              [
+                5.538635104818614,
+                51.74840694408702
+              ],
+              [
+                5.532111290044529,
+                51.748714331995586
+              ],
+              [
+                5.531067233585423,
+                51.74347277689627
+              ],
+              [
+                5.53758983250734,
+                51.74316549115044
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.531067233585423,
+                51.74347277689627
+              ],
+              [
+                5.532111290044529,
+                51.748714331995586
+              ],
+              [
+                5.525588050001293,
+                51.74902132754442
+              ],
+              [
+                5.52454520934136,
+                51.743779670411115
+              ],
+              [
+                5.531067233585423,
+                51.74347277689627
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.52454520934136,
+                51.743779670411115
+              ],
+              [
+                5.525588050001293,
+                51.74902132754442
+              ],
+              [
+                5.5190653849007765,
+                51.74932793083092
+              ],
+              [
+                5.518023759986909,
+                51.74408617179235
+              ],
+              [
+                5.52454520934136,
+                51.743779670411115
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.525588050001293,
+                51.74902132754442
+              ],
+              [
+                5.526631213671394,
+                51.754263382203234
+              ],
+              [
+                5.520107332456879,
+                51.75457008743081
+              ],
+              [
+                5.5190653849007765,
+                51.74932793083092
+              ],
+              [
+                5.525588050001293,
+                51.74902132754442
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.532111290044529,
+                51.748714331995586
+              ],
+              [
+                5.533155669881724,
+                51.75395628458454
+              ],
+              [
+                5.526631213671394,
+                51.754263382203234
+              ],
+              [
+                5.525588050001293,
+                51.74902132754442
+              ],
+              [
+                5.532111290044529,
+                51.748714331995586
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.533155669881724,
+                51.75395628458454
+              ],
+              [
+                5.534200373239614,
+                51.75919863458038
+              ],
+              [
+                5.527674700494114,
+                51.759505834304804
+              ],
+              [
+                5.526631213671394,
+                51.754263382203234
+              ],
+              [
+                5.533155669881724,
+                51.75395628458454
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.526631213671394,
+                51.754263382203234
+              ],
+              [
+                5.527674700494114,
+                51.759505834304804
+              ],
+              [
+                5.52114960279751,
+                51.7598126415093
+              ],
+              [
+                5.520107332456879,
+                51.75457008743081
+              ],
+              [
+                5.526631213671394,
+                51.754263382203234
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.527674700494114,
+                51.759505834304804
+              ],
+              [
+                5.528718510611986,
+                51.76474868376638
+              ],
+              [
+                5.522192196065046,
+                51.76505559298364
+              ],
+              [
+                5.52114960279751,
+                51.7598126415093
+              ],
+              [
+                5.527674700494114,
+                51.759505834304804
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.534200373239614,
+                51.75919863458038
+              ],
+              [
+                5.535245400260887,
+                51.76444138190032
+              ],
+              [
+                5.528718510611986,
+                51.76474868376638
+              ],
+              [
+                5.527674700494114,
+                51.759505834304804
+              ],
+              [
+                5.534200373239614,
+                51.75919863458038
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5407266208219035,
+                51.75889104223857
+              ],
+              [
+                5.541772864799527,
+                51.764133687287995
+              ],
+              [
+                5.535245400260887,
+                51.76444138190032
+              ],
+              [
+                5.534200373239614,
+                51.75919863458038
+              ],
+              [
+                5.5407266208219035,
+                51.75889104223857
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.539680700875881,
+                51.75364879447731
+              ],
+              [
+                5.5407266208219035,
+                51.75889104223857
+              ],
+              [
+                5.534200373239614,
+                51.75919863458038
+              ],
+              [
+                5.533155669881724,
+                51.75395628458454
+              ],
+              [
+                5.539680700875881,
+                51.75364879447731
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.546206306441775,
+                51.75334091178414
+              ],
+              [
+                5.547253443028777,
+                51.75858305718195
+              ],
+              [
+                5.5407266208219035,
+                51.75889104223857
+              ],
+              [
+                5.539680700875881,
+                51.75364879447731
+              ],
+              [
+                5.546206306441775,
+                51.75334091178414
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.547253443028777,
+                51.75858305718195
+              ],
+              [
+                5.548300904015582,
+                51.76382559983195
+              ],
+              [
+                5.541772864799527,
+                51.764133687287995
+              ],
+              [
+                5.5407266208219035,
+                51.75889104223857
+              ],
+              [
+                5.547253443028777,
+                51.75858305718195
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.553780839647941,
+                51.75827467931312
+              ],
+              [
+                5.554829517696644,
+                51.76351711943473
+              ],
+              [
+                5.548300904015582,
+                51.76382559983195
+              ],
+              [
+                5.547253443028777,
+                51.75858305718195
+              ],
+              [
+                5.553780839647941,
+                51.75827467931312
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.552732486367232,
+                51.75303263640766
+              ],
+              [
+                5.553780839647941,
+                51.75827467931312
+              ],
+              [
+                5.547253443028777,
+                51.75858305718195
+              ],
+              [
+                5.546206306441775,
+                51.75334091178414
+              ],
+              [
+                5.552732486367232,
+                51.75303263640766
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.559259240439983,
+                51.752723968250486
+              ],
+              [
+                5.560308810467016,
+                51.757965908534686
+              ],
+              [
+                5.553780839647941,
+                51.75827467931312
+              ],
+              [
+                5.552732486367232,
+                51.75303263640766
+              ],
+              [
+                5.559259240439983,
+                51.752723968250486
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.560308810467016,
+                51.757965908534686
+              ],
+              [
+                5.561358705630211,
+                51.76320824599895
+              ],
+              [
+                5.554829517696644,
+                51.76351711943473
+              ],
+              [
+                5.553780839647941,
+                51.75827467931312
+              ],
+              [
+                5.560308810467016,
+                51.757965908534686
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.557161075221242,
+                51.74224127955369
+              ],
+              [
+                5.558209995405803,
+                51.74748242522923
+              ],
+              [
+                5.551684457711355,
+                51.74779099080118
+              ],
+              [
+                5.550636753537236,
+                51.742549742576465
+              ],
+              [
+                5.557161075221242,
+                51.74224127955369
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.558209995405803,
+                51.74748242522923
+              ],
+              [
+                5.559259240439983,
+                51.752723968250486
+              ],
+              [
+                5.552732486367232,
+                51.75303263640766
+              ],
+              [
+                5.551684457711355,
+                51.74779099080118
+              ],
+              [
+                5.558209995405803,
+                51.74748242522923
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.551684457711355,
+                51.74779099080118
+              ],
+              [
+                5.552732486367232,
+                51.75303263640766
+              ],
+              [
+                5.546206306441775,
+                51.75334091178414
+              ],
+              [
+                5.545159494111576,
+                51.748099163721335
+              ],
+              [
+                5.551684457711355,
+                51.74779099080118
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.550636753537236,
+                51.742549742576465
+              ],
+              [
+                5.551684457711355,
+                51.74779099080118
+              ],
+              [
+                5.545159494111576,
+                51.748099163721335
+              ],
+              [
+                5.544113005895259,
+                51.742857813076284
+              ],
+              [
+                5.550636753537236,
+                51.742549742576465
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.554829517696644,
+                51.76351711943473
+              ],
+              [
+                5.555878520656578,
+                51.76875995668961
+              ],
+              [
+                5.549348689545274,
+                51.769068539651244
+              ],
+              [
+                5.548300904015582,
+                51.76382559983195
+              ],
+              [
+                5.554829517696644,
+                51.76351711943473
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.555878520656578,
+                51.76875995668961
+              ],
+              [
+                5.556927848671068,
+                51.774003190994826
+              ],
+              [
+                5.550396799761024,
+                51.77431187655692
+              ],
+              [
+                5.549348689545274,
+                51.769068539651244
+              ],
+              [
+                5.555878520656578,
+                51.76875995668961
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.556927848671068,
+                51.774003190994826
+              ],
+              [
+                5.557977501883521,
+                51.779246822267396
+              ],
+              [
+                5.551445234806076,
+                51.779555610466026
+              ],
+              [
+                5.550396799761024,
+                51.77431187655692
+              ],
+              [
+                5.556927848671068,
+                51.774003190994826
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.557977501883521,
+                51.779246822267396
+              ],
+              [
+                5.559027480437423,
+                51.78449085042425
+              ],
+              [
+                5.552493994823764,
+                51.784799741295515
+              ],
+              [
+                5.551445234806076,
+                51.779555610466026
+              ],
+              [
+                5.557977501883521,
+                51.779246822267396
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "stroke": "#ff9900",
+        "stroke-opacity": 0.35,
+        "fill": "#ff9900",
+        "fill-opacity": 0.05,
+        "stroke-width": 1
       }
     }
   ],
