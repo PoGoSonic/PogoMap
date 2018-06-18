@@ -4,11 +4,13 @@ Windows command line script and partly manual procedure to create a Pokemon Go M
 
 ## Requirements
 * Ingress account
-* Firefox with Greasemonkey or Chrome with ...
+* Firefox or Chrome with Greasemonkey or Tampermonkey (might work better with IITC version)
 * IITC/Ingress Intel total Conversion Plugin for GreaseMonkey: https://iitc.me/desktop/, version 0.26.0.20170430.123533
   Disabled line 34 to 46 as player detection was not working. Disable IITC to login Ingress Intel
 * IITC plugin: show list of portals // modified with export button, version 0.2.1.20170108.21732
-* JQ json manipulator by Stedolan: https://stedolan.github.io/jq/, manual: https://stedolan.github.io/jq/manual
+* JQ json manipulator by Stedolan: https://stedolan.github.io/jq/, manual: https://stedolan.github.io/jq/manual, faq: https://github.com/stedolan/jq/wiki/FAQ, cookbook: https://github.com/stedolan/jq/wiki/Cookbook
+  Using the more limited version 1.4 as 1.5 was giving unexpected exceptions, this might have to do with a 37 character filename limit or a 63 character full path limit.
+  Daily build artifacts can be found here: https://ci.appveyor.com/project/stedolan/jq
 * Serial Line Editor sed: http://gnuwin32.sourceforge.net/packages/sed.htm, manual: linux man pages (online)
 * CSVfix by Neil Butterworth: https://bitbucket.org/neilb/csvfix/downloads/
 * OSMCoverer by MzHub: https://github.com/MzHub/osmcoverer, download: https://github.com/MzHub/osmcoverer/releases
@@ -39,7 +41,7 @@ IITC Exports locations in three columns:
 
 My data is enriched with Pokemon GO data and subsequent scripting needs this information:
 
-| Name | Sub Name | Latitude | Longitude | OSM Link | Google Maps Link | In Ingress | PoGo Type | Empty |
+| Name | Sub Name | Latitude | Longitude | Map Link | City | In Ingress | PoGo Type | Empty |
 |---|---|---|---|---|---|---|---|---|
 
 1. Original name
@@ -47,14 +49,15 @@ My data is enriched with Pokemon GO data and subsequent scripting needs this inf
 1. Original latitude
 1. Original lontitude
 1. Open Street Map link: `=HYPERLINK( SUBSTITUTE( SUBSTITUTE( Settings!$B$2, "%lat", $C4), "%lon", $D4), "OSM")` http://www.openstreetmap.org/?mlat=%lat&mlon=%lon&zoom=16 
-1. Google Maps link: `=HYPERLINK( SUBSTITUTE( SUBSTITUTE( Settings!$B$3, "%lat", $C2), "%lon", $D2), "Google")` http://maps.google.com/maps?q=%lat,%lon
+   or: Google Maps link: `=HYPERLINK( SUBSTITUTE( SUBSTITUTE( Settings!$B$3, "%lat", $C2), "%lon", $D2), "Google")` http://maps.google.com/maps?q=%lat,%lon
+1. City or Area for filtering, map size needs to be controlled and limited to <1Mb to be able to use http://geojson.io with a geojsno file from github without login
 1. Available in Ingress: Yes/No. Will only be no for removed pokestops and possible future Pokemon Go submitted location
 1. Pokemon GO Location type: Unknown/Stop/Gym/ExGym/None/Removed
 1. Empty column, the extra comma is used by the convert script
 
-* Edit original file in a spreadsheet to match the required format or use a script: `bin\csvfix\csvfix.exe put -p 2 -v "" input.csv | bin\csvfix\csvfix.exe put -p 5 -v "OSM" | bin\csvfix\csvfix.exe put -p 6 -v "Google" | bin\csvfix\csvfix.exe put -p 7 -v "Yes" | bin\csvfix\csvfix.exe put -p 8 -v "Unknown" | bin\csvfix\csvfix.exe put -p 9 -v "" > output.csv`
+* Edit original file in a spreadsheet to match the required format or use a script: `bin\csvfix\csvfix.exe put -p 2 -v "" input.csv | bin\csvfix\csvfix.exe put -p 5 -v "OSM" | bin\csvfix\csvfix.exe put -p 6 -v "" | bin\csvfix\csvfix.exe put -p 7 -v "Yes" | bin\csvfix\csvfix.exe put -p 8 -v "Unknown" | bin\csvfix\csvfix.exe put -p 9 -v "" > output.csv`
 * Sort a file in the new format if needed: `bin\csvfix\csvfix.exe sort -rh -f 1:AI,3:N,4:N input.csv > output.csv`
-  And adding quotes and CRLF.
+  And adding quotes and CRLF (should be unchanged as sorting is already done after gathering).
 * Merge old and new file and sort again: `bin\csvfix\csvfix.exe unique -f 1,3,4 old.csv new.csv | bin\csvfix\csvfix.exe sort -f 1:AI,3:N,4:N > output.csv`
 
 ## Generate parks map
