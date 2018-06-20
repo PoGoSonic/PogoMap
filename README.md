@@ -30,7 +30,7 @@ Windows command line script and partly manual procedure to create a Pokemon Go M
 * Press Portals List (IITC botom of top right box)
 * Scroll down Portals list
 * Press Export portals
-* Sort and trim file: `bin\csvfix\csvfix sort -f 1:AI,2:N,3:N input.csv | bin\csvfix\csvfix.exe trim -f 1 > output.csv`
+* Sort and trim file: `bin\csvfix\csvfix sort -f 1:AI,2:N,3:N export.csv | bin\csvfix\csvfix.exe trim -f 1 > export_sort.csv`
   Original file with LF and only the first column double quoted is saved with Windows CRLF and all three columns double quoted
 
 ## Merging location data
@@ -55,10 +55,10 @@ My data is enriched with Pokemon GO data and subsequent scripting needs this inf
 1. Pokemon GO Location type: Unknown/Stop/Gym/ExGym/None/Removed
 1. Empty column, the extra comma is used by the convert script
 
-* Edit original file in a spreadsheet to match the required format or use a script: `bin\csvfix\csvfix.exe put -p 2 -v "" input.csv | bin\csvfix\csvfix.exe put -p 5 -v "OSM" | bin\csvfix\csvfix.exe put -p 6 -v "" | bin\csvfix\csvfix.exe put -p 7 -v "Yes" | bin\csvfix\csvfix.exe put -p 8 -v "Unknown" | bin\csvfix\csvfix.exe put -p 9 -v "" > output.csv`
-* Sort a file in the new format if needed: `bin\csvfix\csvfix.exe sort -rh -f 1:AI,3:N,4:N input.csv > output.csv`
+* Edit original file in a spreadsheet to match the required format or use a script: `bin\csvfix\csvfix.exe put -p 2 -v "" export_sort.csv | bin\csvfix\csvfix.exe put -p 5 -v "OSM" | bin\csvfix\csvfix.exe put -p 6 -v "" | bin\csvfix\csvfix.exe put -p 7 -v "Yes" | bin\csvfix\csvfix.exe put -p 8 -v "Unknown" | bin\csvfix\csvfix.exe put -p 9 -v "" > output.csv`
+* Sort a file in the new format if needed: `bin\csvfix\csvfix.exe sort -rh -f 1:AI,3:N,4:N output.csv > output_sort.csv`
   And adding quotes and CRLF (should be unchanged as sorting is already done after gathering).
-* Merge old and new file and sort again: `bin\csvfix\csvfix.exe unique -f 1,3,4 old.csv new.csv | bin\csvfix\csvfix.exe sort -f 1:AI,3:N,4:N > output.csv`
+* Merge old and new file and sort again: `bin\csvfix\csvfix.exe unique -f 1,3,4 old.csv output_sort.csv | bin\csvfix\csvfix.exe sort -f 1:AI,3:N,4:N > output_merge.csv`
 
 ## Generate parks map
 * Open: http://overpass-turbo.eu/s/ujd
