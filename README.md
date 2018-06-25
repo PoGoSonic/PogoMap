@@ -61,7 +61,7 @@ My data is enriched with Pokemon GO data and subsequent scripting needs this inf
 * Merge old and new file and sort again: `bin\csvfix\csvfix.exe unique -f 1,3,4 old.csv output_sort.csv | bin\csvfix\csvfix.exe sort -f 1:AI,3:N,4:N > output_merge.csv`
 
 ## Generate parks map
-* Open: http://overpass-turbo.eu/s/ujd
+* Open: http://overpass-turbo.eu/s/ujd, http://overpass-turbo.eu/s/vs3 (2018-01-16)
 * Take into view the map area you want to generate for
 * Press run
 * Press Export download geojson
@@ -76,12 +76,19 @@ You will see the created map with locations and S2 grids
 ## Sharing on Google Maps
 * Open: https://www.google.com/maps/d/
 * Create a new map give it a name and description, for example: 
-  > Red: Ex Gyms and S2 Level 13 grid (1 per cell)
-  > Orange: Gym location and S2 Level 14 grid (0-1:0, 2-5: 1, 6-19: 2, 20-34: 3, 35+: 4 gyms)
-  > Blue: Stop location and S2 Level 17 grid (1 per cell)
+  >         S2 Level  6 Geoblocking, Regional pokemon
+  >         S2 Level 10 Pokemon caught location
+  >         S2 Level 12 One Ex raid invitation per cycle
+  > Red:    S2 Level 13 Ex Gyms and grid (1 per cell)
+  > Orange: S2 Level 14 Gym location and (0-1:0, 2-5: 1, 6-19: 2, 20-59: 3, (27+: 4 gyms?))
+  >         S2 Level 16 Pokestop viewing distance
+  > Blue:   S2 Level 17 Stop location and (1 per cell)
+  >         S2 Level 20 Pokemon spawn locations & center in land use for ex raids
   > Gray: Unknown type
   > Black: Only portal not a stop
   > Maroon: Removed stop/gym
+  > See: https://pokemongohub.net/post/article/comprehensive-guide-s2-cells-pokemon-go/
+  > See: https://pokemongo.gamepress.gg/s2-cells-foundation-pokemon-go-design
 * Press import and select the KML file
   Google Maps looses location colors and symbols and grid colors and there was an error importing the KML file
 
