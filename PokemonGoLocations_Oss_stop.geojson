@@ -12,8 +12,8 @@
       "properties": {
         "cellid": "47c6fc5e3ef45991",
         "marker-color": "#40B0F0",
-        "name": "Stop: 'T Gengske",
-        "title": "Stop: 'T Gengske",
+        "name": "Stop: T Gengske",
+        "title": "Stop: T Gengske",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -221,6 +221,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.532947,
+          51.768573
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc599f9ba349",
+        "marker-color": "#40B0F0",
+        "name": "Stop: De Trekschuit",
+        "title": "Stop: De Trekschuit",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.49413,
           51.760731
         ]
@@ -284,6 +302,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Draak",
         "title": "Stop: Draak",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.495756,
+          51.769352
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb808f3e3d4b",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Drijvende Constructie Ijzertijdboerderij",
+        "title": "Stop: Drijvende Constructie Ijzertijdboerderij",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -599,42 +635,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.501853,
-          51.750677
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc9bdae2bc49",
-        "marker-color": "#40B0F0",
-        "name": "Stop: Grand Fountain",
-        "title": "Stop: Grand Fountain",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.506187,
-          51.75789
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc859e2ead61",
-        "marker-color": "#40B0F0",
-        "name": "Stop: Hand at Station; Oss West",
-        "title": "Stop: Hand at Station; Oss West",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.499971,
           51.762927
         ]
@@ -869,12 +869,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.506187,
-          51.763185
+          5.53385,
+          51.77451
         ]
       },
       "properties": {
-        "cellid": "47c6fc87b2a993eb",
+        "cellid": "47c6fc5b286abb87",
         "marker-color": "#40B0F0",
         "name": "Stop: Kabelbaan",
         "title": "Stop: Kabelbaan",
@@ -968,6 +968,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Logo Osse Tennisclub",
         "title": "Stop: Logo Osse Tennisclub",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.535825,
+          51.767271
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc577e263725",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Louis de Bourbon",
+        "title": "Stop: Louis de Bourbon",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1157,6 +1175,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.504096,
+          51.769879
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7c1875989f",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Mozaïek Kunst",
+        "title": "Stop: Mozaïek Kunst",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.506466,
           51.753863
         ]
@@ -1220,24 +1256,6 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Ontvangende kunstpop",
         "title": "Stop: Ontvangende kunstpop",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.546831,
-          51.754198
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fd02a4248535",
-        "marker-color": "#40B0F0",
-        "name": "Stop: Ossekop: Removed ?",
-        "title": "Stop: Ossekop: Removed ?",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1337,6 +1355,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.539153,
+          51.755884
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcfb70ef4e83",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Playground Beukenstraat [Beukenstraat]",
+        "title": "Stop: Playground Beukenstraat [Beukenstraat]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.514469,
+          51.778484
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc6fac601dcf",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Playground Edelenburg",
+        "title": "Stop: Playground Edelenburg",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.498342,
           51.775493
         ]
@@ -1346,6 +1400,42 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Playground Kraaienest",
         "title": "Stop: Playground Kraaienest",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.505547,
+          51.777674
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc70b634e755",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Playground Polderkade",
+        "title": "Stop: Playground Polderkade",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.504492,
+          51.77626
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc79ff1ac31f",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Playground Zinker",
+        "title": "Stop: Playground Zinker",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1517,6 +1607,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.533151,
+          51.77444
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5b25514641",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Skatebaan Kuiper Rietbergstraat [Kuiper rietbergstraat 142]",
+        "title": "Stop: Skatebaan Kuiper Rietbergstraat [Kuiper rietbergstraat 142]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.528572,
           51.769213
         ]
@@ -1526,6 +1634,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Sneeuwpop",
         "title": "Stop: Sneeuwpop",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.538312,
+          51.759585
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf97abf5c27",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Soccerfield Zuiderpark",
+        "title": "Stop: Soccerfield Zuiderpark",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1553,24 +1679,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.505929,
-          51.77363
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc7bb50fe9db",
-        "marker-color": "#40B0F0",
-        "name": "Stop: Speeltuin",
-        "title": "Stop: Speeltuin",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.498989,
           51.754974
         ]
@@ -1580,6 +1688,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin Albarda",
         "title": "Stop: Speeltuin Albarda",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.507113,
+          51.77909
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc711e48f187",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Buitenhof",
+        "title": "Stop: Speeltuin Buitenhof",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1607,6 +1733,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.520733,
+          51.779438
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc69124ac45d",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Haagpoort",
+        "title": "Stop: Speeltuin Haagpoort",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.495284,
           51.758215
         ]
@@ -1616,6 +1760,60 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin Heihoek",
         "title": "Stop: Speeltuin Heihoek",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.527487,
+          51.774519
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5cd8ed992f",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Kuipers Rietberg",
+        "title": "Stop: Speeltuin Kuipers Rietberg",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.503317,
+          51.771561
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7954001127",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Lichtmot",
+        "title": "Stop: Speeltuin Lichtmot",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.531099,
+          51.767759
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5918f6b461",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Schering",
+        "title": "Stop: Speeltuin Schering",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1652,6 +1850,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin Tinnegieter",
         "title": "Stop: Speeltuin Tinnegieter",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.489799,
+          51.76537
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb7f49906ae1",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Ussen",
+        "title": "Stop: Speeltuin Ussen",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1742,6 +1958,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Statue Jurgensplein",
         "title": "Stop: Statue Jurgensplein",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.52694,
+          51.769633
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5e844ca31f",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Stolpersteine",
+        "title": "Stop: Stolpersteine",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -2012,6 +2246,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Welkom in de Dichtetsbuurt",
         "title": "Stop: Welkom in de Dichtetsbuurt",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.533088,
+          51.763009
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf7bef76a6b",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Wijsheid in de Geneeskunde",
+        "title": "Stop: Wijsheid in de Geneeskunde",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -2489,6 +2741,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.505929,
+          51.77363
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7bb50fe9db",
+        "marker-color": "#ff9900",
+        "name": "Gym: Speeltuin [Purperbeer]",
+        "title": "Gym: Speeltuin [Purperbeer]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.512807,
           51.755554
         ]
@@ -2669,6 +2939,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.501185,
+          51.747477
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc98e264ba8b",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Het Hert",
+        "title": "Ex-raid Gym: Het Hert",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.496448,
           51.769631
         ]
@@ -2813,6 +3101,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.531531,
+          51.776036
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc44a44d64bf",
+        "marker-color": "#808080",
+        "name": "Unknown: Archeologische Opgravingen",
+        "title": "Unknown: Archeologische Opgravingen",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.545068,
           51.769153
         ]
@@ -2822,42 +3128,6 @@
         "marker-color": "#808080",
         "name": "Unknown: CRUYFF COURT FC OSS",
         "title": "Unknown: CRUYFF COURT FC OSS",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.503801,
-          51.770002
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc7c1f322a81",
-        "marker-color": "#808080",
-        "name": "Unknown: De Speelbes",
-        "title": "Unknown: De Speelbes",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.532947,
-          51.768573
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc599f9ba349",
-        "marker-color": "#808080",
-        "name": "Unknown: De Trekschuit",
-        "title": "Unknown: De Trekschuit",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2885,15 +3155,105 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.495756,
-          51.769352
+          5.535332,
+          51.778382
         ]
       },
       "properties": {
-        "cellid": "47c6fb808f3e3d4b",
+        "cellid": "47c6fc45b1cdad11",
         "marker-color": "#808080",
-        "name": "Unknown: Drijvende Constructie Ijzertijdboerderij",
-        "title": "Unknown: Drijvende Constructie Ijzertijdboerderij",
+        "name": "Unknown: Drenkkuil",
+        "title": "Unknown: Drenkkuil",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.53289,
+          51.779059
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc446b46447f",
+        "marker-color": "#808080",
+        "name": "Unknown: Grote Kuil",
+        "title": "Unknown: Grote Kuil",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.534357,
+          51.7504
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fce5bc5a69e3",
+        "marker-color": "#808080",
+        "name": "Unknown: Hazenakker Soccerfield",
+        "title": "Unknown: Hazenakker Soccerfield",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.534364,
+          51.751434
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fce50b26f577",
+        "marker-color": "#808080",
+        "name": "Unknown: Ijzerwerk",
+        "title": "Unknown: Ijzerwerk",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.531773,
+          51.75364
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcefe6b9a16b",
+        "marker-color": "#808080",
+        "name": "Unknown: Joodse Begraafplaats",
+        "title": "Unknown: Joodse Begraafplaats",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.534439,
+          51.77453
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5ad0db2645",
+        "marker-color": "#808080",
+        "name": "Unknown: Kabelbaan Kuiper Rietbergstraat [Kuiper Rietbergstraat]",
+        "title": "Unknown: Kabelbaan Kuiper Rietbergstraat [Kuiper Rietbergstraat]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -2939,87 +3299,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.535825,
-          51.767271
+          5.539423,
+          51.755536
         ]
       },
       "properties": {
-        "cellid": "47c6fc577e263725",
+        "cellid": "47c6fcfb651c464d",
         "marker-color": "#808080",
-        "name": "Unknown: Louis de Bourbon",
-        "title": "Unknown: Louis de Bourbon",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.504096,
-          51.769879
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc7c1875989f",
-        "marker-color": "#808080",
-        "name": "Unknown: Mozaïek Kunst",
-        "title": "Unknown: Mozaïek Kunst",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.514469,
-          51.778484
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc6fac601dcf",
-        "marker-color": "#808080",
-        "name": "Unknown: Playground Edelenburg",
-        "title": "Unknown: Playground Edelenburg",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.505547,
-          51.777674
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc70b634e755",
-        "marker-color": "#808080",
-        "name": "Unknown: Playground Polderkade",
-        "title": "Unknown: Playground Polderkade",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.504492,
-          51.77626
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc79ff1ac31f",
-        "marker-color": "#808080",
-        "name": "Unknown: Playground Zinker",
-        "title": "Unknown: Playground Zinker",
+        "name": "Unknown: Playground Iepenstraat",
+        "title": "Unknown: Playground Iepenstraat",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3047,15 +3335,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.507113,
-          51.77909
+          5.533164,
+          51.774454
         ]
       },
       "properties": {
-        "cellid": "47c6fc711e48f187",
+        "cellid": "47c6fc5b2557af33",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Buitenhof",
-        "title": "Unknown: Speeltuin Buitenhof",
+        "name": "Unknown: Skatebaan",
+        "title": "Unknown: Skatebaan",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3065,15 +3353,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.520733,
-          51.779438
+          5.549392,
+          51.768143
         ]
       },
       "properties": {
-        "cellid": "47c6fc69124ac45d",
+        "cellid": "47c6fdab4c613a73",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Haagpoort",
-        "title": "Unknown: Speeltuin Haagpoort",
+        "name": "Unknown: Speeltuin Adelaar",
+        "title": "Unknown: Speeltuin Adelaar",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.536405,
+          51.767419
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc577bc589ef",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Bourbon",
+        "title": "Unknown: Speeltuin Bourbon",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.531007,
+          51.766846
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc58e6e3bc7b",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Gripper",
+        "title": "Unknown: Speeltuin Gripper",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3101,51 +3425,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.527487,
-          51.774519
+          5.500836,
+          51.770787
         ]
       },
       "properties": {
-        "cellid": "47c6fc5cd8ed992f",
+        "cellid": "47c6fc7ed0edc121",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Kuipers Rietberg",
-        "title": "Unknown: Speeltuin Kuipers Rietberg",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.503317,
-          51.771561
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc7954001127",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Lichtmot",
-        "title": "Unknown: Speeltuin Lichtmot",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.531099,
-          51.767759
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5918f6b461",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Schering",
-        "title": "Unknown: Speeltuin Schering",
+        "name": "Unknown: Speeltuin Perzikhof",
+        "title": "Unknown: Speeltuin Perzikhof",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3173,15 +3461,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.543717,
-          51.77355
+          5.53603,
+          51.748648
         ]
       },
       "properties": {
-        "cellid": "47c6fc521e3d7879",
+        "cellid": "47c6fce4284dc2df",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Theodorus Dobbestraat",
-        "title": "Unknown: Speeltuin Theodorus Dobbestraat",
+        "name": "Unknown: Vernieuwing",
+        "title": "Unknown: Vernieuwing",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3191,15 +3479,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.489799,
-          51.76537
+          5.536317,
+          51.767424
         ]
       },
       "properties": {
-        "cellid": "47c6fb7f49906ae1",
+        "cellid": "47c6fc577beef5ab",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Ussen",
-        "title": "Unknown: Speeltuin Ussen",
+        "name": "Unknown: Vogelwijk; Louis de Bourbon speeltuin [Louis de Bourbon]",
+        "title": "Unknown: Vogelwijk; Louis de Bourbon speeltuin [Louis de Bourbon]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3209,15 +3497,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.52694,
-          51.769633
+          5.536089,
+          51.759321
         ]
       },
       "properties": {
-        "cellid": "47c6fc5e844ca31f",
+        "cellid": "47c6fcf98ba7ca31",
         "marker-color": "#808080",
-        "name": "Unknown: Stolpersteine",
-        "title": "Unknown: Stolpersteine",
+        "name": "Unknown: Wall art Zuid",
+        "title": "Unknown: Wall art Zuid",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3245,6 +3533,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.531816,
+          51.762754
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf7b2f88bf9",
+        "marker-color": "#808080",
+        "name": "Unknown: Welkom Op De Wereld",
+        "title": "Unknown: Welkom Op De Wereld",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.507187,
           51.76535
         ]
@@ -3263,33 +3569,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.533088,
-          51.763009
+          5.532855,
+          51.777046
         ]
       },
       "properties": {
-        "cellid": "47c6fcf7bef76a6b",
+        "cellid": "47c6fc44ed4835af",
         "marker-color": "#808080",
-        "name": "Unknown: Wijsheid in de Geneeskunde",
-        "title": "Unknown: Wijsheid in de Geneeskunde",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.522022,
-          51.769232
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc60bcfa2569",
-        "marker-color": "#808080",
-        "name": "Unknown: Willibrordus Kerk",
-        "title": "Unknown: Willibrordus Kerk",
+        "name": "Unknown: Zwervend Erf",
+        "title": "Unknown: Zwervend Erf",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3353,6 +3641,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.503801,
+          51.770002
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7c1f322a81",
+        "marker-color": "#000000",
+        "name": "Not Availble: De Speelbes",
+        "title": "Not Availble: De Speelbes",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.513008,
           51.754259
         ]
@@ -3362,6 +3668,24 @@
         "marker-color": "#000000",
         "name": "Not Availble: Glijbaan",
         "title": "Not Availble: Glijbaan",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.506187,
+          51.75789
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc859e2ead61",
+        "marker-color": "#000000",
+        "name": "Not Availble: Hand at Station; Oss West",
+        "title": "Not Availble: Hand at Station; Oss West",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -3533,24 +3857,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.526619,
-          51.76519
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5f64768207",
-        "marker-color": "#000000",
-        "name": "Not Availble: Statute in Stone of Female; Oss",
-        "title": "Not Availble: Statute in Stone of Female; Oss",
-        "marker-size": "small",
-        "marker-symbol": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.526279,
           51.765439
         ]
@@ -3578,6 +3884,24 @@
         "marker-color": "#000000",
         "name": "Not Availble: Violin in Stone",
         "title": "Not Availble: Violin in Stone",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.522022,
+          51.769232
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc60bcfa2569",
+        "marker-color": "#000000",
+        "name": "Not Availble: Willibrordus Kerk",
+        "title": "Not Availble: Willibrordus Kerk",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -3623,6 +3947,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.501853,
+          51.750677
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc9bdae2bc49",
+        "marker-color": "#800000",
+        "name": "Removed: Grand Fountain",
+        "title": "Removed: Grand Fountain",
+        "marker-size": "small",
+        "marker-symbol": "cross"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.546831,
+          51.754198
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fd02a4248535",
+        "marker-color": "#800000",
+        "name": "Removed: Ossekop: Removed ?",
+        "title": "Removed: Ossekop: Removed ?",
+        "marker-size": "small",
+        "marker-symbol": "cross"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.525881,
           51.757854
         ]
@@ -3641,6 +4001,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.543717,
+          51.77355
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc521e3d7879",
+        "marker-color": "#800000",
+        "name": "Removed: Speeltuin Theodorus Dobbestraat",
+        "title": "Removed: Speeltuin Theodorus Dobbestraat",
+        "marker-size": "small",
+        "marker-symbol": "cross"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.550849,
           51.767795
         ]
@@ -3648,8 +4026,8 @@
       "properties": {
         "cellid": "47c6fdab6aed4435",
         "marker-color": "#000080",
-        "name": "Pending approval: Basket Adelaar [OCL]",
-        "title": "Pending approval: Basket Adelaar [OCL]",
+        "name": "Pending approval: Basket Adelaar",
+        "title": "Pending approval: Basket Adelaar",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3659,15 +4037,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.5053137,
-          51.747467
+          5.50412,
+          51.75711
         ]
       },
       "properties": {
-        "cellid": "47c6fc99d4fdb575",
+        "cellid": "47c6fc84e27bc833",
         "marker-color": "#000080",
-        "name": "Pending approval: Boom Da Costa [PLP 20180620]",
-        "title": "Pending approval: Boom Da Costa [PLP 20180620]",
+        "name": "Pending approval: Crossfield Kids West [Treubstraat 22]",
+        "title": "Pending approval: Crossfield Kids West [Treubstraat 22]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -3684,638 +4062,8 @@
       "properties": {
         "cellid": "47c6fc4436eb8e51",
         "marker-color": "#000080",
-        "name": "Pending approval: De Spie nieuwe horzak [PLP]",
-        "title": "Pending approval: De Spie nieuwe horzak [PLP]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.501032,
-          51.778246
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc77a35d52ad",
-        "marker-color": "#000080",
-        "name": "Pending approval: Evenwichtsbalk Rietkraag [OCL]",
-        "title": "Pending approval: Evenwichtsbalk Rietkraag [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.544551,
-          51.768615
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc546d86a4eb",
-        "marker-color": "#000080",
-        "name": "Pending approval: Fontein in het park [OCL]",
-        "title": "Pending approval: Fontein in het park [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5238324,
-          51.7669506
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5fc603d0f7",
-        "marker-color": "#000080",
-        "name": "Pending approval: Gedicht bij Emté op de muur [OCL]",
-        "title": "Pending approval: Gedicht bij Emté op de muur [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.514254,
-          51.771408
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc64653198b1",
-        "marker-color": "#000080",
-        "name": "Pending approval: Gele kunstwerk bij Pauluskerk [OCL]",
-        "title": "Pending approval: Gele kunstwerk bij Pauluskerk [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.534439,
-          51.77453
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5ad0db2645",
-        "marker-color": "#000080",
-        "name": "Pending approval: Kabelbaan Kuiper Rietbergstraat [PLP]",
-        "title": "Pending approval: Kabelbaan Kuiper Rietbergstraat [PLP]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5296032,
-          51.7699271
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5eaa925f57",
-        "marker-color": "#000080",
-        "name": "Pending approval: Meerpaal bij Visserskerk [OCL]",
-        "title": "Pending approval: Meerpaal bij Visserskerk [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5104832,
-          51.7513942
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc9110b2f5c1",
-        "marker-color": "#000080",
-        "name": "Pending approval: Mozaiek Dichtersbuurt [OCL]",
-        "title": "Pending approval: Mozaiek Dichtersbuurt [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.532441,
-          51.777969
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc44624d36cb",
-        "marker-color": "#000080",
-        "name": "Pending approval: Nieuwe Horzak-wijk [OCL ToDo]",
-        "title": "Pending approval: Nieuwe Horzak-wijk [OCL ToDo]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.524535,
-          51.768031
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5e49b89f67",
-        "marker-color": "#000080",
-        "name": "Pending approval: Oss mural op V&D rolluik [OCL]",
-        "title": "Pending approval: Oss mural op V&D rolluik [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.528167,
-          51.758801
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcf15a812ce5",
-        "marker-color": "#000080",
-        "name": "Pending approval: Oude kazerne bij Jezusgym [OCL]",
-        "title": "Pending approval: Oude kazerne bij Jezusgym [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.544788,
-          51.767645
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc54437cc84f",
-        "marker-color": "#000080",
-        "name": "Pending approval: Schommels in het park [OCL]",
-        "title": "Pending approval: Schommels in het park [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.533151,
-          51.77444
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5b25514641",
-        "marker-color": "#000080",
-        "name": "Pending approval: Skatebaan Kuiper Rietbergstraat [PLP]",
-        "title": "Pending approval: Skatebaan Kuiper Rietbergstraat [PLP]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.550848,
-          51.76755
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fdab15055505",
-        "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin Adelaar [OCL]",
-        "title": "Pending approval: Speeltuin Adelaar [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.496821,
-          51.776837
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fb880a75dbe1",
-        "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin Boegbeeld [OCL]",
-        "title": "Pending approval: Speeltuin Boegbeeld [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.503932,
-          51.769923
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc7c189761dd",
-        "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin Braambes [OCL]",
-        "title": "Pending approval: Speeltuin Braambes [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.544325,
-          51.769422
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc53f5103aa9",
-        "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin in het park [OCL]",
-        "title": "Pending approval: Speeltuin in het park [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.500883,
-          51.770782
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc7ed0f5b18f",
-        "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin Perzikhof [OCL]",
-        "title": "Pending approval: Speeltuin Perzikhof [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.496217,
-          51.773617
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fb8772149263",
-        "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin Zalm [OCL]",
-        "title": "Pending approval: Speeltuin Zalm [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.529111,
-          51.758437
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcf13f557981",
-        "marker-color": "#000080",
-        "name": "Pending approval: Struikelsteentjes bij Jezusgym [OCL]",
-        "title": "Pending approval: Struikelsteentjes bij Jezusgym [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.545018,
-          51.769358
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5389b87cc1",
-        "marker-color": "#000080",
-        "name": "Pending approval: Vijversingel boomstammen [PLP]",
-        "title": "Pending approval: Vijversingel boomstammen [PLP]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.54457,
-          51.768618
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc546d862339",
-        "marker-color": "#000080",
-        "name": "Pending approval: Vijversingel fontein [PLP]",
-        "title": "Pending approval: Vijversingel fontein [PLP]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.544752,
-          51.769043
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc54743d12e1",
-        "marker-color": "#000080",
-        "name": "Pending approval: Vijversingel kruijff veld [PLP]",
-        "title": "Pending approval: Vijversingel kruijff veld [PLP]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.551427,
-          51.770176
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fdac94e29a03",
-        "marker-color": "#000080",
-        "name": "Pending approval: Voetbalmuur met gaten bij Zonnecelboom [OCL]",
-        "title": "Pending approval: Voetbalmuur met gaten bij Zonnecelboom [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.536317,
-          51.767424
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc577beef5ab",
-        "marker-color": "#000080",
-        "name": "Pending approval: Vogelwijk; Louis de Bourbon speeltuin [OCL]",
-        "title": "Pending approval: Vogelwijk; Louis de Bourbon speeltuin [OCL]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.54724,
-          51.76867
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5499820c2b",
-        "marker-color": "#000080",
-        "name": "Pending approval: Zijkant havikstraat 1 [PLP]",
-        "title": "Pending approval: Zijkant havikstraat 1 [PLP]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5448339,
-          51.7671939
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc544fdeb35d",
-        "marker-color": "#000080",
-        "name": "Pending approval: Zwaluw honden [PLP]",
-        "title": "Pending approval: Zwaluw honden [PLP]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.527579,
-          51.77635
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc42d8d1d5c3",
-        "marker-color": "#000080",
-        "name": "Pending approval: Zwevende Kei Horzak [PLP]",
-        "title": "Pending approval: Zwevende Kei Horzak [PLP]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5393477,
-          51.7700709
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc50d7229327",
-        "marker-color": "#000080",
-        "name": "Pending approval: Family Memorial Stone [ONL 20180620]",
-        "title": "Pending approval: Family Memorial Stone [ONL 20180620]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5355668,
-          51.7590901
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcfa1e3aa60f",
-        "marker-color": "#000080",
-        "name": "Pending approval: Wall art Zuid [ONL 20180620]",
-        "title": "Pending approval: Wall art Zuid [ONL 20180620]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5395215,
-          51.7558084
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcfb7ba9fa05",
-        "marker-color": "#000080",
-        "name": "Pending approval: Playground Iepenstraat [ONL 20180620]",
-        "title": "Pending approval: Playground Iepenstraat [ONL 20180620]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5389872,
-          51.7562855
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcfb760882ed",
-        "marker-color": "#000080",
-        "name": "Pending approval: Playground Beukerstraat [ONL 20180620]",
-        "title": "Pending approval: Playground Beukerstraat [ONL 20180620]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5386298,
-          51.7486192
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fce4009a97db",
-        "marker-color": "#000080",
-        "name": "Pending approval: Vernieuwing [ONL 20180620]",
-        "title": "Pending approval: Vernieuwing [ONL 20180620]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.534534,
-          51.752238
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fce514a757e9",
-        "marker-color": "#000080",
-        "name": "Pending approval: Ijzerwerk [ONL 20180620]",
-        "title": "Pending approval: Ijzerwerk [ONL 20180620]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.535199,
-          51.748651
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fce5d574d503",
-        "marker-color": "#000080",
-        "name": "Pending approval: Hazenakker Soccerfield [ONL 20180620]",
-        "title": "Pending approval: Hazenakker Soccerfield [ONL 20180620]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5318385,
-          51.7536519
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcefe6a8c709",
-        "marker-color": "#000080",
-        "name": "Pending approval: Joodse Begraafplaats [ONL 20180620]",
-        "title": "Pending approval: Joodse Begraafplaats [ONL 20180620]",
+        "name": "Pending approval: De Spie nieuwe horzak",
+        "title": "Pending approval: De Spie nieuwe horzak",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -4332,8 +4080,8 @@
       "properties": {
         "cellid": "47c6fce22ca259e3",
         "marker-color": "#000080",
-        "name": "Pending approval: Docfapark Hertenkamp [ONL 20180620]",
-        "title": "Pending approval: Docfapark Hertenkamp [ONL 20180620]",
+        "name": "Pending approval: Docfapark Hertenkamp",
+        "title": "Pending approval: Docfapark Hertenkamp",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -4343,15 +4091,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.537638,
-          51.760012
+          5.501032,
+          51.778246
         ]
       },
       "properties": {
-        "cellid": "47c6fcf99dfec6cd",
+        "cellid": "47c6fc77a35d52ad",
         "marker-color": "#000080",
-        "name": "Pending approval: Soccerfield Zuiderpark [ONL 20180620]",
-        "title": "Pending approval: Soccerfield Zuiderpark [ONL 20180620]",
+        "name": "Pending approval: Evenwichtsbalk Rietkraag",
+        "title": "Pending approval: Evenwichtsbalk Rietkraag",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5393477,
+          51.7700709
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc50d7229327",
+        "marker-color": "#000080",
+        "name": "Pending approval: Family Memorial Stone",
+        "title": "Pending approval: Family Memorial Stone",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.544551,
+          51.768615
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc546d86a4eb",
+        "marker-color": "#000080",
+        "name": "Pending approval: Fontein in het park",
+        "title": "Pending approval: Fontein in het park",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5238324,
+          51.7669506
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5fc603d0f7",
+        "marker-color": "#000080",
+        "name": "Pending approval: Gedicht bij Emté op de muur",
+        "title": "Pending approval: Gedicht bij Emté op de muur",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -4368,8 +4170,404 @@
       "properties": {
         "cellid": "47c6fcf97084425b",
         "marker-color": "#000080",
-        "name": "Pending approval: Kids Playground Zuiderpark [ONL 20180620]",
-        "title": "Pending approval: Kids Playground Zuiderpark [ONL 20180620]",
+        "name": "Pending approval: Kids Playground Zuiderpark",
+        "title": "Pending approval: Kids Playground Zuiderpark",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.503717,
+          51.768528
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7dd328a8fd",
+        "marker-color": "#000080",
+        "name": "Pending approval: Maanplantsoen [Neptunusstraat 8]",
+        "title": "Pending approval: Maanplantsoen [Neptunusstraat 8]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5296032,
+          51.7699271
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5eaa925f57",
+        "marker-color": "#000080",
+        "name": "Pending approval: Meerpaal bij Visserskerk",
+        "title": "Pending approval: Meerpaal bij Visserskerk",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5104832,
+          51.7513942
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc9110b2f5c1",
+        "marker-color": "#000080",
+        "name": "Pending approval: Mozaiek Dichtersbuurt",
+        "title": "Pending approval: Mozaiek Dichtersbuurt",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.500657,
+          51.766438
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7e23f7f543",
+        "marker-color": "#000080",
+        "name": "Pending approval: Mural Wolfskooi [De Achterom 86]",
+        "title": "Pending approval: Mural Wolfskooi [De Achterom 86]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.532441,
+          51.777969
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc44624d36cb",
+        "marker-color": "#000080",
+        "name": "Pending approval: Nieuwe Horzak-wijk",
+        "title": "Pending approval: Nieuwe Horzak-wijk",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.524535,
+          51.768031
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5e49b89f67",
+        "marker-color": "#000080",
+        "name": "Pending approval: Oss mural op V&D rolluik",
+        "title": "Pending approval: Oss mural op V&D rolluik",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.528167,
+          51.758801
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf15a812ce5",
+        "marker-color": "#000080",
+        "name": "Pending approval: Oude kazerne bij Jezusgym",
+        "title": "Pending approval: Oude kazerne bij Jezusgym",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.544788,
+          51.767645
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc54437cc84f",
+        "marker-color": "#000080",
+        "name": "Pending approval: Schommels in het park",
+        "title": "Pending approval: Schommels in het park",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.496821,
+          51.776837
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb880a75dbe1",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin Boegbeeld",
+        "title": "Pending approval: Speeltuin Boegbeeld",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.544325,
+          51.769422
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc53f5103aa9",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin in het park",
+        "title": "Pending approval: Speeltuin in het park",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.539203,
+          51.7722
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc505808460d",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin Johan van Bijnenstraat [Johan van Bijnenstraat 48-20]",
+        "title": "Pending approval: Speeltuin Johan van Bijnenstraat [Johan van Bijnenstraat 48-20]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.542828,
+          51.767412
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc542600d35d",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin Koekkoek [Koekoekstraat 9-13]",
+        "title": "Pending approval: Speeltuin Koekkoek [Koekoekstraat 9-13]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.496217,
+          51.773617
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb8772149263",
+        "marker-color": "#000080",
+        "name": "Pending approval: Speeltuin Zalm",
+        "title": "Pending approval: Speeltuin Zalm",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.546485,
+          51.768673
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5485c83b9f",
+        "marker-color": "#000080",
+        "name": "Pending approval: Stoeploos [Condorstaat 1]",
+        "title": "Pending approval: Stoeploos [Condorstaat 1]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.529111,
+          51.758437
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf13f557981",
+        "marker-color": "#000080",
+        "name": "Pending approval: Struikelsteentjes bij Jezusgym",
+        "title": "Pending approval: Struikelsteentjes bij Jezusgym",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.545018,
+          51.769358
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5389b87cc1",
+        "marker-color": "#000080",
+        "name": "Pending approval: Vijversingel boomstammen",
+        "title": "Pending approval: Vijversingel boomstammen",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.54457,
+          51.768618
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc546d862339",
+        "marker-color": "#000080",
+        "name": "Pending approval: Vijversingel fontein",
+        "title": "Pending approval: Vijversingel fontein",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.544752,
+          51.769043
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc54743d12e1",
+        "marker-color": "#000080",
+        "name": "Pending approval: Vijversingel kruijff veld",
+        "title": "Pending approval: Vijversingel kruijff veld",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.551427,
+          51.770176
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fdac94e29a03",
+        "marker-color": "#000080",
+        "name": "Pending approval: Voetbalmuur met gaten bij Zonnecelboom",
+        "title": "Pending approval: Voetbalmuur met gaten bij Zonnecelboom",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.504305,
+          51.768845
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7c33ddb4c7",
+        "marker-color": "#000080",
+        "name": "Pending approval: Voetbalveld ussenstraat [Braambes 2]",
+        "title": "Pending approval: Voetbalveld ussenstraat [Braambes 2]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.54724,
+          51.76867
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5499820c2b",
+        "marker-color": "#000080",
+        "name": "Pending approval: Zijkant havikstraat 1",
+        "title": "Pending approval: Zijkant havikstraat 1",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.527579,
+          51.77635
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc42d8d1d5c3",
+        "marker-color": "#000080",
+        "name": "Pending approval: Zwevende Kei Horzak",
+        "title": "Pending approval: Zwevende Kei Horzak",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
