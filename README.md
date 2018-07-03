@@ -41,34 +41,41 @@ IITC Exports locations in three columns:
 
 My data is enriched with Pokemon GO data and subsequent scripting needs this information:
 
-| Name | Sub Name | Latitude | Longitude | Map Link | City | In Ingress | PoGo Type | Empty |
+| Name | Address | City | Latitude | Longitude | Requestor | In Ingress | PoGo Type | Map Link |
 |---|---|---|---|---|---|---|---|---|
 
-1. Original name
-1. Additional name to make the name unique, with a streetname for example
-1. Original latitude
-1. Original lontitude
-1. Open Street Map link: `=HYPERLINK( SUBSTITUTE( SUBSTITUTE( Settings!$B$2, "%lat", $C4), "%lon", $D4), "OSM")` http://www.openstreetmap.org/?mlat=%lat&mlon=%lon&zoom=16 
-   or: Google Maps link: `=HYPERLINK( SUBSTITUTE( SUBSTITUTE( Settings!$B$3, "%lat", $C2), "%lon", $D2), "Google")` http://maps.google.com/maps?q=%lat,%lon
+1. Original in-game name
+1. Address or additional name to make names unique (e.g. Streetname)
 1. City or Area for filtering, map size needs to be controlled and limited to <1Mb to be able to use http://geojson.io with a geojsno file from github without login
+1. Original GPS latitude
+1. Original GPS lontitude
+1. Signature of requestor, only for reference
 1. Available in Ingress: Yes/No. Will only be no for removed pokestops and possible future Pokemon Go submitted location
 1. Pokemon GO Location type: Unknown/Stop/Gym/ExGym/None/Removed
-1. Empty column, the extra comma is used by the convert script
+1. Open Street Map link: `=HYPERLINK( SUBSTITUTE( SUBSTITUTE( Settings!$B$2, "%lat", $C4), "%lon", $D4), "OSM")` http://www.openstreetmap.org/?mlat=%lat&mlon=%lon&zoom=16 
+   or: Google Maps link: `=HYPERLINK( SUBSTITUTE( SUBSTITUTE( Settings!$B$3, "%lat", $C2), "%lon", $D2), "Google")` http://maps.google.com/maps?q=%lat,%lon
 
-* Edit original file in a spreadsheet to match the required format or use a script: `bin\csvfix\csvfix.exe put -p 2 -v "" export_sort.csv | bin\csvfix\csvfix.exe put -p 5 -v "OSM" | bin\csvfix\csvfix.exe put -p 6 -v "" | bin\csvfix\csvfix.exe put -p 7 -v "Yes" | bin\csvfix\csvfix.exe put -p 8 -v "Unknown" | bin\csvfix\csvfix.exe put -p 9 -v "" > output.csv`
-* Sort a file in the new format if needed: `bin\csvfix\csvfix.exe sort -rh -f 1:AI,3:N,4:N output.csv > output_sort.csv`
+* Edit original file in a spreadsheet to match the required format or use a script: `bin\csvfix\csvfix.exe put -p 2 -v "" export_sort.csv | bin\csvfix\csvfix.exe put -p 3 -v "" | bin\csvfix\csvfix.exe put -p 6 -v "" | bin\csvfix\csvfix.exe put -p 7 -v "Yes" | bin\csvfix\csvfix.exe put -p 8 -v "Unknown" | bin\csvfix\csvfix.exe put -p 9 -v "" > output.csv`
+* Sort a file in the new format if needed: `bin\csvfix\csvfix.exe sort -rh -f 1:AI,4:N,5:N output.csv > output_sort.csv`
   And adding quotes and CRLF (should be unchanged as sorting is already done after gathering).
-* Merge old and new file and sort again: `bin\csvfix\csvfix.exe unique -f 1,3,4 old.csv output_sort.csv | bin\csvfix\csvfix.exe sort -f 1:AI,3:N,4:N > output_merge.csv`
+* Merge old and new file and sort again: `bin\csvfix\csvfix.exe unique -f 1,4,5 PokemonGoLocations.csv output_sort.csv | bin\csvfix\csvfix.exe sort -f 1:AI,4:N,5:N > output_merge.csv`
+* Rename output `copy output_merge.csv PokemonGoLocations.csv`
+
+## Split by City (optional)
+* Run: `bin\csvfix\csvfix file_split -f 3 -ufn -fd tmp -fp PokemonGoLocations_ PokemonGoLocations.csv
+* Sort with header and add " to a file if needed: `bin\csvfix\csvfix.exe sort -rh -f 1:AI,4:N,5:N output.csv > output_sort.csv`
+* Further process a city csv file
 
 ## Generate parks map
 * Open: http://overpass-turbo.eu/s/ujd, http://overpass-turbo.eu/s/vs3 (2018-01-16)
 * Take into view the map area you want to generate for
 * Press run
-* Press Export download geojson
-* To minimize the file run: `bin\jq\jq-win64.exe -c "." input.geojson > input_min.geojson`
+* Press Export download geojson, save as: OverpassTurboParks.geojson
+* To minimize the file run: `bin\jq\jq-win64.exe -c "." OverpassTurboParks.geojson > OverpassTurboParks_min.geojson`
 
 ## Converting location data
-* Run: `Convert.bat input.csv`, writes input.geojson and input_min.geojson without formatting
+* Run: `Convert.bat PokemonGoLocations.csv`, writes input.geojson and input_min.geojson without formatting
+  Or: `Convert.bat PokemonGoLocations.csv OverpassTurboParks_min.geojson`
 * Open: http://geojson.io and load input_min.geojson, this might take a while for files >1.5Mb
 You will see the created map with locations and S2 grids
 * Press Save KML to save the geojson as KML

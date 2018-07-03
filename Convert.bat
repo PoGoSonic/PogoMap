@@ -87,8 +87,8 @@ del %typefilename%_*.csv 2> nul
 bin\csvfix\csvfix file_split -f 8 -ufn -fd tmp -fp %typefilesplit%_ %tmp%3
 
 
-@rem Reduce to 3 required columns Name,Latitude,Longtitude from column 1,3,4
-bin\sed\sed -r "s/^([^,]*),([^,]*),([^,]*),([^,]*),.*$/\1,\3,\4/" %tmp%3 > %tmp%4
+@rem Reduce to 3 required columns Name,Latitude,Longtitude from column 1,4,5
+bin\sed\sed -r "s/^([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*).*$/\1,\4,\5/" %tmp%3 > %tmp%4
 
 @rem Remove lines without GPS coordinates
 bin\sed\sed -r "/[^,]*,,$/d" %tmp%4 > %tmp%
@@ -103,7 +103,7 @@ IF [%keeptmp%] NEQ [1] (
 
 
 @rem S2 Level 13: 1 Ex raid gym
-@rem S2 Level 14: >2 stops = 1 gym, > 5/6 stops = 2 gyms, >20? = 3 gyms, >35? = 4 gyms
+@rem S2 Level 14: >=2 stops = 1 gym, >=6 stops = 2 gyms, >=20 = 3 gyms
 @rem S2 Level 17: 1 Stop
 FOR %%L IN (13 14 17) DO (
 	ECHO Generating S2 grid level %%L in %s2filename%%%L.geojson
@@ -141,7 +141,7 @@ FOR %%T IN (%typefilename%_*.csv) DO (
 	ECHO Generating Locations from %%~nT.geocsv in %%~nT.geojson
 
 	@rem Reduce to 3 required columns Name,Latitude,Longtitude from column 1,3,4
-	bin\sed\sed -r "s/^([^,]*),([^,]*),([^,]*),([^,]*),.*$/\1,\3,\4/" %%T > tmp\%%~nT.geocsv1
+    bin\sed\sed -r "s/^([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*).*$/\1,\4,\5/" %%T > tmp\%%~nT.geocsv1
 
 	@rem Remove lines without GPS coordinates
 	bin\sed\sed -r "/[^,]*,,$/d" tmp\%%~nT.geocsv1 > tmp\%%~nT.geocsv
@@ -222,8 +222,8 @@ ECHO Combine all (markers only)
 @rem -c=Compact output, --tab=1-tab instead of 2-spaces (not working in this version)
 @REM bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %typefilename%_Pending.geojson %s2filename%17.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1_min.geojson
 @REM bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %typefilename%_Pending.geojson %s2filename%17.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1.geojson
-bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %typefilename%_Pending.geojson > %~n1_min.geojson
-bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %typefilename%_Pending.geojson > %~n1.geojson
+bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_Pending.geojson > %~n1_min.geojson
+bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_Pending.geojson > %~n1.geojson
 ECHO Combine all (Ex-Raid) gym placement data (no stop grid) (less than 1Mb for geojson github limit)
 bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %typefilename%_Pending.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1_gym_min.geojson
 bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %typefilename%_Pending.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1_gym.geojson
