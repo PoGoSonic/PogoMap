@@ -222,6 +222,10 @@ ECHO Combine all (markers only)
 @rem -c=Compact output, --tab=1-tab instead of 2-spaces (not working in this version)
 @REM bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %typefilename%_Pending.geojson %s2filename%17.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1_min.geojson
 @REM bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_None.geojson %typefilename%_Removed.geojson %typefilename%_Pending.geojson %s2filename%17.geojson %s2filename%14.geojson %s2filename%13.geojson %opttmp% > %~n1.geojson
+ECHO Combine all Gym location data without grids
+bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Gym.geojson %typefilename%_ExGym.geojson > %~n1_raid_min.geojson
+bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Gym.geojson %typefilename%_ExGym.geojson > %~n1_raid.geojson
+ECHO Combine all location data without grids
 bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_Pending.geojson > %~n1_min.geojson
 bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_Pending.geojson > %~n1.geojson
 ECHO Combine all (Ex-Raid) gym placement data (no stop grid) (less than 1Mb for geojson github limit)

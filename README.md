@@ -23,7 +23,7 @@ Windows command line script and partly manual procedure to create a Pokemon Go M
 
 ## Gathering data
 * Open Firefox with Ingress Intel site: https://www.ingress.com/intel
-* Enable GreasMonkey with IITC Ingress Intel total Conversion
+* Enable GreaseMonkey with IITC Ingress Intel total Conversion
 * Zoom to view the biggest area where each portal is still visible
 * Use browser zooming to zoom out until the desired region is visible, if needed resize browser screen
 * Wait until finished loading (IITC bottom right corner)
@@ -33,6 +33,15 @@ Windows command line script and partly manual procedure to create a Pokemon Go M
 * Sort and trim file: `bin\csvfix\csvfix sort -f 1:AI,2:N,3:N export.csv | bin\csvfix\csvfix.exe trim -f 1 > export_sort.csv`
   Original file with LF and only the first column double quoted is saved with Windows CRLF and all three columns double quoted
 
+## Merge with public list (optional)  
+* Google sheets hosts a copy of the list that other people can help maintain
+* File - Download as - Comma-seperated Values (csv, current sheet) as `GoogleSheets.csv`
+* Sort and trim file: `bin\csvfix\csvfix.exe sort -rh -f 1:AI,4:N,5:N GoogleSheets.csv | bin\csvfix\csvfix.exe trim -f 1 > GoogleSheets_sort.csv`
+? REMOVE HEADER
+* Merge original and public file and sort again: `bin\csvfix\csvfix.exe unique -f 1,4,5 PokemonGoLocations.csv GoogleSheets_sort.csv | bin\csvfix\csvfix.exe sort -f 1:AI,4:N,5:N > output_merge_1.csv`
+* Rename output `copy output_merge.csv PokemonGoLocations.csv`
+
+  
 ## Merging location data
 IITC Exports locations in three columns: 
 

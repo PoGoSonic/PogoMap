@@ -5,24 +5,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.524279,
-          51.768748
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5e3ef45991",
-        "marker-color": "#40B0F0",
-        "name": "Stop: T Gengske",
-        "title": "Stop: T Gengske",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.5832,
           51.767311
         ]
@@ -995,12 +977,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.53385,
-          51.77451
+          5.506187,
+          51.763185
         ]
       },
       "properties": {
-        "cellid": "47c6fc5b286abb87",
+        "cellid": "47c6fc87b2a993eb",
         "marker-color": "#40B0F0",
         "name": "Stop: Kabelbaan",
         "title": "Stop: Kabelbaan",
@@ -2723,6 +2705,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.524279,
+          51.768748
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5e3ef45991",
+        "marker-color": "#ff9900",
+        "name": "Gym: 'T Gengske",
+        "title": "Gym: 'T Gengske",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.506127,
           51.761419
         ]
@@ -3281,6 +3281,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.526161,
+          51.770612
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5dd1633f15",
+        "marker-color": "#ff9900",
+        "name": "Gym: Waterpomp Met Drink Bak",
+        "title": "Gym: Waterpomp Met Drink Bak",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.51535,
           51.765574
         ]
@@ -3522,8 +3540,8 @@
       "properties": {
         "cellid": "47c6fdaff48320bd",
         "marker-color": "#808080",
-        "name": "Unknown: t Reut Playground",
-        "title": "Unknown: t Reut Playground",
+        "name": "Unknown: 't Reut Playground",
+        "title": "Unknown: 't Reut Playground",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3875,6 +3893,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.525108,
+          51.765002
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5f80c821b7",
+        "marker-color": "#808080",
+        "name": "Unknown: Klokkenspel",
+        "title": "Unknown: Klokkenspel",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.539423,
           51.755536
         ]
@@ -3983,6 +4019,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.542867,
+          51.767452
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5425e15f9b",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin De Koekkoek [Koekoekstraat 9-13]",
+        "title": "Unknown: Speeltuin De Koekkoek [Koekoekstraat 9-13]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.531007,
           51.766846
         ]
@@ -3992,6 +4046,24 @@
         "marker-color": "#808080",
         "name": "Unknown: Speeltuin Gripper",
         "title": "Unknown: Speeltuin Gripper",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.53906,
+          51.772068
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc50f7ae7ae1",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Johan V Bijne [Johan van Bijnenstraat 48-20]",
+        "title": "Unknown: Speeltuin Johan V Bijne [Johan van Bijnenstraat 48-20]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4172,6 +4244,24 @@
         "marker-color": "#808080",
         "name": "Unknown: Welkom Smaragd",
         "title": "Unknown: Welkom Smaragd",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.533245,
+          51.759319
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf74d22cdd9",
+        "marker-color": "#808080",
+        "name": "Unknown: Zuidergebouw Oss",
+        "title": "Unknown: Zuidergebouw Oss",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -5009,42 +5099,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.539203,
-          51.7722
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc505808460d",
-        "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin Johan van Bijnenstraat [Johan van Bijnenstraat 48-20]",
-        "title": "Pending approval: Speeltuin Johan van Bijnenstraat [Johan van Bijnenstraat 48-20]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.542828,
-          51.767412
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc542600d35d",
-        "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin Koekkoek [Koekoekstraat 9-13]",
-        "title": "Pending approval: Speeltuin Koekkoek [Koekoekstraat 9-13]",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.496217,
           51.773617
         ]
@@ -5090,24 +5144,6 @@
         "marker-color": "#000080",
         "name": "Pending approval: Struikelsteentjes bij Jezusgym",
         "title": "Pending approval: Struikelsteentjes bij Jezusgym",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5608212,
-          51.7716761
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fdafa4f8e83f",
-        "marker-color": "#000080",
-        "name": "Pending approval: t Reut playground",
-        "title": "Pending approval: t Reut playground",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
