@@ -4,10 +4,11 @@ Windows command line script and partly manual procedure to create a Pokemon Go M
 
 ## Requirements
 * Ingress account
-* Firefox or Chrome with Greasemonkey or Tampermonkey (might work better with IITC version)
+* Firefox or Chrome with Greasemonkey or Tampermonkey (`not tested, should work better with latest IITC version)
 * IITC/Ingress Intel total Conversion Plugin for GreaseMonkey: https://iitc.me/desktop/, version 0.26.0.20170430.123533
-  Disabled line 34 to 46 as player detection was not working. Disable IITC to login Ingress Intel
+  Disabled line 34 to 46 as player detection was not working (This should work in TamperMonkey). Disable IITC to login Ingress Intel
 * IITC plugin: show list of portals // modified with export button, version 0.2.1.20170108.21732
+  Modified to also export portal image urls
 * JQ json manipulator by Stedolan: https://stedolan.github.io/jq/, manual: https://stedolan.github.io/jq/manual, faq: https://github.com/stedolan/jq/wiki/FAQ, cookbook: https://github.com/stedolan/jq/wiki/Cookbook
   Using the more limited version 1.4 as 1.5 was giving unexpected exceptions, this might have to do with a 37 character filename limit or a 63 character full path limit.
   Daily build artifacts can be found here: https://ci.appveyor.com/project/stedolan/jq
@@ -22,24 +23,25 @@ Windows command line script and partly manual procedure to create a Pokemon Go M
 * Howto export Ingress portals: https://www.reddit.com/r/TheSilphRoad/comments/7p9ozm/i_made_a_plugin_to_show_level_17_s2_cells_on/dsflwr9/?sh=1def38f1&st=JC83GSC2
 
 ## Gathering data
-* Open Firefox with Ingress Intel site: https://www.ingress.com/intel
-* Enable GreaseMonkey with IITC Ingress Intel total Conversion
+* Open Firefox (or Chrome) with Ingress Intel site: https://www.ingress.com/intel
+* Enable GreaseMonkey (or TamperMonkey) with IITC Ingress Intel total Conversion
 * Zoom to view the biggest area where each portal is still visible
 * Use browser zooming to zoom out until the desired region is visible, if needed resize browser screen
-* Wait until finished loading (IITC bottom right corner)
-* Press Portals List (IITC botom of top right box)
+* Wait until finished loading (IITC shows progress in the bottom right corner)
+* Press Portals List (IITC botom of the top right information box)
 * Scroll down Portals list
 * Press Export portals
+  Modified version has: Export Portals with Images
 * Sort and trim file: `bin\csvfix\csvfix sort -f 1:AI,2:N,3:N export.csv | bin\csvfix\csvfix.exe trim -f 1 > export_sort.csv`
   Original file with LF and only the first column double quoted is saved with Windows CRLF and all three columns double quoted
 
 ## Merge with public list (optional)  
 * Google sheets hosts a copy of the list that other people can help maintain
 * File - Download as - Comma-seperated Values (csv, current sheet) as `GoogleSheets.csv`
-* Sort and trim file: `bin\csvfix\csvfix.exe sort -rh -f 1:AI,4:N,5:N GoogleSheets.csv | bin\csvfix\csvfix.exe trim -f 1 > GoogleSheets_sort.csv`
+* Sort and trim file: `bin\csvfix\csvfix.exe sort -rh -f 1:AI,5:N,6:N GoogleSheets.csv | bin\csvfix\csvfix.exe trim -f 1 > GoogleSheets_sort.csv`
 ? REMOVE HEADER
-* Merge original and public file and sort again: `bin\csvfix\csvfix.exe unique -f 1,4,5 PokemonGoLocations.csv GoogleSheets_sort.csv | bin\csvfix\csvfix.exe sort -f 1:AI,4:N,5:N > output_merge_1.csv`
-* Rename output `copy output_merge.csv PokemonGoLocations.csv`
+* Merge original and public file and sort again: `bin\csvfix\csvfix.exe unique -f 1,4,5 PokemonGoLocations.csv GoogleSheets_sort.csv | bin\csvfix\csvfix.exe sort -f 1:AI,5:N,6:N > PokemonGoLocations_new.csv`
+* Rename output `copy PokemonGoLocations_new.csv PokemonGoLocations.csv`
 
   
 ## Merging location data
@@ -65,13 +67,13 @@ My data is enriched with Pokemon GO data and subsequent scripting needs this inf
    or: Google Maps link: `=HYPERLINK( SUBSTITUTE( SUBSTITUTE( Settings!$B$3, "%lat", $C2), "%lon", $D2), "Google")` http://maps.google.com/maps?q=%lat,%lon
 
 * Edit original file in a spreadsheet to match the required format or use a script: `bin\csvfix\csvfix.exe put -p 2 -v "" export_sort.csv | bin\csvfix\csvfix.exe put -p 3 -v "" | bin\csvfix\csvfix.exe put -p 6 -v "" | bin\csvfix\csvfix.exe put -p 7 -v "Yes" | bin\csvfix\csvfix.exe put -p 8 -v "Unknown" | bin\csvfix\csvfix.exe put -p 9 -v "" > output.csv`
-* Sort a file in the new format if needed: `bin\csvfix\csvfix.exe sort -rh -f 1:AI,4:N,5:N output.csv > output_sort.csv`
+* Sort a file in the new format if needed: `bin\csvfix\csvfix.exe sort -rh -f 1:AI,5:N,6:N output.csv > output_sort.csv`
   And adding quotes and CRLF (should be unchanged as sorting is already done after gathering).
-* Merge old and new file and sort again: `bin\csvfix\csvfix.exe unique -f 1,4,5 PokemonGoLocations.csv output_sort.csv | bin\csvfix\csvfix.exe sort -f 1:AI,4:N,5:N > output_merge.csv`
+* Merge old and new file and sort again: `bin\csvfix\csvfix.exe unique -f 1,5,6 PokemonGoLocations.csv output_sort.csv | bin\csvfix\csvfix.exe sort -f 1:AI,4:N,5:N > output_merge.csv`
 * Rename output `copy output_merge.csv PokemonGoLocations.csv`
 
 ## Split by City (optional)
-* Run: `bin\csvfix\csvfix file_split -f 3 -ufn -fd tmp -fp PokemonGoLocations_ PokemonGoLocations.csv
+* Run: `bin\csvfix\csvfix file_split -f 4 -ufn -fd tmp -fp PokemonGoLocations_ PokemonGoLocations.csv
 * Sort with header and add " to a file if needed: `bin\csvfix\csvfix.exe sort -rh -f 1:AI,4:N,5:N output.csv > output_sort.csv`
 * Further process a city csv file
 

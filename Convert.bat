@@ -5,11 +5,12 @@ set keeptmp=1
 @rem Help:    https://stedolan.github.io/jq/manual
 @rem Testing: https://jqplay.org/
 
+@rem Input CSV filename parameter 1
+SET input=%1
+
 IF NOT EXIST "%1" GOTO NotFound
 mkdir tmp
 
-@rem Input CSV filename parameter 1
-SET input=%1
 @rem Prefix/Filename only
 SET filename=tmp\%~n1
 @rem Prefix/Filename for S2 grids
@@ -78,17 +79,17 @@ bin\sed\sed -r "s/^([^,]*),([^,]*),(.*)$/\1 \[\2\],,\3/; s/ \[\]//" %tmp%2 > %tm
 ECHO Splitting location by type
 @rem 'csvfix file_split' would append in destination files even though documentation said it won't
 del %typefilename%_*.csv 2> nul
-@rem Split csv based on contents of Stop/Gym/ExRaid column 8, column value added to filename
+@rem Split csv based on contents of Stop/Gym/ExRaid column 9, column value added to filename
 @rem   -ifn: skip header row 1
-@rem   -f 8: split input based on column 8
+@rem   -f 9: split input based on column 9
 @rem   -ufn: use split column values in filename
 @rem   -fd ...: output file in directory (directory in fp is not used)
 @rem   -fp ...: output filename prefix (not exactly same as input filename or it will recurse infinitely)
-bin\csvfix\csvfix file_split -f 8 -ufn -fd tmp -fp %typefilesplit%_ %tmp%3
+bin\csvfix\csvfix file_split -f 9 -ufn -fd tmp -fp %typefilesplit%_ %tmp%3
 
 
-@rem Reduce to 3 required columns Name,Latitude,Longtitude from column 1,4,5
-bin\sed\sed -r "s/^([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*).*$/\1,\4,\5/" %tmp%3 > %tmp%4
+@rem Reduce to 3 required columns Name,Latitude,Longtitude from column 1,5,6
+bin\sed\sed -r "s/^([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*).*$/\1,\5,\6/" %tmp%3 > %tmp%4
 
 @rem Remove lines without GPS coordinates
 bin\sed\sed -r "/[^,]*,,$/d" %tmp%4 > %tmp%
@@ -140,8 +141,8 @@ IF [%keeptmp%] NEQ [1] (
 FOR %%T IN (%typefilename%_*.csv) DO (
 	ECHO Generating Locations from %%~nT.geocsv in %%~nT.geojson
 
-	@rem Reduce to 3 required columns Name,Latitude,Longtitude from column 1,3,4
-    bin\sed\sed -r "s/^([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*).*$/\1,\4,\5/" %%T > tmp\%%~nT.geocsv1
+	@rem Reduce to 3 required columns Name,Latitude,Longtitude from column 1,5,6
+    bin\sed\sed -r "s/^([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*),([^,]*).*$/\1,\5,\6/" %%T > tmp\%%~nT.geocsv1
 
 	@rem Remove lines without GPS coordinates
 	bin\sed\sed -r "/[^,]*,,$/d" tmp\%%~nT.geocsv1 > tmp\%%~nT.geocsv
