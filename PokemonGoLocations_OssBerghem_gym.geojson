@@ -959,6 +959,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.526474,
+          51.77204
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5db2205097",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Kasteel Van Oss",
+        "title": "Stop: Kasteel Van Oss",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.538055,
           51.759881
         ]
@@ -966,8 +984,8 @@
       "properties": {
         "cellid": "47c6fcf9712d9e17",
         "marker-color": "#40B0F0",
-        "name": "Unknown: Stop: Kids Playground Zuiderpark",
-        "title": "Unknown: Stop: Kids Playground Zuiderpark",
+        "name": "Stop: Kids Playground Zuiderpark",
+        "title": "Stop: Kids Playground Zuiderpark",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1254,8 +1272,8 @@
       "properties": {
         "cellid": "47c6fc9eec83342f",
         "marker-color": "#40B0F0",
-        "name": "Unknown: Stop: MozaÃ¯ek 't Woud [t woud]",
-        "title": "Unknown: Stop: MozaÃ¯ek 't Woud [t woud]",
+        "name": "Stop: Mozaïek 't Woud [t woud]",
+        "title": "Stop: Mozaïek 't Woud [t woud]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1272,8 +1290,8 @@
       "properties": {
         "cellid": "47c6fc7c1875989f",
         "marker-color": "#40B0F0",
-        "name": "Stop: MozaÃ¯ek Kunst",
-        "title": "Stop: MozaÃ¯ek Kunst",
+        "name": "Stop: Mozaïek Kunst",
+        "title": "Stop: Mozaïek Kunst",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -2640,8 +2658,8 @@
       "properties": {
         "cellid": "47c6fda2cd977a33",
         "marker-color": "#40B0F0",
-        "name": "Stop: Kids Playground â€˜t Bikkeltje",
-        "title": "Stop: Kids Playground â€˜t Bikkeltje",
+        "name": "Stop: Kids Playground Ã¢â‚¬Ëœt Bikkeltje",
+        "title": "Stop: Kids Playground Ã¢â‚¬Ëœt Bikkeltje",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -3227,24 +3245,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.541671,
-          51.757761
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcfc1393aa69",
-        "marker-color": "#ff9900",
-        "name": "Gym: Kids Playground Zuid",
-        "title": "Gym: Kids Playground Zuid",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.504161,
           51.774056
         ]
@@ -3416,24 +3416,6 @@
         "marker-color": "#ff9900",
         "name": "Gym: Schommelplaats Park Waterlaat [schommeplaats; waterlaat]",
         "title": "Gym: Schommelplaats Park Waterlaat [schommeplaats; waterlaat]",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.538312,
-          51.759585
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcf97abf5c27",
-        "marker-color": "#ff9900",
-        "name": "Gym: Soccerfield Zuiderpark [soccerfield; zuiderpark]",
-        "title": "Gym: Soccerfield Zuiderpark [soccerfield; zuiderpark]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -3893,6 +3875,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.541671,
+          51.757761
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcfc1393aa69",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Kids Playground Zuid",
+        "title": "Ex-raid Gym: Kids Playground Zuid",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.511939,
           51.778906
         ]
@@ -3956,6 +3956,24 @@
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Piramide Kunst [piramide; pyramide]",
         "title": "Ex-raid Gym: Piramide Kunst [piramide; pyramide]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.538312,
+          51.759585
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf97abf5c27",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Soccerfield Zuiderpark [soccerfield; zuiderpark]",
+        "title": "Ex-raid Gym: Soccerfield Zuiderpark [soccerfield; zuiderpark]",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -4037,24 +4055,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.562827,
-          51.772529
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fdaff48320bd",
-        "marker-color": "#808080",
-        "name": "Unknown: 't Reut Playground",
-        "title": "Unknown: 't Reut Playground",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.511083,
           51.752204
         ]
@@ -4091,6 +4091,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.504999,
+          51.746291
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc982138cf8f",
+        "marker-color": "#808080",
+        "name": "Unknown: Da Costa Speeltuin",
+        "title": "Unknown: Da Costa Speeltuin",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.520792,
+          51.763445
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc8ac42f57ab",
+        "marker-color": "#808080",
+        "name": "Unknown: De 3 Zitjes Van Thus V Kimmenade",
+        "title": "Unknown: De 3 Zitjes Van Thus V Kimmenade",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.542061,
           51.748606
         ]
@@ -4118,6 +4154,42 @@
         "marker-color": "#808080",
         "name": "Unknown: Drenkkuil",
         "title": "Unknown: Drenkkuil",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.503139,
+          51.74604
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc9869edf35b",
+        "marker-color": "#808080",
+        "name": "Unknown: Drijvershof Speeltuin",
+        "title": "Unknown: Drijvershof Speeltuin",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.496053,
+          51.773554
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb876d7d75c9",
+        "marker-color": "#808080",
+        "name": "Unknown: Glijbaan Zalm",
+        "title": "Unknown: Glijbaan Zalm",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4190,24 +4262,6 @@
         "marker-color": "#808080",
         "name": "Unknown: Kabelbaan Kuiper Rietbergstraat",
         "title": "Unknown: Kabelbaan Kuiper Rietbergstraat",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.526474,
-          51.77204
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5db2205097",
-        "marker-color": "#808080",
-        "name": "Unknown: Kasteel Van Oss",
-        "title": "Unknown: Kasteel Van Oss",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4307,6 +4361,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.534665,
+          51.773436
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5ae8b7c1d9",
+        "marker-color": "#808080",
+        "name": "Unknown: Plop Voetbalveld",
+        "title": "Unknown: Plop Voetbalveld",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.550956,
           51.77026
         ]
@@ -4316,6 +4388,24 @@
         "marker-color": "#808080",
         "name": "Unknown: Prijsschieten",
         "title": "Unknown: Prijsschieten",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.502428,
+          51.746877
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc98576a9191",
+        "marker-color": "#808080",
+        "name": "Unknown: Roedel Speeltuin",
+        "title": "Unknown: Roedel Speeltuin",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4649,6 +4739,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.562827,
+          51.772529
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fdaff48320bd",
+        "marker-color": "#808080",
+        "name": "Unknown: 't Reut Playground",
+        "title": "Unknown: 't Reut Playground",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.5677249,
           51.7700577
         ]
@@ -4656,8 +4764,8 @@
       "properties": {
         "cellid": "47c6fda4682ffae1",
         "marker-color": "#808080",
-        "name": "Unknown: Sâ€™Jozef school",
-        "title": "Unknown: Sâ€™Jozef school",
+        "name": "Unknown: SÃ¢â‚¬â„¢Jozef school",
+        "title": "Unknown: SÃ¢â‚¬â„¢Jozef school",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -5214,8 +5322,8 @@
       "properties": {
         "cellid": "47c6fc5fc603d0f7",
         "marker-color": "#000080",
-        "name": "Pending approval: Gedicht bij EmtÃ© op de muur",
-        "title": "Pending approval: Gedicht bij EmtÃ© op de muur",
+        "name": "Pending approval: Gedicht bij EmtÃƒÂ© op de muur",
+        "title": "Pending approval: Gedicht bij EmtÃƒÂ© op de muur",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -5333,12 +5441,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.528167,
-          51.758801
+          5.5275201,
+          51.7595168
         ]
       },
       "properties": {
-        "cellid": "47c6fcf15a812ce5",
+        "cellid": "47c6fcf400781a33",
         "marker-color": "#000080",
         "name": "Pending approval: Oude kazerne bij Jezusgym",
         "title": "Pending approval: Oude kazerne bij Jezusgym",
@@ -7766,6 +7874,54 @@
               [
                 5.590846287866363,
                 51.745933704187784
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.589791286844045,
+                51.7406930731915
+              ],
+              [
+                5.590846287866363,
+                51.745933704187784
+              ],
+              [
+                5.584317882884047,
+                51.746244234477764
+              ],
+              [
+                5.58326409813363,
+                51.74100350028777
+              ],
+              [
+                5.589791286844045,
+                51.7406930731915
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.58326409813363,
+                51.74100350028777
+              ],
+              [
+                5.584317882884047,
+                51.746244234477764
+              ],
+              [
+                5.57779005093427,
+                51.7465543716297
+              ],
+              [
+                5.576737482403694,
+                51.741313534374925
+              ],
+              [
+                5.58326409813363,
+                51.74100350028777
               ]
             ]
           ],
