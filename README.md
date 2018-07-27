@@ -94,12 +94,14 @@ You will see the created map with locations and S2 grids
 ## Sharing on Google Maps
 * Open: https://www.google.com/maps/d/
 * Create a new map give it a name and description, for example: 
+  > Lower levels are 1/4 except the first level are 1/6 of the globe:
   >         S2 Level  6 Geoblocking, Regional pokemon
   >         S2 Level 10 Pokemon caught location
   >         S2 Level 12 One Ex raid invitation per cycle
   > Red:    S2 Level 13 Ex Gyms and grid (1 per cell)
-  > Orange: S2 Level 14 Gym location and (0-1:0, 2-5: 1, 6-19: 2, 20-59: 3, (27+: 4 gyms?))
-  >         S2 Level 16 Pokestop viewing distance
+  > Orange: S2 Level 14 Gym location and (0-1:0, 2-5: 1, 6-19: 2, 20-59: 3, (unconfirmed 27+: 4 gyms?))
+  >         S2 Level 15 Geoblocking military
+  >         S2 Level 16 Pokestop viewing/loading distance, World map
   > Blue:   S2 Level 17 Stop location and (1 per cell)
   >         S2 Level 20 Pokemon spawn locations & center in land use for ex raids
   > Gray: Unknown type
