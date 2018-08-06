@@ -203,6 +203,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.504999,
+          51.746291
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc982138cf8f",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Da Costa Speeltuin [da costa; da costastraat]",
+        "title": "Stop: Da Costa Speeltuin [da costa; da costastraat]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.498913,
           51.776988
         ]
@@ -365,15 +383,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.519375,
-          51.76011
+          5.535332,
+          51.778382
         ]
       },
       "properties": {
-        "cellid": "47c6fc8b60e312f7",
+        "cellid": "47c6fc45b1cdad11",
         "marker-color": "#40B0F0",
-        "name": "Stop: Draak",
-        "title": "Stop: Draak",
+        "name": "Stop: Drenkkuil",
+        "title": "Stop: Drenkkuil",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -392,6 +410,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Drijvende Constructie Ijzertijdboerderij [drijvende constructie]",
         "title": "Stop: Drijvende Constructie Ijzertijdboerderij [drijvende constructie]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.503139,
+          51.74604
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc9869edf35b",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Drijvershof Speeltuin",
+        "title": "Stop: Drijvershof Speeltuin",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -653,6 +689,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.496053,
+          51.773554
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb876d7d75c9",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Glijbaan Zalm [zalm]",
+        "title": "Stop: Glijbaan Zalm [zalm]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.525818,
           51.771524
         ]
@@ -680,6 +734,42 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Grafengel",
         "title": "Stop: Grafengel",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.53289,
+          51.779059
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc446b46447f",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Grote Kuil",
+        "title": "Stop: Grote Kuil",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.506187,
+          51.75789
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc859e2ead61",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Hand at Station; Oss West",
+        "title": "Stop: Hand at Station; Oss West",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -977,6 +1067,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.505474,
+          51.765021
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc877702fa09",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Kids Playground",
+        "title": "Stop: Kids Playground",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.538055,
           51.759881
         ]
@@ -1067,6 +1175,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.515854,
+          51.760002
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc8c0a1c3b4d",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Koning Op Dak",
+        "title": "Stop: Koning Op Dak",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.515659,
           51.775802
         ]
@@ -1076,6 +1202,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Kroonprins",
         "title": "Stop: Kroonprins",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.530132,
+          51.771881
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5c77e06b19",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Kruip Toestel Mini Mensjes",
+        "title": "Stop: Kruip Toestel Mini Mensjes",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1130,24 +1274,6 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Man with Bag",
         "title": "Stop: Man with Bag",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.516097,
-          51.775197
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc65ed6b941b",
-        "marker-color": "#40B0F0",
-        "name": "Stop: Mannetje Bij De Handboog [handboog]",
-        "title": "Stop: Mannetje Bij De Handboog [handboog]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1373,6 +1499,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.534708,
+          51.768831
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc59ec66af8b",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Patrijs Speeltuin",
+        "title": "Stop: Patrijs Speeltuin",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.523236,
           51.761838
         ]
@@ -1499,6 +1643,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.539423,
+          51.755536
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcfb651c464d",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Playground Iepenstraat [iepenstraat]",
+        "title": "Stop: Playground Iepenstraat [iepenstraat]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.498342,
           51.775493
         ]
@@ -1607,6 +1769,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.502428,
+          51.746877
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc98576a9191",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Roedel Speeltuin",
+        "title": "Stop: Roedel Speeltuin",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.52822,
           51.766279
         ]
@@ -1697,15 +1877,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.533151,
-          51.77444
+          5.533164,
+          51.774454
         ]
       },
       "properties": {
-        "cellid": "47c6fc5b25514641",
+        "cellid": "47c6fc5b2557af33",
         "marker-color": "#40B0F0",
-        "name": "Stop: Skatebaan Kuiper Rietbergstraat [kuiper rietbergstraat]",
-        "title": "Stop: Skatebaan Kuiper Rietbergstraat [kuiper rietbergstraat]",
+        "name": "Stop: Skatebaan",
+        "title": "Stop: Skatebaan",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1751,6 +1931,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.500579,
+          51.773681
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc78fe9d9be5",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Anker [anker]",
+        "title": "Stop: Speeltuin Anker [anker]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.507113,
           51.77909
         ]
@@ -1778,6 +1976,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin Cluster [cluster]",
         "title": "Stop: Speeltuin Cluster [cluster]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.531007,
+          51.766846
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc58e6e3bc7b",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Gripper [gripper]",
+        "title": "Stop: Speeltuin Gripper [gripper]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1823,6 +2039,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.494453,
+          51.77092
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb80dabe8b11",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Klaverweide [klaverweide]",
+        "title": "Stop: Speeltuin Klaverweide [klaverweide]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.527487,
           51.774519
         ]
@@ -1859,6 +2093,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.500836,
+          51.770787
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7ed0edc121",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Perzikhof [perzikhof]",
+        "title": "Stop: Speeltuin Perzikhof [perzikhof]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.534124,
           51.773354
         ]
@@ -1866,8 +2118,8 @@
       "properties": {
         "cellid": "47c6fc5ae3f456dd",
         "marker-color": "#40B0F0",
-        "name": "Stop: Speeltuin Plop",
-        "title": "Stop: Speeltuin Plop",
+        "name": "Stop: Speeltuin Plop [plop]",
+        "title": "Stop: Speeltuin Plop [plop]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -2021,24 +2273,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.532293,
-          51.770108
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5bd766fa7f",
-        "marker-color": "#40B0F0",
-        "name": "Stop: Statue Jurgensplein [jurgensplein]",
-        "title": "Stop: Statue Jurgensplein [jurgensplein]",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.52694,
           51.769633
         ]
@@ -2093,6 +2327,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.532465,
+          51.76647
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5858406b37",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Struikelstenen",
+        "title": "Stop: Struikelstenen",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.501125,
           51.77513
         ]
@@ -2100,8 +2352,8 @@
       "properties": {
         "cellid": "47c6fc784b2a554f",
         "marker-color": "#40B0F0",
-        "name": "Stop: T Art",
-        "title": "Stop: T Art",
+        "name": "Stop: T Art [art]",
+        "title": "Stop: T Art [art]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -2237,6 +2489,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.53603,
+          51.748648
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fce4284dc2df",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Vernieuwing",
+        "title": "Stop: Vernieuwing",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.520032,
           51.764765
         ]
@@ -2345,6 +2615,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.531816,
+          51.762754
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf7b2f88bf9",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Welkom Op De Wereld [de wereld]",
+        "title": "Stop: Welkom Op De Wereld [de wereld]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.507187,
+          51.76535
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc878c679dc1",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Welkom Smaragd [smaragd]",
+        "title": "Stop: Welkom Smaragd [smaragd]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.533088,
           51.763009
         ]
@@ -2424,8 +2730,8 @@
       "properties": {
         "cellid": "47c6fcf74d22cdd9",
         "marker-color": "#40B0F0",
-        "name": "Stop: Zuidergebouw Oss",
-        "title": "Stop: Zuidergebouw Oss",
+        "name": "Stop: Zuidergebouw Oss [zuidergebouw]",
+        "title": "Stop: Zuidergebouw Oss [zuidergebouw]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -2478,8 +2784,8 @@
       "properties": {
         "cellid": "47c6fc5e3ef45991",
         "marker-color": "#ff9900",
-        "name": "Gym: 'T Gengske [gengske]",
-        "title": "Gym: 'T Gengske [gengske]",
+        "name": "Gym: 'T Gengske [gengske; t gengske]",
+        "title": "Gym: 'T Gengske [gengske; t gengske]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2651,6 +2957,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.519375,
+          51.76011
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc8b60e312f7",
+        "marker-color": "#ff9900",
+        "name": "Gym: Draak [draak golfbad oss]",
+        "title": "Gym: Draak [draak golfbad oss]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.497342,
           51.748026
         ]
@@ -2802,8 +3126,8 @@
       "properties": {
         "cellid": "47c6fc6464ed8529",
         "marker-color": "#ff9900",
-        "name": "Gym: Kerk",
-        "title": "Gym: Kerk",
+        "name": "Gym: Kerk [Pauluskerk]",
+        "title": "Gym: Kerk [Pauluskerk]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2831,6 +3155,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.516097,
+          51.775197
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc65ed6b941b",
+        "marker-color": "#ff9900",
+        "name": "Gym: Mannetje Bij De Handboog [handboog]",
+        "title": "Gym: Mannetje Bij De Handboog [handboog]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.539611,
           51.772111
         ]
@@ -2838,8 +3180,8 @@
       "properties": {
         "cellid": "47c6fc50f8b74ea7",
         "marker-color": "#ff9900",
-        "name": "Gym: Marmere Pilaar",
-        "title": "Gym: Marmere Pilaar",
+        "name": "Gym: Marmere Pilaar [marmeren; marmer; marmere; pilaar; marmeren pilaar]",
+        "title": "Gym: Marmere Pilaar [marmeren; marmer; marmere; pilaar; marmeren pilaar]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -2939,24 +3281,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.514124,
-          51.77151
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc6464ed8529",
-        "marker-color": "#ff9900",
-        "name": "Gym: Pauluskerk",
-        "title": "Gym: Pauluskerk",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.539889,
           51.768586
         ]
@@ -2964,8 +3288,8 @@
       "properties": {
         "cellid": "47c6fc56db949937",
         "marker-color": "#ff9900",
-        "name": "Gym: Roodborst Speeltuin",
-        "title": "Gym: Roodborst Speeltuin",
+        "name": "Gym: Roodborst Speeltuin [roodborst]",
+        "title": "Gym: Roodborst Speeltuin [roodborst]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -3036,8 +3360,8 @@
       "properties": {
         "cellid": "47c6fc7f468a5a1f",
         "marker-color": "#ff9900",
-        "name": "Gym: Speeltuin Appelhof",
-        "title": "Gym: Speeltuin Appelhof",
+        "name": "Gym: Speeltuin Appelhof [appelhof]",
+        "title": "Gym: Speeltuin Appelhof [appelhof]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -3072,8 +3396,8 @@
       "properties": {
         "cellid": "47c6fcfac3c65365",
         "marker-color": "#ff9900",
-        "name": "Gym: Speeltuin Hendriklaan [handriklaan]",
-        "title": "Gym: Speeltuin Hendriklaan [handriklaan]",
+        "name": "Gym: Speeltuin Hendriklaan [hendriklaan]",
+        "title": "Gym: Speeltuin Hendriklaan [hendriklaan]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -3090,8 +3414,8 @@
       "properties": {
         "cellid": "47c6fcf3f1541611",
         "marker-color": "#ff9900",
-        "name": "Gym: Speeltuin Rozenstraat",
-        "title": "Gym: Speeltuin Rozenstraat",
+        "name": "Gym: Speeltuin Rozenstraat [rozenstraat]",
+        "title": "Gym: Speeltuin Rozenstraat [rozenstraat]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -3110,6 +3434,24 @@
         "marker-color": "#ff9900",
         "name": "Gym: St Mary with Angels [st mary]",
         "title": "Gym: St Mary with Angels [st mary]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.532293,
+          51.770108
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5bd766fa7f",
+        "marker-color": "#ff9900",
+        "name": "Gym: Statue Jurgensplein [jurgensplein; jurgenshuis; anton jurgenshuis]",
+        "title": "Gym: Statue Jurgensplein [jurgensplein; jurgenshuis; anton jurgenshuis]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -3180,8 +3522,8 @@
       "properties": {
         "cellid": "47c6fc5dd1633f15",
         "marker-color": "#ff9900",
-        "name": "Gym: Waterpomp Met Drink Bak",
-        "title": "Gym: Waterpomp Met Drink Bak",
+        "name": "Gym: Waterpomp Met Drink Bak [waterpomp; drinkbak; drink bak; waterpomp met drinkbak]",
+        "title": "Gym: Waterpomp Met Drink Bak [waterpomp; drinkbak; drink bak; waterpomp met drinkbak]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -3324,8 +3666,8 @@
       "properties": {
         "cellid": "47c6fcfc1393aa69",
         "marker-color": "#FF2020",
-        "name": "Ex-raid Gym: Kids Playground Zuid",
-        "title": "Ex-raid Gym: Kids Playground Zuid",
+        "name": "Ex-raid Gym: Kids Playground Zuid [playground zuid]",
+        "title": "Ex-raid Gym: Kids Playground Zuid [playground zuid]",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -3515,24 +3857,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.504999,
-          51.746291
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc982138cf8f",
-        "marker-color": "#808080",
-        "name": "Unknown: Da Costa Speeltuin",
-        "title": "Unknown: Da Costa Speeltuin",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.520792,
           51.763445
         ]
@@ -3540,98 +3864,8 @@
       "properties": {
         "cellid": "47c6fc8ac42f57ab",
         "marker-color": "#808080",
-        "name": "Unknown: De 3 Zitjes Van Thus V Kimmenade",
-        "title": "Unknown: De 3 Zitjes Van Thus V Kimmenade",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.542061,
-          51.748606
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fce22ca259e3",
-        "marker-color": "#808080",
-        "name": "Unknown: Docfapark Hertenkamp [hertenkamp]",
-        "title": "Unknown: Docfapark Hertenkamp [hertenkamp]",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.535332,
-          51.778382
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc45b1cdad11",
-        "marker-color": "#808080",
-        "name": "Unknown: Drenkkuil",
-        "title": "Unknown: Drenkkuil",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.503139,
-          51.74604
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc9869edf35b",
-        "marker-color": "#808080",
-        "name": "Unknown: Drijvershof Speeltuin",
-        "title": "Unknown: Drijvershof Speeltuin",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.496053,
-          51.773554
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fb876d7d75c9",
-        "marker-color": "#808080",
-        "name": "Unknown: Glijbaan Zalm",
-        "title": "Unknown: Glijbaan Zalm",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.53289,
-          51.779059
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc446b46447f",
-        "marker-color": "#808080",
-        "name": "Unknown: Grote Kuil",
-        "title": "Unknown: Grote Kuil",
+        "name": "Unknown: De 3 Zitjes Van Thus V Kimmenade [3 zitjes]",
+        "title": "Unknown: De 3 Zitjes Van Thus V Kimmenade [3 zitjes]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3677,105 +3911,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.534439,
-          51.77453
+          5.50572,
+          51.763301
         ]
       },
       "properties": {
-        "cellid": "47c6fc5ad0db2645",
+        "cellid": "47c6fc87ab6e6a9d",
         "marker-color": "#808080",
-        "name": "Unknown: Kabelbaan Kuiper Rietbergstraat",
-        "title": "Unknown: Kabelbaan Kuiper Rietbergstraat",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.505474,
-          51.765021
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc877702fa09",
-        "marker-color": "#808080",
-        "name": "Unknown: Kids Playground",
-        "title": "Unknown: Kids Playground",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.515854,
-          51.760002
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc8c0a1c3b4d",
-        "marker-color": "#808080",
-        "name": "Unknown: Koning Op Dak",
-        "title": "Unknown: Koning Op Dak",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.530132,
-          51.771881
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5c77e06b19",
-        "marker-color": "#808080",
-        "name": "Unknown: Kruip Toestel Mini Mensjes",
-        "title": "Unknown: Kruip Toestel Mini Mensjes",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.534708,
-          51.768831
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc59ec66af8b",
-        "marker-color": "#808080",
-        "name": "Unknown: Patrijs Speeltuin",
-        "title": "Unknown: Patrijs Speeltuin",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.539423,
-          51.755536
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcfb651c464d",
-        "marker-color": "#808080",
-        "name": "Unknown: Playground Iepenstraat [iepenstraat]",
-        "title": "Unknown: Playground Iepenstraat [iepenstraat]",
+        "name": "Unknown: Mini Voetbalveld",
+        "title": "Unknown: Mini Voetbalveld",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3803,6 +3947,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.51361,
+          51.773928
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc6505cfd917",
+        "marker-color": "#808080",
+        "name": "Unknown: Plophut Met Bank",
+        "title": "Unknown: Plophut Met Bank",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.550956,
           51.77026
         ]
@@ -3821,33 +3983,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.502428,
-          51.746877
+          5.504848,
+          51.757495
         ]
       },
       "properties": {
-        "cellid": "47c6fc98576a9191",
+        "cellid": "47c6fc8505b34fd1",
         "marker-color": "#808080",
-        "name": "Unknown: Roedel Speeltuin",
-        "title": "Unknown: Roedel Speeltuin",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.533164,
-          51.774454
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5b2557af33",
-        "marker-color": "#808080",
-        "name": "Unknown: Skatebaan",
-        "title": "Unknown: Skatebaan",
+        "name": "Unknown: Soccerfield Treubstraat 2",
+        "title": "Unknown: Soccerfield Treubstraat 2",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3875,15 +4019,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.536405,
-          51.767419
+          5.519398,
+          51.759032
         ]
       },
       "properties": {
-        "cellid": "47c6fc577bc589ef",
+        "cellid": "47c6fc8cbd8535f9",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Bourbon [bourbon]",
-        "title": "Unknown: Speeltuin Bourbon [bourbon]",
+        "name": "Unknown: Speeltuin Basket",
+        "title": "Unknown: Speeltuin Basket",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3900,26 +4044,8 @@
       "properties": {
         "cellid": "47c6fc5425e15f9b",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin De Koekkoek",
-        "title": "Unknown: Speeltuin De Koekkoek",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.531007,
-          51.766846
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc58e6e3bc7b",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Gripper [gripper]",
-        "title": "Unknown: Speeltuin Gripper [gripper]",
+        "name": "Unknown: Speeltuin De Koekkoek [koekoek; koekkoek]",
+        "title": "Unknown: Speeltuin De Koekkoek [koekoek; koekkoek]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3936,26 +4062,8 @@
       "properties": {
         "cellid": "47c6fc50f7ae7ae1",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Johan V Bijne",
-        "title": "Unknown: Speeltuin Johan V Bijne",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.539203,
-          51.7722
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc505808460d",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Johan van Bijnenstraat [johan van bijnenstraat; van bijnenstraat; bijnenstraat]",
-        "title": "Unknown: Speeltuin Johan van Bijnenstraat [johan van bijnenstraat; van bijnenstraat; bijnenstraat]",
+        "name": "Unknown: Speeltuin Johan V Bijne [johan v bijne]",
+        "title": "Unknown: Speeltuin Johan V Bijne [johan v bijne]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -3983,60 +4091,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.494453,
-          51.77092
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fb80dabe8b11",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Klaverweide",
-        "title": "Unknown: Speeltuin Klaverweide",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.542828,
-          51.767412
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc542600d35d",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Koekkoek [koekoek; koekkoek]",
-        "title": "Unknown: Speeltuin Koekkoek [koekoek; koekkoek]",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.500836,
-          51.770787
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc7ed0edc121",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Perzikhof [perzikhof]",
-        "title": "Unknown: Speeltuin Perzikhof [perzikhof]",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.548327,
           51.767285
         ]
@@ -4055,51 +4109,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.532465,
-          51.76647
+          5.526619,
+          51.76519
         ]
       },
       "properties": {
-        "cellid": "47c6fc5858406b37",
+        "cellid": "47c6fc5f64768207",
         "marker-color": "#808080",
-        "name": "Unknown: Struikelstenen",
-        "title": "Unknown: Struikelstenen",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.53603,
-          51.748648
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fce4284dc2df",
-        "marker-color": "#808080",
-        "name": "Unknown: Vernieuwing",
-        "title": "Unknown: Vernieuwing",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.536317,
-          51.767424
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc577beef5ab",
-        "marker-color": "#808080",
-        "name": "Unknown: Vogelwijk; Louis de Bourbon speeltuin [vogelwijk]",
-        "title": "Unknown: Vogelwijk; Louis de Bourbon speeltuin [vogelwijk]",
+        "name": "Unknown: Statute in Stone of Female; Oss [statute in stone; statue in stone]",
+        "title": "Unknown: Statute in Stone of Female; Oss [statute in stone; statue in stone]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4118,42 +4136,6 @@
         "marker-color": "#808080",
         "name": "Unknown: Wandelroute Putje [putje]",
         "title": "Unknown: Wandelroute Putje [putje]",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.531816,
-          51.762754
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcf7b2f88bf9",
-        "marker-color": "#808080",
-        "name": "Unknown: Welkom Op De Wereld [de wereld]",
-        "title": "Unknown: Welkom Op De Wereld [de wereld]",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.507187,
-          51.76535
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc878c679dc1",
-        "marker-color": "#808080",
-        "name": "Unknown: Welkom Smaragd [smaragd]",
-        "title": "Unknown: Welkom Smaragd [smaragd]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4244,24 +4226,6 @@
         "marker-color": "#000000",
         "name": "Not Availble: Glijbaan",
         "title": "Not Availble: Glijbaan",
-        "marker-size": "small",
-        "marker-symbol": ""
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.506187,
-          51.75789
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc859e2ead61",
-        "marker-color": "#000000",
-        "name": "Not Availble: Hand at Station; Oss West",
-        "title": "Not Availble: Hand at Station; Oss West",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -4397,6 +4361,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.536405,
+          51.767419
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc577bc589ef",
+        "marker-color": "#000000",
+        "name": "Not Availble: Speeltuin Bourbon [bourbon]",
+        "title": "Not Availble: Speeltuin Bourbon [bourbon]",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.493553,
           51.765344
         ]
@@ -4404,8 +4386,8 @@
       "properties": {
         "cellid": "47c6fb7f9738d4bb",
         "marker-color": "#000000",
-        "name": "Not Availble: Speeltuin Meijerij",
-        "title": "Not Availble: Speeltuin Meijerij",
+        "name": "Not Availble: Speeltuin Meijerij [meijerij]",
+        "title": "Not Availble: Speeltuin Meijerij [meijerij]",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -4422,8 +4404,8 @@
       "properties": {
         "cellid": "47c6fc902f6973ed",
         "marker-color": "#000000",
-        "name": "Not Availble: Standing Figure II",
-        "title": "Not Availble: Standing Figure II",
+        "name": "Not Availble: Standing Figure II [figure II; figure 2]",
+        "title": "Not Availble: Standing Figure II [figure II; figure 2]",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -4458,8 +4440,8 @@
       "properties": {
         "cellid": "47c6fc5f7f490bfb",
         "marker-color": "#000000",
-        "name": "Not Availble: Violin in Stone",
-        "title": "Not Availble: Violin in Stone",
+        "name": "Not Availble: Violin in Stone [violin]",
+        "title": "Not Availble: Violin in Stone [violin]",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -4548,8 +4530,8 @@
       "properties": {
         "cellid": "47c6fd02a4248535",
         "marker-color": "#800000",
-        "name": "Removed: Ossekop: Removed ?",
-        "title": "Removed: Ossekop: Removed ?",
+        "name": "Removed: Ossekop",
+        "title": "Removed: Ossekop",
         "marker-size": "small",
         "marker-symbol": "cross"
       }
@@ -4570,42 +4552,6 @@
         "title": "Removed: Oude Bernhoven",
         "marker-size": "small",
         "marker-symbol": "cross"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.543717,
-          51.77355
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc521e3d7879",
-        "marker-color": "#800000",
-        "name": "Removed: Speeltuin Theodorus Dobbestraat",
-        "title": "Removed: Speeltuin Theodorus Dobbestraat",
-        "marker-size": "small",
-        "marker-symbol": "cross"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.550849,
-          51.767795
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fdab6aed4435",
-        "marker-color": "#000080",
-        "name": "Pending approval: Basket Adelaar",
-        "title": "Pending approval: Basket Adelaar",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
       }
     },
     {
@@ -4640,6 +4586,24 @@
         "marker-color": "#000080",
         "name": "Pending approval: De Spie nieuwe horzak [spie]",
         "title": "Pending approval: De Spie nieuwe horzak [spie]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.542061,
+          51.748606
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fce22ca259e3",
+        "marker-color": "#000080",
+        "name": "Pending approval: Docfapark Hertenkamp [hertenkamp]",
+        "title": "Pending approval: Docfapark Hertenkamp [hertenkamp]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -4685,15 +4649,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.544551,
-          51.768615
+          5.5238324,
+          51.7669506
         ]
       },
       "properties": {
-        "cellid": "47c6fc546d86a4eb",
+        "cellid": "47c6fc5fc603d0f7",
         "marker-color": "#000080",
-        "name": "Pending approval: Fontein in het park",
-        "title": "Pending approval: Fontein in het park",
+        "name": "Pending approval: Gedicht bij Emte op de muur",
+        "title": "Pending approval: Gedicht bij Emte op de muur",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -4703,15 +4667,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.5238324,
-          51.7669506
+          5.511413,
+          51.782131
         ]
       },
       "properties": {
-        "cellid": "47c6fc5fc603d0f7",
+        "cellid": "47c6fc72107ba38b",
         "marker-color": "#000080",
-        "name": "Pending approval: Gedicht bij EmtÃƒÂ© op de muur",
-        "title": "Pending approval: Gedicht bij EmtÃƒÂ© op de muur",
+        "name": "Pending approval: Glijbaan Schutterij [schutterij]",
+        "title": "Pending approval: Glijbaan Schutterij [schutterij]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -4757,24 +4721,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.5104832,
-          51.7513942
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc9110b2f5c1",
-        "marker-color": "#000080",
-        "name": "Pending approval: Mozaiek Dichtersbuurt",
-        "title": "Pending approval: Mozaiek Dichtersbuurt",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.500657,
           51.766438
         ]
@@ -4784,24 +4730,6 @@
         "marker-color": "#000080",
         "name": "Pending approval: Mural Wolfskooi",
         "title": "Pending approval: Mural Wolfskooi",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.532441,
-          51.777969
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc44624d36cb",
-        "marker-color": "#000080",
-        "name": "Pending approval: Nieuwe Horzak-wijk",
-        "title": "Pending approval: Nieuwe Horzak-wijk",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -4847,24 +4775,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.544788,
-          51.767645
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc54437cc84f",
-        "marker-color": "#000080",
-        "name": "Pending approval: Schommels in het park",
-        "title": "Pending approval: Schommels in het park",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.496821,
           51.776837
         ]
@@ -4872,8 +4782,8 @@
       "properties": {
         "cellid": "47c6fb880a75dbe1",
         "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin Boegbeeld",
-        "title": "Pending approval: Speeltuin Boegbeeld",
+        "name": "Pending approval: Speeltuin Boegbeeld [boegbeeld]",
+        "title": "Pending approval: Speeltuin Boegbeeld [boegbeeld]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -4883,15 +4793,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.544325,
-          51.769422
+          5.509376,
+          51.776581
         ]
       },
       "properties": {
-        "cellid": "47c6fc53f5103aa9",
+        "cellid": "47c6fc70738a2887",
         "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin in het park",
-        "title": "Pending approval: Speeltuin in het park",
+        "name": "Pending approval: Speeltuin Groenendaal [groenendaal]",
+        "title": "Pending approval: Speeltuin Groenendaal [groenendaal]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -4901,15 +4811,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.496217,
-          51.773617
+          5.51041,
+          51.782516
         ]
       },
       "properties": {
-        "cellid": "47c6fb8772149263",
+        "cellid": "47c6fc72395267e1",
         "marker-color": "#000080",
-        "name": "Pending approval: Speeltuin Zalm",
-        "title": "Pending approval: Speeltuin Zalm",
+        "name": "Pending approval: Speeltuin Harnas [harnas]",
+        "title": "Pending approval: Speeltuin Harnas [harnas]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -4955,6 +4865,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.529299,
+          51.75903
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf136169159",
+        "marker-color": "#000080",
+        "name": "Pending approval: Struikelstenen Hescheweg [hescheweg]",
+        "title": "Pending approval: Struikelstenen Hescheweg [hescheweg]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.545018,
           51.769358
         ]
@@ -4962,8 +4890,8 @@
       "properties": {
         "cellid": "47c6fc5389b87cc1",
         "marker-color": "#000080",
-        "name": "Pending approval: Vijversingel boomstammen",
-        "title": "Pending approval: Vijversingel boomstammen",
+        "name": "Pending approval: Vijversingel boomstammen [boomstammen]",
+        "title": "Pending approval: Vijversingel boomstammen [boomstammen]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -4998,26 +4926,8 @@
       "properties": {
         "cellid": "47c6fc54743d12e1",
         "marker-color": "#000080",
-        "name": "Pending approval: Vijversingel kruijff veld",
-        "title": "Pending approval: Vijversingel kruijff veld",
-        "marker-size": "small",
-        "marker-symbol": "triangle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.551427,
-          51.770176
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fdac94e29a03",
-        "marker-color": "#000080",
-        "name": "Pending approval: Voetbalmuur met gaten bij Zonnecelboom",
-        "title": "Pending approval: Voetbalmuur met gaten bij Zonnecelboom",
+        "name": "Pending approval: Vijversingel kruijff veld [kruijff veld]",
+        "title": "Pending approval: Vijversingel kruijff veld [kruijff veld]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -5034,8 +4944,26 @@
       "properties": {
         "cellid": "47c6fc7c33ddb4c7",
         "marker-color": "#000080",
-        "name": "Pending approval: Voetbalveld ussenstraat",
-        "title": "Pending approval: Voetbalveld ussenstraat",
+        "name": "Pending approval: Voetbalveld ussenstraat [ussenstraat]",
+        "title": "Pending approval: Voetbalveld ussenstraat [ussenstraat]",
+        "marker-size": "small",
+        "marker-symbol": "triangle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.529582,
+          51.759413
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf134ccbafb",
+        "marker-color": "#000080",
+        "name": "Pending approval: Voormalige Kazerne [kazerne]",
+        "title": "Pending approval: Voormalige Kazerne [kazerne]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -5052,8 +4980,8 @@
       "properties": {
         "cellid": "47c6fc5499820c2b",
         "marker-color": "#000080",
-        "name": "Pending approval: Zijkant havikstraat 1",
-        "title": "Pending approval: Zijkant havikstraat 1",
+        "name": "Pending approval: Zijkant havikstraat 1 [havikstraat]",
+        "title": "Pending approval: Zijkant havikstraat 1 [havikstraat]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -5070,8 +4998,8 @@
       "properties": {
         "cellid": "47c6fc42d8d1d5c3",
         "marker-color": "#000080",
-        "name": "Pending approval: Zwevende Kei Horzak",
-        "title": "Pending approval: Zwevende Kei Horzak",
+        "name": "Pending approval: Zwevende Kei Horzak [zwervende kei; horzak]",
+        "title": "Pending approval: Zwevende Kei Horzak [zwervende kei; horzak]",
         "marker-size": "small",
         "marker-symbol": "triangle-stroked"
       }
@@ -14660,6 +14588,294 @@
           [
             [
               [
+                5.499207802477154,
+                51.782011764432234
+              ],
+              [
+                5.49933766156786,
+                51.7826673611572
+              ],
+              [
+                5.4985217250385965,
+                51.782705540679
+              ],
+              [
+                5.4983918849778926,
+                51.782049942367266
+              ],
+              [
+                5.499207802477154,
+                51.782011764432234
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.4983918849778926,
+                51.782049942367266
+              ],
+              [
+                5.4985217250385965,
+                51.782705540679
+              ],
+              [
+                5.49770579751489,
+                51.78274371406719
+              ],
+              [
+                5.497575976484084,
+                51.78208811416896
+              ],
+              [
+                5.4983918849778926,
+                51.782049942367266
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.497575976484084,
+                51.78208811416896
+              ],
+              [
+                5.49770579751489,
+                51.78274371406719
+              ],
+              [
+                5.496889878997159,
+                51.78278188132194
+              ],
+              [
+                5.496760076996144,
+                51.78212627983746
+              ],
+              [
+                5.497575976484084,
+                51.78208811416896
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.496760076996144,
+                51.78212627983746
+              ],
+              [
+                5.496889878997159,
+                51.78278188132194
+              ],
+              [
+                5.496073969485815,
+                51.78282004244346
+              ],
+              [
+                5.495944186514489,
+                51.782164439372984
+              ],
+              [
+                5.496760076996144,
+                51.78212627983746
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.495944186514489,
+                51.782164439372984
+              ],
+              [
+                5.496073969485815,
+                51.78282004244346
+              ],
+              [
+                5.495258068981272,
+                51.78285819743195
+              ],
+              [
+                5.49512830503953,
+                51.782202592775725
+              ],
+              [
+                5.495944186514489,
+                51.782164439372984
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.49512830503953,
+                51.782202592775725
+              ],
+              [
+                5.495258068981272,
+                51.78285819743195
+              ],
+              [
+                5.494442177483945,
+                51.78289634628757
+              ],
+              [
+                5.494312432571681,
+                51.78224074004586
+              ],
+              [
+                5.49512830503953,
+                51.782202592775725
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.494312432571681,
+                51.78224074004586
+              ],
+              [
+                5.494442177483945,
+                51.78289634628757
+              ],
+              [
+                5.49362629499425,
+                51.78293448901054
+              ],
+              [
+                5.493496569111358,
+                51.78227888118358
+              ],
+              [
+                5.494312432571681,
+                51.78224074004586
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.493496569111358,
+                51.78227888118358
+              ],
+              [
+                5.49362629499425,
+                51.78293448901054
+              ],
+              [
+                5.492810421512599,
+                51.78297262560104
+              ],
+              [
+                5.492680714658976,
+                51.78231701618909
+              ],
+              [
+                5.493496569111358,
+                51.78227888118358
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.492680714658976,
+                51.78231701618909
+              ],
+              [
+                5.492810421512599,
+                51.78297262560104
+              ],
+              [
+                5.491994557039406,
+                51.78301075605926
+              ],
+              [
+                5.491864869214945,
+                51.78235514506256
+              ],
+              [
+                5.492680714658976,
+                51.78231701618909
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.491864869214945,
+                51.78235514506256
+              ],
+              [
+                5.491994557039406,
+                51.78301075605926
+              ],
+              [
+                5.491178701575085,
+                51.783048880385394
+              ],
+              [
+                5.491049032779683,
+                51.78239326780421
+              ],
+              [
+                5.491864869214945,
+                51.78235514506256
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.491049032779683,
+                51.78239326780421
+              ],
+              [
+                5.491178701575085,
+                51.783048880385394
+              ],
+              [
+                5.4903628551200505,
+                51.78308699857963
+              ],
+              [
+                5.490233205353602,
+                51.78243138441421
+              ],
+              [
+                5.491049032779683,
+                51.78239326780421
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.490233205353602,
+                51.78243138441421
+              ],
+              [
+                5.4903628551200505,
+                51.78308699857963
+              ],
+              [
+                5.489547017674715,
+                51.78312511064215
+              ],
+              [
+                5.489417386937115,
+                51.78246949489274
+              ],
+              [
+                5.490233205353602,
+                51.78243138441421
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.490103560610813,
                 51.781775776455916
               ],
@@ -15332,6 +15548,30 @@
           [
             [
               [
+                5.529664208604157,
+                51.781905949217396
+              ],
+              [
+                5.529794781995619,
+                51.78256149946252
+              ],
+              [
+                5.52897847448217,
+                51.78259990925453
+              ],
+              [
+                5.528847920126004,
+                51.7819443574132
+              ],
+              [
+                5.529664208604157,
+                51.781905949217396
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.530480506072217,
                 51.78186753488048
               ],
@@ -15350,6 +15590,54 @@
               [
                 5.530480506072217,
                 51.78186753488048
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.531427423992135,
+                51.7824846614542
+              ],
+              [
+                5.531558040515026,
+                51.78314021470928
+              ],
+              [
+                5.530741695985747,
+                51.783178638381
+              ],
+              [
+                5.53061109849908,
+                51.782523083529135
+              ],
+              [
+                5.531427423992135,
+                51.7824846614542
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.532243758474371,
+                51.78244623323751
+              ],
+              [
+                5.532374394033591,
+                51.78310178489556
+              ],
+              [
+                5.531558040515026,
+                51.78314021470928
+              ],
+              [
+                5.531427423992135,
+                51.7824846614542
+              ],
+              [
+                5.532243758474371,
+                51.78244623323751
               ]
             ]
           ],
@@ -15686,6 +15974,102 @@
               [
                 5.528717370827924,
                 51.781288811775404
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.528847920126004,
+                51.7819443574132
+              ],
+              [
+                5.52897847448217,
+                51.78259990925453
+              ],
+              [
+                5.528162175959146,
+                51.78263831290536
+              ],
+              [
+                5.528031640638175,
+                51.781982759468086
+              ],
+              [
+                5.528847920126004,
+                51.7819443574132
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.528031640638175,
+                51.781982759468086
+              ],
+              [
+                5.528162175959146,
+                51.78263831290536
+              ],
+              [
+                5.5273458864269625,
+                51.78267671041521
+              ],
+              [
+                5.527215370141081,
+                51.78202115538222
+              ],
+              [
+                5.528031640638175,
+                51.781982759468086
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.527215370141081,
+                51.78202115538222
+              ],
+              [
+                5.5273458864269625,
+                51.78267671041521
+              ],
+              [
+                5.526529605886034,
+                51.78271510178428
+              ],
+              [
+                5.52639910863514,
+                51.782059545155825
+              ],
+              [
+                5.527215370141081,
+                51.78202115538222
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.52639910863514,
+                51.782059545155825
+              ],
+              [
+                5.526529605886034,
+                51.78271510178428
+              ],
+              [
+                5.5257133343367775,
+                51.78275348701273
+              ],
+              [
+                5.525582856120766,
+                51.78209792878907
+              ],
+              [
+                5.52639910863514,
+                51.782059545155825
               ]
             ]
           ],
@@ -18980,6 +19364,54 @@
           [
             [
               [
+                5.538774757892915,
+                51.78213858637827
+              ],
+              [
+                5.5389055457464895,
+                51.782794125250916
+              ],
+              [
+                5.538089120328606,
+                51.78283260420749
+              ],
+              [
+                5.537958351512186,
+                51.78217706373579
+              ],
+              [
+                5.538774757892915,
+                51.78213858637827
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.537958351512186,
+                51.78217706373579
+              ],
+              [
+                5.538089120328606,
+                51.78283260420749
+              ],
+              [
+                5.537272703896682,
+                51.78287107702055
+              ],
+              [
+                5.537141954117317,
+                51.78221553495004
+              ],
+              [
+                5.537958351512186,
+                51.78217706373579
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.537827587762057,
                 51.78152152946667
               ],
@@ -19022,6 +19454,54 @@
               [
                 5.537011209403519,
                 51.781559999082184
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.537141954117317,
+                51.78221553495004
+              ],
+              [
+                5.537272703896682,
+                51.78287107702055
+              ],
+              [
+                5.536456296451135,
+                51.78290954369027
+              ],
+              [
+                5.536325565708719,
+                51.78225400002121
+              ],
+              [
+                5.537141954117317,
+                51.78221553495004
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.536325565708719,
+                51.78225400002121
+              ],
+              [
+                5.536456296451135,
+                51.78290954369027
+              ],
+              [
+                5.535639897992381,
+                51.78294800421685
+              ],
+              [
+                5.535509186286812,
+                51.782292458949485
+              ],
+              [
+                5.536325565708719,
+                51.78225400002121
               ]
             ]
           ],
@@ -19388,6 +19868,78 @@
           [
             [
               [
+                5.533060101945371,
+                51.78240779887889
+              ],
+              [
+                5.533190756541024,
+                51.783063348939635
+              ],
+              [
+                5.532374394033591,
+                51.78310178489556
+              ],
+              [
+                5.532243758474371,
+                51.78244623323751
+              ],
+              [
+                5.533060101945371,
+                51.78240779887889
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.533876454404721,
+                51.78236935837814
+              ],
+              [
+                5.534007128036909,
+                51.78302490684134
+              ],
+              [
+                5.533190756541024,
+                51.783063348939635
+              ],
+              [
+                5.533060101945371,
+                51.78240779887889
+              ],
+              [
+                5.533876454404721,
+                51.78236935837814
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.534692815852007,
+                51.782330911735066
+              ],
+              [
+                5.534823508520834,
+                51.78298645860048
+              ],
+              [
+                5.534007128036909,
+                51.78302490684134
+              ],
+              [
+                5.533876454404721,
+                51.78236935837814
+              ],
+              [
+                5.534692815852007,
+                51.782330911735066
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.534562128246586,
                 51.781675371072524
               ],
@@ -19430,6 +19982,78 @@
               [
                 5.535378479645368,
                 51.781636919884924
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.535509186286812,
+                51.782292458949485
+              ],
+              [
+                5.535639897992381,
+                51.78294800421685
+              ],
+              [
+                5.534823508520834,
+                51.78298645860048
+              ],
+              [
+                5.534692815852007,
+                51.782330911735066
+              ],
+              [
+                5.535509186286812,
+                51.782292458949485
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.539591173259088,
+                51.78210010287728
+              ],
+              [
+                5.539721980149921,
+                51.782755640150626
+              ],
+              [
+                5.5389055457464895,
+                51.782794125250916
+              ],
+              [
+                5.538774757892915,
+                51.78213858637827
+              ],
+              [
+                5.539591173259088,
+                51.78210010287728
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.540407597610286,
+                51.78206161323264
+              ],
+              [
+                5.540538423538481,
+                51.78271714890642
+              ],
+              [
+                5.539721980149921,
+                51.782755640150626
+              ],
+              [
+                5.539591173259088,
+                51.78210010287728
+              ],
+              [
+                5.540407597610286,
+                51.78206161323264
               ]
             ]
           ],
@@ -19718,6 +20342,102 @@
               [
                 5.541093191049605,
                 51.78136758957249
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.541224030946096,
+                51.782023117444155
+              ],
+              [
+                5.541354875911758,
+                51.78267865151813
+              ],
+              [
+                5.540538423538481,
+                51.78271714890642
+              ],
+              [
+                5.540407597610286,
+                51.78206161323264
+              ],
+              [
+                5.541224030946096,
+                51.782023117444155
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.542040473266103,
+                51.78198461551164
+              ],
+              [
+                5.542171337269335,
+                51.782640147985546
+              ],
+              [
+                5.541354875911758,
+                51.78267865151813
+              ],
+              [
+                5.541224030946096,
+                51.782023117444155
+              ],
+              [
+                5.542040473266103,
+                51.78198461551164
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.542856924569893,
+                51.781946107434905
+              ],
+              [
+                5.542987807610796,
+                51.78260163830849
+              ],
+              [
+                5.542171337269335,
+                51.782640147985546
+              ],
+              [
+                5.542040473266103,
+                51.78198461551164
+              ],
+              [
+                5.542856924569893,
+                51.781946107434905
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.543673384857046,
+                51.781907593213745
+              ],
+              [
+                5.543804286935724,
+                51.78256312248676
+              ],
+              [
+                5.542987807610796,
+                51.78260163830849
+              ],
+              [
+                5.542856924569893,
+                51.781946107434905
+              ],
+              [
+                5.543673384857046,
+                51.781907593213745
               ]
             ]
           ],
@@ -20054,6 +20774,222 @@
               [
                 5.5453063323797895,
                 51.78183054633742
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.545437272534329,
+                51.78248607240855
+              ],
+              [
+                5.5455682177619225,
+                51.783141604681475
+              ],
+              [
+                5.544751701432599,
+                51.78318013439425
+              ],
+              [
+                5.544620775243708,
+                51.78252460052019
+              ],
+              [
+                5.545437272534329,
+                51.78248607240855
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.54625377880717,
+                51.78244753815168
+              ],
+              [
+                5.54638474307357,
+                51.78310306882321
+              ],
+              [
+                5.5455682177619225,
+                51.783141604681475
+              ],
+              [
+                5.545437272534329,
+                51.78248607240855
+              ],
+              [
+                5.54625377880717,
+                51.78244753815168
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.547070294061821,
+                51.78240899774938
+              ],
+              [
+                5.547201277367128,
+                51.78306452681927
+              ],
+              [
+                5.54638474307357,
+                51.78310306882321
+              ],
+              [
+                5.54625377880717,
+                51.78244753815168
+              ],
+              [
+                5.547070294061821,
+                51.78240899774938
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.547886818297862,
+                51.782370451201466
+              ],
+              [
+                5.54801782064218,
+                51.78302597866946
+              ],
+              [
+                5.547201277367128,
+                51.78306452681927
+              ],
+              [
+                5.547070294061821,
+                51.78240899774938
+              ],
+              [
+                5.547886818297862,
+                51.782370451201466
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.548703351514876,
+                51.78233189850773
+              ],
+              [
+                5.54883437289831,
+                51.782987424373566
+              ],
+              [
+                5.54801782064218,
+                51.78302597866946
+              ],
+              [
+                5.547886818297862,
+                51.782370451201466
+              ],
+              [
+                5.548703351514876,
+                51.78233189850773
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.551969574184379,
+                51.78217762627091
+              ],
+              [
+                5.552100671725299,
+                51.78283314572562
+              ],
+              [
+                5.551284083549012,
+                51.78287172460766
+              ],
+              [
+                5.5511530050476185,
+                51.78221620354979
+              ],
+              [
+                5.551969574184379,
+                51.78217762627091
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5511530050476185,
+                51.78221620354979
+              ],
+              [
+                5.551284083549012,
+                51.78287172460766
+              ],
+              [
+                5.5504675043521425,
+                51.78291029734286
+              ],
+              [
+                5.5503364448901715,
+                51.78225477468209
+              ],
+              [
+                5.5511530050476185,
+                51.78221620354979
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5503364448901715,
+                51.78225477468209
+              ],
+              [
+                5.5504675043521425,
+                51.78291029734286
+              ],
+              [
+                5.5496509341351015,
+                51.78294886393144
+              ],
+              [
+                5.549519893712452,
+                51.78229333966801
+              ],
+              [
+                5.5503364448901715,
+                51.78225477468209
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.549519893712452,
+                51.78229333966801
+              ],
+              [
+                5.5496509341351015,
+                51.78294886393144
+              ],
+              [
+                5.54883437289831,
+                51.782987424373566
+              ],
+              [
+                5.548703351514876,
+                51.78233189850773
+              ],
+              [
+                5.549519893712452,
+                51.78229333966801
               ]
             ]
           ],
@@ -44060,6 +44996,198 @@
           [
             [
               [
+                5.523950378068377,
+                51.782174677635275
+              ],
+              [
+                5.5240808182149355,
+                51.7828302390486
+              ],
+              [
+                5.523264573643181,
+                51.78286860585638
+              ],
+              [
+                5.523134152531193,
+                51.782213042848625
+              ],
+              [
+                5.523950378068377,
+                51.782174677635275
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.523134152531193,
+                51.782213042848625
+              ],
+              [
+                5.523264573643181,
+                51.78286860585638
+              ],
+              [
+                5.522448338064757,
+                51.78290696652434
+              ],
+              [
+                5.522317935987236,
+                51.782251401922366
+              ],
+              [
+                5.523134152531193,
+                51.782213042848625
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5247666125983725,
+                51.78213630628216
+              ],
+              [
+                5.524897071779606,
+                51.78279186610078
+              ],
+              [
+                5.5240808182149355,
+                51.7828302390486
+              ],
+              [
+                5.523950378068377,
+                51.782174677635275
+              ],
+              [
+                5.5247666125983725,
+                51.78213630628216
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.525582856120766,
+                51.78209792878907
+              ],
+              [
+                5.5257133343367775,
+                51.78275348701273
+              ],
+              [
+                5.524897071779606,
+                51.78279186610078
+              ],
+              [
+                5.5247666125983725,
+                51.78213630628216
+              ],
+              [
+                5.525582856120766,
+                51.78209792878907
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.519869340318878,
+                51.78236644230799
+              ],
+              [
+                5.519999685293618,
+                51.78302201169103
+              ],
+              [
+                5.519183485692665,
+                51.78306034780152
+              ],
+              [
+                5.5190531597519765,
+                51.78240477682529
+              ],
+              [
+                5.519869340318878,
+                51.78236644230799
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.520685529880664,
+                51.78232810165187
+              ],
+              [
+                5.520815893889561,
+                51.78298366944147
+              ],
+              [
+                5.519999685293618,
+                51.78302201169103
+              ],
+              [
+                5.519869340318878,
+                51.78236644230799
+              ],
+              [
+                5.520685529880664,
+                51.78232810165187
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.522317935987236,
+                51.782251401922366
+              ],
+              [
+                5.522448338064757,
+                51.78290696652434
+              ],
+              [
+                5.521632111480078,
+                51.78294532105263
+              ],
+              [
+                5.521501728436921,
+                51.78228975485672
+              ],
+              [
+                5.522317935987236,
+                51.782251401922366
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.521501728436921,
+                51.78228975485672
+              ],
+              [
+                5.521632111480078,
+                51.78294532105263
+              ],
+              [
+                5.520815893889561,
+                51.78298366944147
+              ],
+              [
+                5.520685529880664,
+                51.78232810165187
+              ],
+              [
+                5.521501728436921,
+                51.78228975485672
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.5213713504453645,
                 51.78163419486498
               ],
@@ -44444,6 +45572,126 @@
           [
             [
               [
+                5.517420825604493,
+                51.78248142744418
+              ],
+              [
+                5.517551113477392,
+                51.78313700160602
+              ],
+              [
+                5.516734940863898,
+                51.78317531930042
+              ],
+              [
+                5.516604672024741,
+                51.78251974354614
+              ],
+              [
+                5.517420825604493,
+                51.78248142744418
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.518236988180377,
+                51.78244310520396
+              ],
+              [
+                5.51836729508712,
+                51.78309867777312
+              ],
+              [
+                5.517551113477392,
+                51.78313700160602
+              ],
+              [
+                5.517420825604493,
+                51.78248142744418
+              ],
+              [
+                5.518236988180377,
+                51.78244310520396
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5190531597519765,
+                51.78240477682529
+              ],
+              [
+                5.519183485692665,
+                51.78306034780152
+              ],
+              [
+                5.51836729508712,
+                51.78309867777312
+              ],
+              [
+                5.518236988180377,
+                51.78244310520396
+              ],
+              [
+                5.5190531597519765,
+                51.78240477682529
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.514842166129129,
+                51.781940784602384
+              ],
+              [
+                5.514972391855286,
+                51.78259635733606
+              ],
+              [
+                5.514156265266412,
+                51.78263465502441
+              ],
+              [
+                5.514026058572962,
+                51.781979080699124
+              ],
+              [
+                5.514842166129129,
+                51.781940784602384
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.515658282682566,
+                51.78190248236822
+              ],
+              [
+                5.515788527441533,
+                51.78255805351004
+              ],
+              [
+                5.514972391855286,
+                51.78259635733606
+              ],
+              [
+                5.514842166129129,
+                51.781940784602384
+              ],
+              [
+                5.515658282682566,
+                51.78190248236822
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.5155280429698745,
                 51.78124691743121
               ],
@@ -44510,6 +45758,54 @@
               [
                 5.513895856924348,
                 51.78132351257878
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.514026058572962,
+                51.781979080699124
+              ],
+              [
+                5.514156265266412,
+                51.78263465502441
+              ],
+              [
+                5.513340147675331,
+                51.78267294657527
+              ],
+              [
+                5.513209960014483,
+                51.78201737065862
+              ],
+              [
+                5.514026058572962,
+                51.781979080699124
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.513209960014483,
+                51.78201737065862
+              ],
+              [
+                5.513340147675331,
+                51.78267294657527
+              ],
+              [
+                5.512524039082452,
+                51.78271123198882
+              ],
+              [
+                5.512393870454102,
+                51.78205565448107
+              ],
+              [
+                5.513209960014483,
+                51.78201737065862
               ]
             ]
           ],
@@ -47636,6 +48932,54 @@
           [
             [
               [
+                5.512393870454102,
+                51.78205565448107
+              ],
+              [
+                5.512524039082452,
+                51.78271123198882
+              ],
+              [
+                5.511707939488191,
+                51.78274951126526
+              ],
+              [
+                5.511577789892236,
+                51.78209393216666
+              ],
+              [
+                5.512393870454102,
+                51.78205565448107
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.511577789892236,
+                51.78209393216666
+              ],
+              [
+                5.511707939488191,
+                51.78274951126526
+              ],
+              [
+                5.510891848892967,
+                51.78278778440479
+              ],
+              [
+                5.5107617183293,
+                51.782132203715584
+              ],
+              [
+                5.511577789892236,
+                51.78209393216666
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.511447645338955,
                 51.78143835927322
               ],
@@ -47708,6 +49052,102 @@
           [
             [
               [
+                5.509945655765707,
+                51.78217046912802
+              ],
+              [
+                5.510075767297188,
+                51.782826051407575
+              ],
+              [
+                5.50925969470127,
+                51.78286431227383
+              ],
+              [
+                5.509129602201871,
+                51.782208728404186
+              ],
+              [
+                5.509945655765707,
+                51.78217046912802
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5107617183293,
+                51.782132203715584
+              ],
+              [
+                5.510891848892967,
+                51.78278778440479
+              ],
+              [
+                5.510075767297188,
+                51.782826051407575
+              ],
+              [
+                5.509945655765707,
+                51.78217046912802
+              ],
+              [
+                5.5107617183293,
+                51.782132203715584
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.5083135576382105,
+                51.78224698154425
+              ],
+              [
+                5.5084436311056315,
+                51.78290256700374
+              ],
+              [
+                5.507627576510686,
+                51.78294081559749
+              ],
+              [
+                5.507497522075136,
+                51.782285228548396
+              ],
+              [
+                5.5083135576382105,
+                51.78224698154425
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.509129602201871,
+                51.782208728404186
+              ],
+              [
+                5.50925969470127,
+                51.78286431227383
+              ],
+              [
+                5.5084436311056315,
+                51.78290256700374
+              ],
+              [
+                5.5083135576382105,
+                51.78224698154425
+              ],
+              [
+                5.509129602201871,
+                51.782208728404186
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.508999514742985,
                 51.78155315073991
               ],
@@ -47780,6 +49220,54 @@
           [
             [
               [
+                5.507497522075136,
+                51.782285228548396
+              ],
+              [
+                5.507627576510686,
+                51.78294081559749
+              ],
+              [
+                5.506811530916843,
+                51.78297905805528
+              ],
+              [
+                5.506681495513063,
+                51.78232346941685
+              ],
+              [
+                5.507497522075136,
+                51.782285228548396
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.506681495513063,
+                51.78232346941685
+              ],
+              [
+                5.506811530916843,
+                51.78297905805528
+              ],
+              [
+                5.505995494324524,
+                51.783017294377295
+              ],
+              [
+                5.5058654779524066,
+                51.78236170414977
+              ],
+              [
+                5.506681495513063,
+                51.78232346941685
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.506551465147631,
                 51.781667886983996
               ],
@@ -47828,6 +49316,54 @@
           [
             [
               [
+                5.5058654779524066,
+                51.78236170414977
+              ],
+              [
+                5.505995494324524,
+                51.783017294377295
+              ],
+              [
+                5.5051794667341385,
+                51.783055524563714
+              ],
+              [
+                5.50504946939358,
+                51.78239993274736
+              ],
+              [
+                5.5058654779524066,
+                51.78236170414977
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.50504946939358,
+                51.78239993274736
+              ],
+              [
+                5.5051794667341385,
+                51.783055524563714
+              ],
+              [
+                5.504363448146102,
+                51.78309374861475
+              ],
+              [
+                5.504233469836999,
+                51.78243815520981
+              ],
+              [
+                5.50504946939358,
+                51.78239993274736
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.504919477089931,
                 51.78174434713672
               ],
@@ -47900,6 +49436,78 @@
           [
             [
               [
+                5.503417479283077,
+                51.78247637153731
+              ],
+              [
+                5.503547438560831,
+                51.78313196653058
+              ],
+              [
+                5.502731437978737,
+                51.7831701783114
+              ],
+              [
+                5.50260149773223,
+                51.78251458173004
+              ],
+              [
+                5.503417479283077,
+                51.78247637153731
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.504233469836999,
+                51.78243815520981
+              ],
+              [
+                5.504363448146102,
+                51.78309374861475
+              ],
+              [
+                5.503547438560831,
+                51.78313196653058
+              ],
+              [
+                5.503417479283077,
+                51.78247637153731
+              ],
+              [
+                5.504233469836999,
+                51.78243815520981
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.50260149773223,
+                51.78251458173004
+              ],
+              [
+                5.502731437978737,
+                51.7831701783114
+              ],
+              [
+                5.501915446400234,
+                51.7832083839574
+              ],
+              [
+                5.501785525184869,
+                51.782552785788205
+              ],
+              [
+                5.50260149773223,
+                51.78251458173004
+              ]
+            ]
+          ],
+          [
+            [
+              [
                 5.502471562520468,
                 51.7818589913546
               ],
@@ -47918,6 +49526,78 @@
               [
                 5.502471562520468,
                 51.7818589913546
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.501655609003529,
+                51.78189719382501
+              ],
+              [
+                5.501785525184869,
+                51.782552785788205
+              ],
+              [
+                5.500969561641412,
+                51.782590983712
+              ],
+              [
+                5.500839664490388,
+                51.78193539016129
+              ],
+              [
+                5.501655609003529,
+                51.78189719382501
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.500839664490388,
+                51.78193539016129
+              ],
+              [
+                5.500969561641412,
+                51.782590983712
+              ],
+              [
+                5.500153607102271,
+                51.7826291755016
+              ],
+              [
+                5.500023728981459,
+                51.78197358036363
+              ],
+              [
+                5.500839664490388,
+                51.78193539016129
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.500023728981459,
+                51.78197358036363
+              ],
+              [
+                5.500153607102271,
+                51.7826291755016
+              ],
+              [
+                5.49933766156786,
+                51.7826673611572
+              ],
+              [
+                5.499207802477154,
+                51.782011764432234
+              ],
+              [
+                5.500023728981459,
+                51.78197358036363
               ]
             ]
           ],
@@ -110560,6 +112240,78 @@
                 51.78075084686875
               ]
             ]
+          ],
+          [
+            [
+              [
+                5.5544193354663784,
+                51.782061857552954
+              ],
+              [
+                5.554550490126492,
+                51.78271737219667
+              ],
+              [
+                5.553733875014452,
+                51.782755969520316
+              ],
+              [
+                5.553602739394174,
+                51.78210045327269
+              ],
+              [
+                5.5544193354663784,
+                51.782061857552954
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.553602739394174,
+                51.78210045327269
+              ],
+              [
+                5.553733875014452,
+                51.782755969520316
+              ],
+              [
+                5.552917268880584,
+                51.78279456069657
+              ],
+              [
+                5.552786152300036,
+                51.78213904284529
+              ],
+              [
+                5.553602739394174,
+                51.78210045327269
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.552786152300036,
+                51.78213904284529
+              ],
+              [
+                5.552917268880584,
+                51.78279456069657
+              ],
+              [
+                5.552100671725299,
+                51.78283314572562
+              ],
+              [
+                5.551969574184379,
+                51.78217762627091
+              ],
+              [
+                5.552786152300036,
+                51.78213904284529
+              ]
+            ]
           ]
         ]
       },
@@ -110789,6 +112541,54 @@
               [
                 5.498169110865334,
                 51.77676721407526
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.499207802477154,
+                51.782011764432234
+              ],
+              [
+                5.500246816110564,
+                51.78725671199665
+              ],
+              [
+                5.493718510234288,
+                51.787562065265014
+              ],
+              [
+                5.492680714658976,
+                51.78231701618909
+              ],
+              [
+                5.499207802477154,
+                51.782011764432234
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.492680714658976,
+                51.78231701618909
+              ],
+              [
+                5.493718510234288,
+                51.787562065265014
+              ],
+              [
+                5.487190780946333,
+                51.787867025954725
+              ],
+              [
+                5.486154203375405,
+                51.782621875496176
+              ],
+              [
+                5.492680714658976,
+                51.78231701618909
               ]
             ]
           ],

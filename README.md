@@ -15,6 +15,11 @@ Windows command line script and partly manual procedure to create a Pokemon Go M
 * Serial Line Editor sed: http://gnuwin32.sourceforge.net/packages/sed.htm, manual: linux man pages (online)
 * CSVfix by Neil Butterworth: https://bitbucket.org/neilb/csvfix/downloads/
 * OSMCoverer by MzHub: https://github.com/MzHub/osmcoverer, download: https://github.com/MzHub/osmcoverer/releases
+  Check osmcoverer -h for available commands.
+  -excludecellfeatures will exclude S2 cells from the geojson. This will help the most with the file size.
+  -skipmarkerless will remove parks that have no gyms
+  -skipfeatureless will remove gyms that are not in parks
+
 
 ## Other resources
 * Show S2 cells on a map: https://s2.sidewalklabs.com/regioncoverer
@@ -78,7 +83,7 @@ My data is enriched with Pokemon GO data and subsequent scripting needs this inf
 * Further process a city csv file
 
 ## Generate parks map
-* Open: http://overpass-turbo.eu/s/ujd, http://overpass-turbo.eu/s/vs3 (2018-01-16)
+* Open: http://overpass-turbo.eu/s/vs3 (2018-01-16)
 * Take into view the map area you want to generate for
 * Press run
 * Press Export download geojson, save as: OverpassTurboParks.geojson
