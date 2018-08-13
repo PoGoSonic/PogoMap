@@ -408,8 +408,8 @@
       "properties": {
         "cellid": "47c6fc782fea9eab",
         "marker-color": "#ff9900",
-        "name": "Gym: Fountain",
-        "title": "Gym: Fountain",
+        "name": "Gym: Fountain [parklaan]",
+        "title": "Gym: Fountain [parklaan]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -462,8 +462,8 @@
       "properties": {
         "cellid": "47c6fcf567b274e3",
         "marker-color": "#ff9900",
-        "name": "Gym: Hand",
-        "title": "Gym: Hand",
+        "name": "Gym: Hand [hand raadhuislaan; raadhuislaan]",
+        "title": "Gym: Hand [hand raadhuislaan; raadhuislaan]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -536,24 +536,6 @@
         "marker-color": "#ff9900",
         "name": "Gym: Hengelaar",
         "title": "Gym: Hengelaar",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.52818,
-          51.733779
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcc54516699b",
-        "marker-color": "#ff9900",
-        "name": "Gym: Herdenkingssteen",
-        "title": "Gym: Herdenkingssteen",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -698,6 +680,24 @@
         "marker-color": "#ff9900",
         "name": "Gym: Kids Playground Berghem I [berghem 1; berghem i]",
         "title": "Gym: Kids Playground Berghem I [berghem 1; berghem i]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.515854,
+          51.760002
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc8c0a1c3b4d",
+        "marker-color": "#ff9900",
+        "name": "Gym: Koning Op Dak [koning; dak; op dak]",
+        "title": "Gym: Koning Op Dak [koning; dak; op dak]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1074,8 +1074,8 @@
       "properties": {
         "cellid": "47c6fcf570a03b93",
         "marker-color": "#ff9900",
-        "name": "Gym: Oss",
-        "title": "Gym: Oss",
+        "name": "Gym: Oss [raadhuishof]",
+        "title": "Gym: Oss [raadhuishof]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1128,8 +1128,8 @@
       "properties": {
         "cellid": "47c6fdac91f92b95",
         "marker-color": "#ff9900",
-        "name": "Gym: Solar Tree",
-        "title": "Gym: Solar Tree",
+        "name": "Gym: Solar Tree [osseweg]",
+        "title": "Gym: Solar Tree [osseweg]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1146,8 +1146,8 @@
       "properties": {
         "cellid": "47c6fc7bb50fe9db",
         "marker-color": "#ff9900",
-        "name": "Gym: Speeltuin",
-        "title": "Gym: Speeltuin",
+        "name": "Gym: Speeltuin [purperbeer]",
+        "title": "Gym: Speeltuin [purperbeer]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1391,6 +1391,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.534307,
+          51.732542
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcd0a6db0e9d",
+        "marker-color": "#ff9900",
+        "name": "Gym: Wall Art",
+        "title": "Gym: Wall Art",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.526161,
           51.770612
         ]
@@ -1427,15 +1445,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.532855,
-          51.777046
+          5.505349,
+          51.762786
         ]
       },
       "properties": {
-        "cellid": "47c6fc44ed4835af",
+        "cellid": "47c6fc86563df5b7",
         "marker-color": "#ff9900",
-        "name": "Gym: Zwervend Erf [zwervend]",
-        "title": "Gym: Zwervend Erf [zwervend]",
+        "name": "Gym: Zwaan",
+        "title": "Gym: Zwaan",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1508,6 +1526,24 @@
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Heilig Hart Church [heilig hart]",
         "title": "Ex-raid Gym: Heilig Hart Church [heilig hart]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.52818,
+          51.733779
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcc54516699b",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Herdenkingssteen",
+        "title": "Ex-raid Gym: Herdenkingssteen",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -1688,6 +1724,24 @@
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Speeltuin Dobbe [dobbe]",
         "title": "Ex-raid Gym: Speeltuin Dobbe [dobbe]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.524134,
+          51.753183
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fced97ad8b73",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Voetbalveld Sibeliuspark [Sibeliuspark]",
+        "title": "Ex-raid Gym: Voetbalveld Sibeliuspark [Sibeliuspark]",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }

@@ -257,6 +257,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.417152,
+          51.712886
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e53b73af0c91",
+        "marker-color": "#808080",
+        "name": "Unknown: Beschermleeuw Pilaar",
+        "title": "Unknown: Beschermleeuw Pilaar",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.40588,
           51.722336
         ]
@@ -1724,6 +1742,30 @@
               [
                 5.393606800469173,
                 51.712842409989584
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.392589572894638,
+                51.70760202719059
+              ],
+              [
+                5.393606800469173,
+                51.712842409989584
+              ],
+              [
+                5.387104806837136,
+                51.71314078409438
+              ],
+              [
+                5.386088791037521,
+                51.70790030211043
+              ],
+              [
+                5.392589572894638,
+                51.70760202719059
               ]
             ]
           ],

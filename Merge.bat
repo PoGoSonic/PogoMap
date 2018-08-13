@@ -26,7 +26,7 @@ bin\csvfix\csvfix.exe sort -rh -f 1:AI,5:N,6:N GoogleSheets.csv         | bin\cs
 bin\csvfix\csvfix.exe sort -rh -f 1:AI,5:N,6:N GoogleSheets_Pending.csv | bin\csvfix\csvfix.exe trim -f 1 | bin\sed\sed -r "/Location Name/d" > tmp\GoogleSheets_Pending_sort.csv
 
 ECHO Merge Ingress portal exports with new database
-@REM bin\csvfix\csvfix.exe unique -f 1,5,6 PokemonGoLocations_new.csv tmp\export2.csv             | bin\csvfix\csvfix.exe sort -f 1:AI,5:N,6:N > PokemonGoLocations_new2.csv
+@REM bin\csvfix\csvfix.exe unique -f 1,5,6 PokemonGoLocations_new.csv  tmp\export2.csv            | bin\csvfix\csvfix.exe sort -f 1:AI,5:N,6:N > PokemonGoLocations_new2.csv
 @REM bin\csvfix\csvfix.exe unique -f 1,5,6 PokemonGoLocations_new2.csv tmp\export_oss2.csv        | bin\csvfix\csvfix.exe sort -f 1:AI,5:N,6:N > PokemonGoLocations_new3.csv
 @REM bin\csvfix\csvfix.exe unique -f 1,5,6 PokemonGoLocations_new3.csv tmp\export_heesch2.csv     | bin\csvfix\csvfix.exe sort -f 1:AI,5:N,6:N > PokemonGoLocations_new4.csv
 @REM bin\csvfix\csvfix.exe unique -f 1,5,6 PokemonGoLocations_new4.csv tmp\export_nistelrode2.csv | bin\csvfix\csvfix.exe sort -f 1:AI,5:N,6:N > PokemonGoLocations_new5.csv
@@ -38,16 +38,21 @@ MOVE /Y PokemonGoLocations.csv PokemonGoLocations_old.csv
 MOVE /Y PokemonGoLocations_new.csv PokemonGoLocations.csv
 
 ECHO Split by city
+del PokemonGoLocations_Berghem.csv
+del PokemonGoLocations_Geffen.csv
+del PokemonGoLocations_Heesch.csv
+del PokemonGoLocations_HeeschBuiten.csv
+del PokemonGoLocations_Herpen.csv
+del PokemonGoLocations_Nistelrode.csv
 del PokemonGoLocations_Oss.csv
 del PokemonGoLocations_OssBuiten.csv
-del PokemonGoLocations_Berghem.csv
-del PokemonGoLocations_Heesch.csv
-del PokemonGoLocations_Nistelrode.csv
-del PokemonGoLocations_Geffen.csv
+del PokemonGoLocations_Rosmalen.csv
 del PokemonGoLocations_Schaijk.csv
+del PokemonGoLocations_Uden.csv
+del PokemonGoLocations_Velp.csv
+del PokemonGoLocations_Zeeland.csv
 bin\csvfix\csvfix file_split -f 4 -ufn -fd . -fp PokemonGoLocations_ PokemonGoLocations.csv
 COPY /Y PokemonGoLocations_Oss.csv + PokemonGoLocations_Berghem.csv PokemonGoLocations_OssBerghem.csv 
-
 
 
 
