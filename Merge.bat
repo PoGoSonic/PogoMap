@@ -38,6 +38,7 @@ MOVE /Y PokemonGoLocations.csv PokemonGoLocations_old.csv
 MOVE /Y PokemonGoLocations_new.csv PokemonGoLocations.csv
 
 ECHO Split by city
+del PokemonGoLocations_.csv
 del PokemonGoLocations_Berghem.csv
 del PokemonGoLocations_Geffen.csv
 del PokemonGoLocations_Heesch.csv

@@ -138,24 +138,6 @@
       "properties": {
         "cellid": "47c6fda2d0306ac7",
         "marker-color": "#40B0F0",
-        "name": "Stop: Kids Playground 't Bikkeltje [bikkeltje; 't bikkeltje]",
-        "title": "Stop: Kids Playground 't Bikkeltje [bikkeltje; 't bikkeltje]",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.5741205,
-          51.7729801
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fda2cd977a33",
-        "marker-color": "#40B0F0",
         "name": "Stop: Kids Playground 't Bikkeltje [bikkeltje; t bikkeltje; kids playground t bikketje]",
         "title": "Stop: Kids Playground 't Bikkeltje [bikkeltje; t bikkeltje; kids playground t bikketje]",
         "marker-size": "small",
@@ -336,8 +318,8 @@
       "properties": {
         "cellid": "47c6fd91713476e7",
         "marker-color": "#40B0F0",
-        "name": "Stop: Voetbaloefenveld",
-        "title": "Stop: Voetbaloefenveld",
+        "name": "Stop: Voetbaloefenveld [oefenveld]",
+        "title": "Stop: Voetbaloefenveld [oefenveld]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -520,6 +502,114 @@
         "title": "Ex-raid Gym: Art Installation at Church of Berghem [art installation]",
         "marker-size": "small",
         "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.57104,
+          51.767041
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fda16dd82e3f",
+        "marker-color": "#808080",
+        "name": "Unknown: Kids Playground Berghem IIII [berghem 4; berghem iiii]",
+        "title": "Unknown: Kids Playground Berghem IIII [berghem 4; berghem iiii]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.577457,
+          51.768797
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fd98c0c374a5",
+        "marker-color": "#808080",
+        "name": "Unknown: Kids Playground Berghem V [berghem 5; berghem v]",
+        "title": "Unknown: Kids Playground Berghem V [berghem 5; berghem v]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.576907,
+          51.768737
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fd98b9542415",
+        "marker-color": "#808080",
+        "name": "Unknown: Kids Playground Berghem VI",
+        "title": "Unknown: Kids Playground Berghem VI",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.581147,
+          51.770873
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fd99978a652d",
+        "marker-color": "#808080",
+        "name": "Unknown: Kids Playground Berghem VII [berghem 7; berghem vii]",
+        "title": "Unknown: Kids Playground Berghem VII [berghem 7; berghem vii]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.574967,
+          51.77014
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fda2649afdc1",
+        "marker-color": "#808080",
+        "name": "Unknown: Kids Playground Berghem VIII [berghem 8; berghem viii]",
+        "title": "Unknown: Kids Playground Berghem VIII [berghem 8; berghem viii]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.570073,
+          51.774408
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fdbb5f373bf9",
+        "marker-color": "#808080",
+        "name": "Unknown: Little Playground",
+        "title": "Unknown: Little Playground",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
       }
     },
     {

@@ -210,8 +210,8 @@
       "properties": {
         "cellid": "47c6fc5477b18c1f",
         "marker-color": "#40B0F0",
-        "name": "Stop: CRUYFF COURT FC OSS",
-        "title": "Stop: CRUYFF COURT FC OSS",
+        "name": "Stop: CRUYFF COURT FC OSS [cruyff court]",
+        "title": "Stop: CRUYFF COURT FC OSS [cruyff court]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -228,8 +228,8 @@
       "properties": {
         "cellid": "47c6fc982138cf8f",
         "marker-color": "#40B0F0",
-        "name": "Stop: Da Costa Speeltuin [da costa; da costastraat]",
-        "title": "Stop: Da Costa Speeltuin [da costa; da costastraat]",
+        "name": "Stop: Da Costa Speeltuin [da costa; da costastraat; costa]",
+        "title": "Stop: Da Costa Speeltuin [da costa; da costastraat; costa]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -365,6 +365,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.521523,
+          51.774125
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc67b7620ef5",
+        "marker-color": "#40B0F0",
+        "name": "Stop: De Zonnende Dame [zonnende dame]",
+        "title": "Stop: De Zonnende Dame [zonnende dame]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.520768,
           51.763812
         ]
@@ -390,8 +408,8 @@
       "properties": {
         "cellid": "47c6fce232136a19",
         "marker-color": "#40B0F0",
-        "name": "Stop: Docfapark Playground",
-        "title": "Stop: Docfapark Playground",
+        "name": "Stop: Docfapark Playground [docfapark]",
+        "title": "Stop: Docfapark Playground [docfapark]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -462,8 +480,8 @@
       "properties": {
         "cellid": "47c6fc9869edf35b",
         "marker-color": "#40B0F0",
-        "name": "Stop: Drijvershof Speeltuin",
-        "title": "Stop: Drijvershof Speeltuin",
+        "name": "Stop: Drijvershof Speeltuin [drijvershof]",
+        "title": "Stop: Drijvershof Speeltuin [drijvershof]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -714,8 +732,8 @@
       "properties": {
         "cellid": "47c6fc7b8b9e300f",
         "marker-color": "#40B0F0",
-        "name": "Stop: Glijbaan Stippelmot",
-        "title": "Stop: Glijbaan Stippelmot",
+        "name": "Stop: Glijbaan Stippelmot [stippelmot]",
+        "title": "Stop: Glijbaan Stippelmot [stippelmot]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -804,8 +822,8 @@
       "properties": {
         "cellid": "47c6fc859e2ead61",
         "marker-color": "#40B0F0",
-        "name": "Stop: Hand at Station; Oss West",
-        "title": "Stop: Hand at Station; Oss West",
+        "name": "Stop: Hand at Station; Oss West [hand at station; oss west]",
+        "title": "Stop: Hand at Station; Oss West [hand at station; oss west]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -966,8 +984,8 @@
       "properties": {
         "cellid": "47c6fcfc5f73625f",
         "marker-color": "#40B0F0",
-        "name": "Stop: Hoogheuvel Playground",
-        "title": "Stop: Hoogheuvel Playground",
+        "name": "Stop: Hoogheuvel Playground [hoogheuvel]",
+        "title": "Stop: Hoogheuvel Playground [hoogheuvel]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1164,8 +1182,8 @@
       "properties": {
         "cellid": "47c6fcf9712d9e17",
         "marker-color": "#40B0F0",
-        "name": "Stop: Kids Playground Zuiderpark",
-        "title": "Stop: Kids Playground Zuiderpark",
+        "name": "Stop: Kids Playground Zuiderpark [zuiderpark]",
+        "title": "Stop: Kids Playground Zuiderpark [zuiderpark]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1272,8 +1290,8 @@
       "properties": {
         "cellid": "47c6fc5c77e06b19",
         "marker-color": "#40B0F0",
-        "name": "Stop: Kruip Toestel Mini Mensjes",
-        "title": "Stop: Kruip Toestel Mini Mensjes",
+        "name": "Stop: Kruip Toestel Mini Mensjes [kruip toestel; mini mensjes]",
+        "title": "Stop: Kruip Toestel Mini Mensjes [kruip toestel; mini mensjes]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1290,8 +1308,8 @@
       "properties": {
         "cellid": "47c6fc42546524c1",
         "marker-color": "#40B0F0",
-        "name": "Stop: Logo Osse Tennisclub",
-        "title": "Stop: Logo Osse Tennisclub",
+        "name": "Stop: Logo Osse Tennisclub [osse tennisclub; tennisclub]",
+        "title": "Stop: Logo Osse Tennisclub [osse tennisclub; tennisclub]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1398,8 +1416,8 @@
       "properties": {
         "cellid": "47c6fc4c97a737b9",
         "marker-color": "#40B0F0",
-        "name": "Stop: Modern Art",
-        "title": "Stop: Modern Art",
+        "name": "Stop: Modern Art [kanaalstraat]",
+        "title": "Stop: Modern Art [kanaalstraat]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1416,8 +1434,8 @@
       "properties": {
         "cellid": "47c6fc5f085fd14f",
         "marker-color": "#40B0F0",
-        "name": "Stop: Moeder Mariabeeld",
-        "title": "Stop: Moeder Mariabeeld",
+        "name": "Stop: Moeder Mariabeeld [moeder maria]",
+        "title": "Stop: Moeder Mariabeeld [moeder maria]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1463,6 +1481,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.504096,
+          51.769879
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7c1875989f",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Mozaiek Kunst",
+        "title": "Stop: Mozaiek Kunst",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.497161,
           51.748907
         ]
@@ -1481,24 +1517,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.504096,
-          51.769879
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc7c1875989f",
-        "marker-color": "#40B0F0",
-        "name": "Stop: Mozaïek Kunst",
-        "title": "Stop: Mozaïek Kunst",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.506466,
           51.753863
         ]
@@ -1506,8 +1524,8 @@
       "properties": {
         "cellid": "47c6fc9a9f5c0985",
         "marker-color": "#40B0F0",
-        "name": "Stop: Nadenkend Mannetje",
-        "title": "Stop: Nadenkend Mannetje",
+        "name": "Stop: Nadenkend Mannetje [nadenkend]",
+        "title": "Stop: Nadenkend Mannetje [nadenkend]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1524,8 +1542,8 @@
       "properties": {
         "cellid": "47c6fc6105f27d59",
         "marker-color": "#40B0F0",
-        "name": "Stop: Nieuw Leven 1895",
-        "title": "Stop: Nieuw Leven 1895",
+        "name": "Stop: Nieuw Leven 1895 [nieuw leven]",
+        "title": "Stop: Nieuw Leven 1895 [nieuw leven]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1560,8 +1578,8 @@
       "properties": {
         "cellid": "47c6fc77cc1e34d5",
         "marker-color": "#40B0F0",
-        "name": "Stop: Ontvangende kunstpop",
-        "title": "Stop: Ontvangende kunstpop",
+        "name": "Stop: Ontvangende kunstpop [kunstpop]",
+        "title": "Stop: Ontvangende kunstpop [kunstpop]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1578,8 +1596,8 @@
       "properties": {
         "cellid": "47c6fc59ec66af8b",
         "marker-color": "#40B0F0",
-        "name": "Stop: Patrijs Speeltuin",
-        "title": "Stop: Patrijs Speeltuin",
+        "name": "Stop: Patrijs Speeltuin [patrijs]",
+        "title": "Stop: Patrijs Speeltuin [patrijs]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1794,8 +1812,8 @@
       "properties": {
         "cellid": "47c6fc5ae8b7c1d9",
         "marker-color": "#40B0F0",
-        "name": "Stop: Plop Voetbalveld",
-        "title": "Stop: Plop Voetbalveld",
+        "name": "Stop: Plop Voetbalveld [plop]",
+        "title": "Stop: Plop Voetbalveld [plop]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1884,8 +1902,8 @@
       "properties": {
         "cellid": "47c6fc98576a9191",
         "marker-color": "#40B0F0",
-        "name": "Stop: Roedel Speeltuin",
-        "title": "Stop: Roedel Speeltuin",
+        "name": "Stop: Roedel Speeltuin [roedel; roedelhof]",
+        "title": "Stop: Roedel Speeltuin [roedel; roedelhof]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1922,6 +1940,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Roundabout Art [roundabout]",
         "title": "Stop: Roundabout Art [roundabout]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.524351,
+          51.777393
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc68265ce2f7",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Rusheuvel Sportpark [rusheuvel]",
+        "title": "Stop: Rusheuvel Sportpark [rusheuvel]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1974,8 +2010,8 @@
       "properties": {
         "cellid": "47c6fc6850afe2bb",
         "marker-color": "#40B0F0",
-        "name": "Stop: Skate Baan Graffiti",
-        "title": "Stop: Skate Baan Graffiti",
+        "name": "Stop: Skate Baan Graffiti [skatebaan graffity]",
+        "title": "Stop: Skate Baan Graffiti [skatebaan graffity]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -1992,8 +2028,8 @@
       "properties": {
         "cellid": "47c6fc5b2557af33",
         "marker-color": "#40B0F0",
-        "name": "Stop: Skatebaan",
-        "title": "Stop: Skatebaan",
+        "name": "Stop: Skatebaan [skate baan]",
+        "title": "Stop: Skatebaan [skate baan]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -2028,8 +2064,8 @@
       "properties": {
         "cellid": "47c6fc8505b34fd1",
         "marker-color": "#40B0F0",
-        "name": "Stop: Soccerfield Treubstraat 2",
-        "title": "Stop: Soccerfield Treubstraat 2",
+        "name": "Stop: Soccerfield Treubstraat 2 [treubstraat]",
+        "title": "Stop: Soccerfield Treubstraat 2 [treubstraat]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -2165,15 +2201,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.520733,
-          51.779438
+          5.509293,
+          51.776579
         ]
       },
       "properties": {
-        "cellid": "47c6fc69124ac45d",
+        "cellid": "47c6fc7073f80d29",
         "marker-color": "#40B0F0",
-        "name": "Stop: Speeltuin Haagpoort [haagpoort]",
-        "title": "Stop: Speeltuin Haagpoort [haagpoort]",
+        "name": "Stop: Speeltuin Groenendaal [groenendaal]",
+        "title": "Stop: Speeltuin Groenendaal [groenendaal]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.510405,
+          51.782518
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc72395211a5",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Harnas [harnas]",
+        "title": "Stop: Speeltuin Harnas [harnas]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -2496,8 +2550,8 @@
       "properties": {
         "cellid": "47c6fc5f9e8ebd45",
         "marker-color": "#40B0F0",
-        "name": "Stop: Struikelsteentjes",
-        "title": "Stop: Struikelsteentjes",
+        "name": "Stop: Struikelsteentjes [boterstraat]",
+        "title": "Stop: Struikelsteentjes [boterstraat]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -2730,8 +2784,8 @@
       "properties": {
         "cellid": "47c6fcf98ba7ca31",
         "marker-color": "#40B0F0",
-        "name": "Stop: Wall art Zuid",
-        "title": "Stop: Wall art Zuid",
+        "name": "Stop: Wall art Zuid [karel doormanstraat]",
+        "title": "Stop: Wall art Zuid [karel doormanstraat]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -3209,6 +3263,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.511422,
+          51.78214
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc72107ada7f",
+        "marker-color": "#ff9900",
+        "name": "Gym: Glijbaan Schutterij [schutterij]",
+        "title": "Gym: Glijbaan Schutterij [schutterij]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.523903,
           51.764437
         ]
@@ -3450,8 +3522,8 @@
       "properties": {
         "cellid": "47c6fce4d262c257",
         "marker-color": "#ff9900",
-        "name": "Gym: Modern Art",
-        "title": "Gym: Modern Art",
+        "name": "Gym: Modern Art [emmalaan]",
+        "title": "Gym: Modern Art [emmalaan]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -3488,24 +3560,6 @@
         "marker-color": "#ff9900",
         "name": "Gym: Oss [raadhuishof]",
         "title": "Gym: Oss [raadhuishof]",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.539889,
-          51.768586
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc56db949937",
-        "marker-color": "#ff9900",
-        "name": "Gym: Roodborst Speeltuin [roodborst]",
-        "title": "Gym: Roodborst Speeltuin [roodborst]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -3605,6 +3659,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.520733,
+          51.779438
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc69124ac45d",
+        "marker-color": "#ff9900",
+        "name": "Gym: Speeltuin Haagpoort [haagpoort]",
+        "title": "Gym: Speeltuin Haagpoort [haagpoort]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.535502,
           51.754953
         ]
@@ -3659,24 +3731,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.532293,
-          51.770108
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5bd766fa7f",
-        "marker-color": "#ff9900",
-        "name": "Gym: Statue Jurgensplein [jurgensplein; jurgenshuis; anton jurgenshuis]",
-        "title": "Gym: Statue Jurgensplein [jurgensplein; jurgenshuis; anton jurgenshuis]",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.529917,
           51.76977
         ]
@@ -3704,24 +3758,6 @@
         "marker-color": "#ff9900",
         "name": "Gym: Train Station Oss [station oss]",
         "title": "Gym: Train Station Oss [station oss]",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.491891,
-          51.76766
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fb81c7258a7b",
-        "marker-color": "#ff9900",
-        "name": "Gym: Voetbal Veld [voetbalveld]",
-        "title": "Gym: Voetbal Veld [voetbalveld]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -3965,6 +4001,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.539889,
+          51.768586
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc56db949937",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Roodborst Speeltuin [roodborst]",
+        "title": "Ex-raid Gym: Roodborst Speeltuin [roodborst]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.538312,
           51.759585
         ]
@@ -3992,6 +4046,42 @@
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Speeltuin Dobbe [dobbe]",
         "title": "Ex-raid Gym: Speeltuin Dobbe [dobbe]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.532293,
+          51.770108
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5bd766fa7f",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Statue Jurgensplein [jurgensplein; jurgenshuis; anton jurgenshuis]",
+        "title": "Ex-raid Gym: Statue Jurgensplein [jurgensplein; jurgenshuis; anton jurgenshuis]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.491891,
+          51.76766
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb81c7258a7b",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Voetbal Veld [voetbalveld]",
+        "title": "Ex-raid Gym: Voetbal Veld [voetbalveld]",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -4044,10 +4134,28 @@
       "properties": {
         "cellid": "47c6fb7f96193dc3",
         "marker-color": "#FF2020",
-        "name": "Ex-raid Gym: Wall Art",
-        "title": "Ex-raid Gym: Wall Art",
+        "name": "Ex-raid Gym: Wall Art [hazenkamplaan]",
+        "title": "Ex-raid Gym: Wall Art [hazenkamplaan]",
         "marker-size": "small",
         "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.513307,
+          51.766123
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc627aada93d",
+        "marker-color": "#808080",
+        "name": "Unknown: Bermakker Voetbalveld [bermakker]",
+        "title": "Unknown: Bermakker Voetbalveld [bermakker]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
       }
     },
     {
@@ -4062,8 +4170,44 @@
       "properties": {
         "cellid": "47c6fc910a369d2d",
         "marker-color": "#808080",
-        "name": "Unknown: Camphuysen Speeltuin",
-        "title": "Unknown: Camphuysen Speeltuin",
+        "name": "Unknown: Camphuysen Speeltuin [camphuysen]",
+        "title": "Unknown: Camphuysen Speeltuin [camphuysen]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.533989,
+          51.767668
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc59b704bed7",
+        "marker-color": "#808080",
+        "name": "Unknown: Dr. Adrianus van der Steen",
+        "title": "Unknown: Dr. Adrianus van der Steen",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.523896,
+          51.76669
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5fc6c48475",
+        "marker-color": "#808080",
+        "name": "Unknown: Gedicht Haarviltstraat",
+        "title": "Unknown: Gedicht Haarviltstraat",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4091,24 +4235,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.511422,
-          51.78214
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc72107ada7f",
-        "marker-color": "#808080",
-        "name": "Unknown: Glijbaan Schutterij",
-        "title": "Unknown: Glijbaan Schutterij",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.536154,
           51.770252
         ]
@@ -4116,8 +4242,8 @@
       "properties": {
         "cellid": "47c6fc5a0648c63b",
         "marker-color": "#808080",
-        "name": "Unknown: Hannie Schaft Speeltuin",
-        "title": "Unknown: Hannie Schaft Speeltuin",
+        "name": "Unknown: Hannie Schaft Speeltuin [hannie schaft]",
+        "title": "Unknown: Hannie Schaft Speeltuin [hannie schaft]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4134,8 +4260,26 @@
       "properties": {
         "cellid": "47c6fc522e4f4113",
         "marker-color": "#808080",
-        "name": "Unknown: Klimrek Johannes Post",
-        "title": "Unknown: Klimrek Johannes Post",
+        "name": "Unknown: Klimrek Johannes Post [johannes post]",
+        "title": "Unknown: Klimrek Johannes Post [johannes post]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509905,
+          51.781088
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc718f18de73",
+        "marker-color": "#808080",
+        "name": "Unknown: Mettegeupel Natuurbord",
+        "title": "Unknown: Mettegeupel Natuurbord",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4152,8 +4296,62 @@
       "properties": {
         "cellid": "47c6fc5992fff80d",
         "marker-color": "#808080",
-        "name": "Unknown: MiniVoetbalveld Duiven",
-        "title": "Unknown: MiniVoetbalveld Duiven",
+        "name": "Unknown: MiniVoetbalveld Duiven [duiven]",
+        "title": "Unknown: MiniVoetbalveld Duiven [duiven]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.524573,
+          51.767759
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5e4a5571ff",
+        "marker-color": "#808080",
+        "name": "Unknown: Mozaiek Houtstraat [houtstraat]",
+        "title": "Unknown: Mozaiek Houtstraat [houtstraat]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.524573,
+          51.767759
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5e4a5571ff",
+        "marker-color": "#808080",
+        "name": "Unknown: Mozaïek Houtstraat",
+        "title": "Unknown: Mozaïek Houtstraat",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.504096,
+          51.769879
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7c1875989f",
+        "marker-color": "#808080",
+        "name": "Unknown: Mozaïek Kunst",
+        "title": "Unknown: Mozaïek Kunst",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4170,8 +4368,8 @@
       "properties": {
         "cellid": "47c6fc6505cfd917",
         "marker-color": "#808080",
-        "name": "Unknown: Plophut Met Bank",
-        "title": "Unknown: Plophut Met Bank",
+        "name": "Unknown: Plophut Met Bank [plophut]",
+        "title": "Unknown: Plophut Met Bank [plophut]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4188,8 +4386,26 @@
       "properties": {
         "cellid": "47c6fdab150486e5",
         "marker-color": "#808080",
-        "name": "Unknown: Ploptorentje Speeltuin",
-        "title": "Unknown: Ploptorentje Speeltuin",
+        "name": "Unknown: Ploptorentje Speeltuin [plpoptorentje]",
+        "title": "Unknown: Ploptorentje Speeltuin [plpoptorentje]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.542578,
+          51.753897
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcfcd14ef1e5",
+        "marker-color": "#808080",
+        "name": "Unknown: Soccerfield Kastanjelaan [kastanjelaan]",
+        "title": "Unknown: Soccerfield Kastanjelaan [kastanjelaan]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4206,44 +4422,8 @@
       "properties": {
         "cellid": "47c6fc8cbd8535f9",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Basket",
-        "title": "Unknown: Speeltuin Basket",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.509293,
-          51.776579
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc7073f80d29",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Groenendaal",
-        "title": "Unknown: Speeltuin Groenendaal",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.510405,
-          51.782518
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc72395211a5",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Harnas",
-        "title": "Unknown: Speeltuin Harnas",
+        "name": "Unknown: Speeltuin Basket [basket]",
+        "title": "Unknown: Speeltuin Basket [basket]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4280,6 +4460,24 @@
         "marker-color": "#808080",
         "name": "Unknown: Speeltuin Kiviet [kiviet]",
         "title": "Unknown: Speeltuin Kiviet [kiviet]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.512656,
+          51.766437
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc626211692d",
+        "marker-color": "#808080",
+        "name": "Unknown: Spieakker Speeltuin [spieakker]",
+        "title": "Unknown: Spieakker Speeltuin [spieakker]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4343,6 +4541,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.530117,
+          51.757169
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf1038c7fe9",
+        "marker-color": "#808080",
+        "name": "Unknown: Villa Katrien [katrien]",
+        "title": "Unknown: Villa Katrien [katrien]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.544209,
           51.772062
         ]
@@ -4350,8 +4566,26 @@
       "properties": {
         "cellid": "47c6fc52329be371",
         "marker-color": "#808080",
-        "name": "Unknown: Voetbalveld Johannes Post",
-        "title": "Unknown: Voetbalveld Johannes Post",
+        "name": "Unknown: Voetbalveld Johannes Post [johannes post]",
+        "title": "Unknown: Voetbalveld Johannes Post [johannes post]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.501004,
+          51.775417
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7835097a15",
+        "marker-color": "#808080",
+        "name": "Unknown: Voetbalveld Parklaan",
+        "title": "Unknown: Voetbalveld Parklaan",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4370,6 +4604,24 @@
         "marker-color": "#808080",
         "name": "Unknown: Voormalige Kazerne [kazerne]",
         "title": "Unknown: Voormalige Kazerne [kazerne]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.536704,
+          51.75899
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcfa286c84dd",
+        "marker-color": "#808080",
+        "name": "Unknown: Wall Art Zuid II",
+        "title": "Unknown: Wall Art Zuid II",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4404,8 +4656,8 @@
       "properties": {
         "cellid": "47c6fcee4b9fe6cf",
         "marker-color": "#808080",
-        "name": "Unknown: Wereldbol Ruivert",
-        "title": "Unknown: Wereldbol Ruivert",
+        "name": "Unknown: Wereldbol Ruivert [wereldbol]",
+        "title": "Unknown: Wereldbol Ruivert [wereldbol]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4728,8 +4980,8 @@
       "properties": {
         "cellid": "47c6fc60bcfa2569",
         "marker-color": "#000000",
-        "name": "Not Availble: Willibrordus Kerk",
-        "title": "Not Availble: Willibrordus Kerk",
+        "name": "Not Availble: Willibrordus Kerk [willibrordus]",
+        "title": "Not Availble: Willibrordus Kerk [willibrordus]",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -4937,24 +5189,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.511413,
-          51.782131
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc72107ba38b",
-        "marker-color": "#000080",
-        "name": "Pending request: Glijbaan Schutterij [schutterij]",
-        "title": "Pending request: Glijbaan Schutterij [schutterij]",
-        "marker-size": "small",
-        "marker-symbol": "parking"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.503717,
           51.768528
         ]
@@ -5063,42 +5297,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.509376,
-          51.776581
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc70738a2887",
-        "marker-color": "#000080",
-        "name": "Pending request: Speeltuin Groenendaal [groenendaal]",
-        "title": "Pending request: Speeltuin Groenendaal [groenendaal]",
-        "marker-size": "small",
-        "marker-symbol": "parking"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.51041,
-          51.782516
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc72395267e1",
-        "marker-color": "#000080",
-        "name": "Pending request: Speeltuin Harnas [harnas]",
-        "title": "Pending request: Speeltuin Harnas [harnas]",
-        "marker-size": "small",
-        "marker-symbol": "parking"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.546485,
           51.768673
         ]
@@ -5198,24 +5396,6 @@
         "marker-color": "#000080",
         "name": "Pending request: Vijversingel kruijff veld [kruijff veld]",
         "title": "Pending request: Vijversingel kruijff veld [kruijff veld]",
-        "marker-size": "small",
-        "marker-symbol": "parking"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.529961,
-          51.757042
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcf10698021b",
-        "marker-color": "#000080",
-        "name": "Pending request: Villa Katrien",
-        "title": "Pending request: Villa Katrien",
         "marker-size": "small",
         "marker-symbol": "parking"
       }

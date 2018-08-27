@@ -100,20 +100,25 @@ You will see the created map with locations and S2 grids
 * Open: https://www.google.com/maps/d/
 * Create a new map give it a name and description, for example: 
   > Lower levels are 1/4 except the first level are 1/6 of the globe:
-  >         S2 Level  6 Geoblocking, Regional pokemon
-  >         S2 Level 10 Pokemon caught location
+  >         S2 Level  6 Geoblocking, Ingress portal review (en buurcellen)
+  >         S2 Level  9 Regional pokemon?
+  >         S2 Level 10 Pokemon caught/Egg found location (iOS and Android resolve to names differently)
+  >         S2 Level 10/11 Weather?
   >         S2 Level 12 One Ex raid invitation per cycle
   > Red:    S2 Level 13 Ex Gyms and grid (1 per cell)
-  > Orange: S2 Level 14 Gym location and (0-1:0, 2-5: 1, 6-19: 2, 20-59: 3, (unconfirmed 27+: 4 gyms?))
+  > Orange: S2 Level 14 Gym location and (0-1:0, 2-5: 1, 6-19: 2, 20-59: 3, (unconfirmed 27+: 4 gyms?)), Biome?
   >         S2 Level 15 Geoblocking military
   >         S2 Level 16 Pokestop viewing/loading distance, World map
-  > Blue:   S2 Level 17 Stop location and (1 per cell)
-  >         S2 Level 20 Pokemon spawn locations & center in land use for ex raids
+  > Blue:   S2 Level 17 Stop location (1 per cell, oudste ingress portal)
+  >         S2 Level 19 Ingress Portal location (1 per cell)
+  >         S2 Level 20 Pokemon spawn locations & center in land use for ex raids, Egg walking distance?
   > Gray: Unknown type
   > Black: Only portal not a stop
   > Maroon: Removed stop/gym
   > See: https://pokemongohub.net/post/article/comprehensive-guide-s2-cells-pokemon-go/
   > See: https://pokemongo.gamepress.gg/s2-cells-foundation-pokemon-go-design
+  > See: http://blog.christianperone.com/2015/08/googles-s2-geometry-on-the-sphere-cells-and-hilbert-curve/
+  > See: https://articles.pokebattler.com/2018/02/26/determining-which-gyms-will-get-you-ex-raid-passes-for-mewtwo-part-2/
 * Press import and select the KML file
   Google Maps looses location colors and symbols and grid colors and there was an error importing the KML file
 

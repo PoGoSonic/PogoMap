@@ -228,8 +228,8 @@
       "properties": {
         "cellid": "47c6fb3f6a065931",
         "marker-color": "#ff9900",
-        "name": "Gym: Mozaïek Bankje Koppellinck [koppellinck; koppelinck; mozaiek bankje; mozaiek bakje koppellinck]",
-        "title": "Gym: Mozaïek Bankje Koppellinck [koppellinck; koppelinck; mozaiek bankje; mozaiek bakje koppellinck]",
+        "name": "Gym: MozaÃ¯ek Bankje Koppellinck [koppellinck; koppelinck; mozaiek bankje; mozaiek bakje koppellinck]",
+        "title": "Gym: MozaÃ¯ek Bankje Koppellinck [koppellinck; koppelinck; mozaiek bankje; mozaiek bakje koppellinck]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -518,6 +518,24 @@
         "marker-color": "#808080",
         "name": "Unknown: Modern Art",
         "title": "Unknown: Modern Art",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.463841,
+          51.742665
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb3f6a065931",
+        "marker-color": "#808080",
+        "name": "Unknown: Mozaïek Bankje Koppellinck",
+        "title": "Unknown: Mozaïek Bankje Koppellinck",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }

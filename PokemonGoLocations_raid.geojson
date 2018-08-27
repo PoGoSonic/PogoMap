@@ -95,6 +95,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.637691,
+          51.741479
+        ]
+      },
+      "properties": {
+        "cellid": "47c702e6363c9595",
+        "marker-color": "#ff9900",
+        "name": "Gym: Avonturentuin In d'n Hof [avonturentuin]",
+        "title": "Gym: Avonturentuin In d'n Hof [avonturentuin]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.506127,
           51.761419
         ]
@@ -446,6 +464,24 @@
         "marker-color": "#ff9900",
         "name": "Gym: Gemeentehuis Maasdonk [maasdonk]",
         "title": "Gym: Gemeentehuis Maasdonk [maasdonk]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.511422,
+          51.78214
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc72107ada7f",
+        "marker-color": "#ff9900",
+        "name": "Gym: Glijbaan Schutterij [schutterij]",
+        "title": "Gym: Glijbaan Schutterij [schutterij]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -984,8 +1020,8 @@
       "properties": {
         "cellid": "47c6fce4d262c257",
         "marker-color": "#ff9900",
-        "name": "Gym: Modern Art",
-        "title": "Gym: Modern Art",
+        "name": "Gym: Modern Art [emmalaan]",
+        "title": "Gym: Modern Art [emmalaan]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1085,24 +1121,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.539889,
-          51.768586
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc56db949937",
-        "marker-color": "#ff9900",
-        "name": "Gym: Roodborst Speeltuin [roodborst]",
-        "title": "Gym: Roodborst Speeltuin [roodborst]",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.544385,
           51.769287
         ]
@@ -1193,6 +1211,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.520733,
+          51.779438
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc69124ac45d",
+        "marker-color": "#ff9900",
+        "name": "Gym: Speeltuin Haagpoort [haagpoort]",
+        "title": "Gym: Speeltuin Haagpoort [haagpoort]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.535502,
           51.754953
         ]
@@ -1265,24 +1301,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.532293,
-          51.770108
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc5bd766fa7f",
-        "marker-color": "#ff9900",
-        "name": "Gym: Statue Jurgensplein [jurgensplein; jurgenshuis; anton jurgenshuis]",
-        "title": "Gym: Statue Jurgensplein [jurgensplein; jurgenshuis; anton jurgenshuis]",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.529917,
           51.76977
         ]
@@ -1337,24 +1355,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.491891,
-          51.76766
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fb81c7258a7b",
-        "marker-color": "#ff9900",
-        "name": "Gym: Voetbal Veld [voetbalveld]",
-        "title": "Gym: Voetbal Veld [voetbalveld]",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.541974,
           51.731992
         ]
@@ -1400,6 +1400,24 @@
         "marker-color": "#ff9900",
         "name": "Gym: Wall Art",
         "title": "Gym: Wall Art",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63337,
+          51.73906
+        ]
+      },
+      "properties": {
+        "cellid": "47c702e8244e7377",
+        "marker-color": "#ff9900",
+        "name": "Gym: Wall of fun art [fun art]",
+        "title": "Gym: Wall of fun art [fun art]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1697,6 +1715,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.539889,
+          51.768586
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc56db949937",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Roodborst Speeltuin [roodborst]",
+        "title": "Ex-raid Gym: Roodborst Speeltuin [roodborst]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.538312,
           51.759585
         ]
@@ -1724,6 +1760,42 @@
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Speeltuin Dobbe [dobbe]",
         "title": "Ex-raid Gym: Speeltuin Dobbe [dobbe]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.532293,
+          51.770108
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5bd766fa7f",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Statue Jurgensplein [jurgensplein; jurgenshuis; anton jurgenshuis]",
+        "title": "Ex-raid Gym: Statue Jurgensplein [jurgensplein; jurgenshuis; anton jurgenshuis]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.491891,
+          51.76766
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb81c7258a7b",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Voetbal Veld [voetbalveld]",
+        "title": "Ex-raid Gym: Voetbal Veld [voetbalveld]",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -1776,8 +1848,8 @@
       "properties": {
         "cellid": "47c6fb7f96193dc3",
         "marker-color": "#FF2020",
-        "name": "Ex-raid Gym: Wall Art",
-        "title": "Ex-raid Gym: Wall Art",
+        "name": "Ex-raid Gym: Wall Art [hazenkamplaan]",
+        "title": "Ex-raid Gym: Wall Art [hazenkamplaan]",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }

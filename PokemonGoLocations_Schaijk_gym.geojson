@@ -5,17 +5,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.627504,
-          51.725255
+          5.637691,
+          51.741479
         ]
       },
       "properties": {
-        "cellid": "47c702cedc0d5673",
-        "marker-color": "#808080",
-        "name": "Unknown: Als Een Vos In Het Water",
-        "title": "Unknown: Als Een Vos In Het Water",
+        "cellid": "47c702e6363c9595",
+        "marker-color": "#ff9900",
+        "name": "Gym: Avonturentuin In d'n Hof [avonturentuin]",
+        "title": "Gym: Avonturentuin In d'n Hof [avonturentuin]",
         "marker-size": "small",
-        "marker-symbol": "marker-stroked"
+        "marker-symbol": "fire-station"
       }
     },
     {
@@ -23,15 +23,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.637691,
-          51.741479
+          5.63337,
+          51.73906
         ]
       },
       "properties": {
-        "cellid": "47c702e6363c9595",
+        "cellid": "47c702e8244e7377",
+        "marker-color": "#ff9900",
+        "name": "Gym: Wall of fun art [fun art]",
+        "title": "Gym: Wall of fun art [fun art]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.627504,
+          51.725255
+        ]
+      },
+      "properties": {
+        "cellid": "47c702cedc0d5673",
         "marker-color": "#808080",
-        "name": "Unknown: Avonturentuin In d'n Hof",
-        "title": "Unknown: Avonturentuin In d'n Hof",
+        "name": "Unknown: Als Een Vos In Het Water [vos in het water; als een vos]",
+        "title": "Unknown: Als Een Vos In Het Water [vos in het water; als een vos]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -102,8 +120,8 @@
       "properties": {
         "cellid": "47c702e016e5bcaf",
         "marker-color": "#808080",
-        "name": "Unknown: De Vriendenkring",
-        "title": "Unknown: De Vriendenkring",
+        "name": "Unknown: De Vriendenkring [vriendenkring]",
+        "title": "Unknown: De Vriendenkring [vriendenkring]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -167,6 +185,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.637585,
+          51.740897
+        ]
+      },
+      "properties": {
+        "cellid": "47c702e7ca87c895",
+        "marker-color": "#808080",
+        "name": "Unknown: Kabelbaan De Akkerwinde",
+        "title": "Unknown: Kabelbaan De Akkerwinde",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.627973,
+          51.74988
+        ]
+      },
+      "properties": {
+        "cellid": "47c702f27d924be7",
+        "marker-color": "#808080",
+        "name": "Unknown: Korhaan met slang",
+        "title": "Unknown: Korhaan met slang",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.683032,
           51.746588
         ]
@@ -176,6 +230,24 @@
         "marker-color": "#808080",
         "name": "Unknown: Maria En Jezus",
         "title": "Unknown: Maria En Jezus",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.622424,
+          51.746467
+        ]
+      },
+      "properties": {
+        "cellid": "47c7029322c4c9af",
+        "marker-color": "#808080",
+        "name": "Unknown: Minisoccer DAW",
+        "title": "Unknown: Minisoccer DAW",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -210,8 +282,44 @@
       "properties": {
         "cellid": "47c702b3431efc6f",
         "marker-color": "#808080",
-        "name": "Unknown: National Park Maashorst Moeflon",
-        "title": "Unknown: National Park Maashorst Moeflon",
+        "name": "Unknown: National Park Maashorst Moeflon [park maashorst; moeflon]",
+        "title": "Unknown: National Park Maashorst Moeflon [park maashorst; moeflon]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637992,
+          51.751296
+        ]
+      },
+      "properties": {
+        "cellid": "47c702f07f4a86b1",
+        "marker-color": "#808080",
+        "name": "Unknown: Natuurspeeltuin 't Oliemeulen [oliemeulen; natuurspeeltuin]",
+        "title": "Unknown: Natuurspeeltuin 't Oliemeulen [oliemeulen; natuurspeeltuin]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637992,
+          51.751296
+        ]
+      },
+      "properties": {
+        "cellid": "47c702f07f4a86b1",
+        "marker-color": "#808080",
+        "name": "Unknown: Natuurspeeltuin ‘t Oliemeulen",
+        "title": "Unknown: Natuurspeeltuin ‘t Oliemeulen",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -264,8 +372,8 @@
       "properties": {
         "cellid": "47c702ee639a6e8d",
         "marker-color": "#808080",
-        "name": "Unknown: Schaijk statue Jezus minnend Hart",
-        "title": "Unknown: Schaijk statue Jezus minnend Hart",
+        "name": "Unknown: Schaijk statue Jezus minnend Hart [Jezus minnend hart; minnend hart]",
+        "title": "Unknown: Schaijk statue Jezus minnend Hart [Jezus minnend hart; minnend hart]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -282,8 +390,8 @@
       "properties": {
         "cellid": "47c702ee8a081409",
         "marker-color": "#808080",
-        "name": "Unknown: Schaijk statue Maria en Jezus",
-        "title": "Unknown: Schaijk statue Maria en Jezus",
+        "name": "Unknown: Schaijk statue Maria en Jezus [maria en jezus]",
+        "title": "Unknown: Schaijk statue Maria en Jezus [maria en jezus]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -318,8 +426,8 @@
       "properties": {
         "cellid": "47c702c2ad8e218d",
         "marker-color": "#808080",
-        "name": "Unknown: Shique de Luxe",
-        "title": "Unknown: Shique de Luxe",
+        "name": "Unknown: Shique de Luxe [shique]",
+        "title": "Unknown: Shique de Luxe [shique]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -336,8 +444,80 @@
       "properties": {
         "cellid": "47c702eda879b5e9",
         "marker-color": "#808080",
-        "name": "Unknown: Skateboard Central",
-        "title": "Unknown: Skateboard Central",
+        "name": "Unknown: Skateboard Central [skateboard]",
+        "title": "Unknown: Skateboard Central [skateboard]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63233,
+          51.739356
+        ]
+      },
+      "properties": {
+        "cellid": "47c702e9cd504553",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Hoekstraat [hoekstraat]",
+        "title": "Unknown: Speeltuin Hoekstraat [hoekstraat]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.626313,
+          51.741935
+        ]
+      },
+      "properties": {
+        "cellid": "47c702eba9ff0085",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Kaar [kaar]",
+        "title": "Unknown: Speeltuin Kaar [kaar]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.632206,
+          51.749883
+        ]
+      },
+      "properties": {
+        "cellid": "47c702f1e57bbbd7",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Smidse",
+        "title": "Unknown: Speeltuin Smidse",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.630408,
+          51.74451
+        ]
+      },
+      "properties": {
+        "cellid": "47c702eea919743b",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Zwingelhof",
+        "title": "Unknown: Speeltuin Zwingelhof",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -354,8 +534,26 @@
       "properties": {
         "cellid": "47c702eef4e47ac1",
         "marker-color": "#808080",
-        "name": "Unknown: Statue of Happy Farmer",
-        "title": "Unknown: Statue of Happy Farmer",
+        "name": "Unknown: Statue of Happy Farmer [happy farmer]",
+        "title": "Unknown: Statue of Happy Farmer [happy farmer]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63654,
+          51.735153
+        ]
+      },
+      "properties": {
+        "cellid": "47c702dce7e207ab",
+        "marker-color": "#808080",
+        "name": "Unknown: The Two Iron Man [two iron man]",
+        "title": "Unknown: The Two Iron Man [two iron man]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -372,8 +570,8 @@
       "properties": {
         "cellid": "47c702d91421053b",
         "marker-color": "#808080",
-        "name": "Unknown: Vakantiepark Olifant",
-        "title": "Unknown: Vakantiepark Olifant",
+        "name": "Unknown: Vakantiepark Olifant [olifant]",
+        "title": "Unknown: Vakantiepark Olifant [olifant]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -392,24 +590,6 @@
         "marker-color": "#808080",
         "name": "Unknown: W",
         "title": "Unknown: W",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.63337,
-          51.73906
-        ]
-      },
-      "properties": {
-        "cellid": "47c702e8244e7377",
-        "marker-color": "#808080",
-        "name": "Unknown: Wall of fun art",
-        "title": "Unknown: Wall of fun art",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
