@@ -232,6 +232,9 @@ ECHO Combine all (markers only)
 ECHO Combine all Gym location data without grids
 bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Gym.geojson %typefilename%_ExGym.geojson > %~n1_raid_min.geojson
 bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Gym.geojson %typefilename%_ExGym.geojson > %~n1_raid.geojson
+ECHO Combine all Gym location data with gym grid
+bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %s2filename%14.geojson > %~n1_gymonly_min.geojson
+bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %s2filename%14.geojson > %~n1_gymonly.geojson
 ECHO Combine all location data without grids
 bin\jq\jq-win64.exe -c -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_Pending.geojson > %~n1_min.geojson
 bin\jq\jq-win64.exe    -s "reduce .[] as $dot ({}; .features += $dot.features) | .type=\"FeatureCollection\"" %typefilename%_Stop.geojson %typefilename%_Gym.geojson %typefilename%_ExGym.geojson %typefilename%_Unknown.geojson %typefilename%_Pending.geojson > %~n1.geojson
