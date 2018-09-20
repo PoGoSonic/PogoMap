@@ -228,8 +228,8 @@
       "properties": {
         "cellid": "47c71d66cf4a95b7",
         "marker-color": "#40B0F0",
-        "name": "Stop: Kabouterpad Hert",
-        "title": "Stop: Kabouterpad Hert",
+        "name": "Stop: Kabouterpad Hert [hert]",
+        "title": "Stop: Kabouterpad Hert [hert]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -246,8 +246,8 @@
       "properties": {
         "cellid": "47c71d64ed02c347",
         "marker-color": "#40B0F0",
-        "name": "Stop: Kabouterpad Rustplaats",
-        "title": "Stop: Kabouterpad Rustplaats",
+        "name": "Stop: Kabouterpad Rustplaats [rustplaats]",
+        "title": "Stop: Kabouterpad Rustplaats [rustplaats]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -264,8 +264,8 @@
       "properties": {
         "cellid": "47c71d65b8646403",
         "marker-color": "#40B0F0",
-        "name": "Stop: Kabouterpad Schaap",
-        "title": "Stop: Kabouterpad Schaap",
+        "name": "Stop: Kabouterpad Schaap [schaap]",
+        "title": "Stop: Kabouterpad Schaap [schaap]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -282,8 +282,26 @@
       "properties": {
         "cellid": "47c71d66a6365ce9",
         "marker-color": "#40B0F0",
-        "name": "Stop: Kabouterpad Stuwdam",
-        "title": "Stop: Kabouterpad Stuwdam",
+        "name": "Stop: Kabouterpad Stuwdam [stuwdam]",
+        "title": "Stop: Kabouterpad Stuwdam [stuwdam]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.562134,
+          51.701717
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c07819fb2f",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Kiosk-1",
+        "title": "Stop: Kiosk-1",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -311,6 +329,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.575577,
+          51.69492
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e299eb273391",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Maaspoort Wachters",
+        "title": "Stop: Maaspoort Wachters",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.579333,
           51.695606
         ]
@@ -320,6 +356,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Menzel",
         "title": "Stop: Menzel",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.56827,
+          51.710091
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2b76244e4fb",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Moderne Kapel",
+        "title": "Stop: Moderne Kapel",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -401,6 +455,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.559984,
+          51.701425
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c0469927a1",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Poort Oude Publieke Begraafplaats",
+        "title": "Stop: Poort Oude Publieke Begraafplaats",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.565556,
           51.688497
         ]
@@ -419,15 +491,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.569412,
-          51.710217
+          5.554965,
+          51.704629
         ]
       },
       "properties": {
-        "cellid": "47c6e2b759654331",
+        "cellid": "47c6e2c3edfc8a53",
         "marker-color": "#40B0F0",
-        "name": "Stop: St Catharina Gilde",
-        "title": "Stop: St Catharina Gilde",
+        "name": "Stop: Speeltuin Weidestraat [weidestraat]",
+        "title": "Stop: Speeltuin Weidestraat [weidestraat]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -592,24 +664,6 @@
         "title": "Stop: Zeven Eeuwen Nistelrode",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.567061,
-          51.702991
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2beec3b8e67",
-        "marker-color": "#ff9900",
-        "name": "Gym: Dancing Fishes [fishes]",
-        "title": "Gym: Dancing Fishes [fishes]",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
       }
     },
     {
@@ -815,6 +869,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.567061,
+          51.702991
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2beec3b8e67",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Dancing Fishes [fishes]",
+        "title": "Ex-raid Gym: Dancing Fishes [fishes]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.569412,
+          51.710217
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2b759654331",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: St Catharina Gilde",
+        "title": "Ex-raid Gym: St Catharina Gilde",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.578042,
           51.691186
         ]
@@ -887,51 +977,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.562134,
-          51.701717
+          5.571637,
+          51.701004
         ]
       },
       "properties": {
-        "cellid": "47c6e2c07819fb2f",
+        "cellid": "47c6e2bda6ecbe43",
         "marker-color": "#808080",
-        "name": "Unknown: Kiosk-1",
-        "title": "Unknown: Kiosk-1",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.575577,
-          51.69492
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e299eb273391",
-        "marker-color": "#808080",
-        "name": "Unknown: Maaspoort Wachters",
-        "title": "Unknown: Maaspoort Wachters",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.56827,
-          51.710091
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2b76244e4fb",
-        "marker-color": "#808080",
-        "name": "Unknown: Moderne Kapel",
-        "title": "Unknown: Moderne Kapel",
+        "name": "Unknown: Kunstwerk Houten Egel",
+        "title": "Unknown: Kunstwerk Houten Egel",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -950,24 +1004,6 @@
         "marker-color": "#808080",
         "name": "Unknown: Piet Mondriaan herdenkingsteken",
         "title": "Unknown: Piet Mondriaan herdenkingsteken",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.559984,
-          51.701425
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2c0469927a1",
-        "marker-color": "#808080",
-        "name": "Unknown: Poort Oude Publieke Begraafplaats",
-        "title": "Unknown: Poort Oude Publieke Begraafplaats",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -1013,15 +1049,159 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.554965,
-          51.704629
+          5.564643,
+          51.709479
         ]
       },
       "properties": {
-        "cellid": "47c6e2c3edfc8a53",
+        "cellid": "47c6e2b8100881b9",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Weidestraat",
-        "title": "Unknown: Speeltuin Weidestraat",
+        "name": "Unknown: Speeltuin Blauwesteenweg",
+        "title": "Unknown: Speeltuin Blauwesteenweg",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.562908,
+          51.707201
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c77c099497",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Boekweitstraat",
+        "title": "Unknown: Speeltuin Boekweitstraat",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.566795,
+          51.706626
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2b91ced3519",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Het Erp",
+        "title": "Unknown: Speeltuin Het Erp",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.559092,
+          51.702518
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c0fffd1529",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Kerkhoflaan",
+        "title": "Unknown: Speeltuin Kerkhoflaan",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.555995,
+          51.70545
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c4012bd1a1",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Meentstraat",
+        "title": "Unknown: Speeltuin Meentstraat",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.567476,
+          51.708253
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2b9b0e599b9",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Oude Torenweg",
+        "title": "Unknown: Speeltuin Oude Torenweg",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.557517,
+          51.70485
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c149540a23",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Schaarstraat",
+        "title": "Unknown: Speeltuin Schaarstraat",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.56399,
+          51.7029
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2bf729f79ef",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Toniesplien",
+        "title": "Unknown: Speeltuin Toniesplien",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.573983,
+          51.701833
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2bcdf7135a3",
+        "marker-color": "#808080",
+        "name": "Unknown: Speeltuin Zwarte Molenweg",
+        "title": "Unknown: Speeltuin Zwarte Molenweg",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }

@@ -142,6 +142,17 @@ IF [%keeptmp%] NEQ [1] (
 )
 
 
+@rem Make sure output files exist or jq Style change will fail
+copy /b nul %typefilename%_Stop.geojson2     > nul
+copy /b nul %typefilename%_Gym.geojson2      > nul
+copy /b nul %typefilename%_ExGym.geojson2    > nul
+copy /b nul %typefilename%_Unknown.geojson2  > nul
+copy /b nul %typefilename%_None.geojson2     > nul
+copy /b nul %typefilename%_Removed.geojson2  > nul
+copy /b nul %typefilename%_Pending.geojson2  > nul
+copy /b nul %typefilename%_Rejected.geojson2 > nul
+
+
 FOR %%T IN (%typefilename%_*.csv) DO (
 	ECHO Generating Locations from %%~nT.geocsv in %%~nT.geojson
 
@@ -161,7 +172,7 @@ FOR %%T IN (%typefilename%_*.csv) DO (
 	rem jq-win64.exe "del( .features[ 0 ] )" %osm% > %%~nT.geojson1
 	@rem Removes feature array element 0 which is the S2 grid added by osmcoverer, also delete level12 and level20 cellid and *within arrays we don't need them
 	bin\jq\jq-win64.exe -c "del( .features[ 0 ] ) | del( .features[].properties.level12cellid ) | del( .features[].properties.level20cellid ) | del( .features[].properties.within ) | del( .features[].properties.centerwithin )" %osm% > tmp\%%~nT.geojson1
-
+	
     @rem Copy properties name to properties title, for mouseover tip
 	REM bin\jq\jq-win64.exe -c ".features[].properties.title=.features[].properties.name" tmp\%%~nT.geojson1 > tmp\%%~nT.geojson2
 	REM bin\jq\jq-win64.exe ".features[].properties.title=.features[].properties.name" tmp\%%~nT.geojson1 > tmp\%%~nT.geojson2
@@ -207,7 +218,7 @@ IF [%keeptmp%] NEQ [1] (
 )
 
 
-IF EXIST %opt% (
+IF EXIST [%opt%] (
 	ECHO Changing Color and Style Parks
 	@rem Remove unused keys
 	bin\jq\jq-win64.exe -c " del ( .features[].properties.source )" %opt% > %opttmp%1

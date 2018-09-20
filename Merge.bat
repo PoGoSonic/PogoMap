@@ -41,12 +41,15 @@ ECHO Split by city
 del PokemonGoLocations_.csv
 del PokemonGoLocations_Berghem.csv
 del PokemonGoLocations_Geffen.csv
+del PokemonGoLocations_GeffenBuiten.csv
 del PokemonGoLocations_Heesch.csv
 del PokemonGoLocations_HeeschBuiten.csv
 del PokemonGoLocations_Herpen.csv
 del PokemonGoLocations_Nistelrode.csv
+del PokemonGoLocations_NistelrodeBuiten.csv
 del PokemonGoLocations_Oss.csv
 del PokemonGoLocations_OssBuiten.csv
+del PokemonGoLocations_Overlangel.csv
 del PokemonGoLocations_Rosmalen.csv
 del PokemonGoLocations_Schaijk.csv
 del PokemonGoLocations_Uden.csv
@@ -54,14 +57,17 @@ del PokemonGoLocations_Velp.csv
 del PokemonGoLocations_Zeeland.csv
 bin\csvfix\csvfix file_split -f 4 -ufn -fd . -fp PokemonGoLocations_ PokemonGoLocations.csv
 COPY /Y PokemonGoLocations_Oss.csv + PokemonGoLocations_Berghem.csv PokemonGoLocations_OssBerghem.csv 
+COPY /Y PokemonGoLocations_Schaijk.csv + PokemonGoLocations_Herpen.csv PokemonGoLocations_SchaijkHerpen.csv 
 
 
 
-Convert.bat PokemonGoLocations.csv            OverpassTurboParks_min.geojson
-Convert.bat PokemonGoLocations_Oss.csv        OverpassTurboParks_min.geojson
-Convert.bat PokemonGoLocations_OssBerghem.csv OverpassTurboParks_min.geojson
-Convert.bat PokemonGoLocations_Berghem.csv    OverpassTurboParks_min.geojson
-Convert.bat PokemonGoLocations_Heesch.csv     OverpassTurboParks_Heesch_min.geojson
-Convert.bat PokemonGoLocations_Nistelrode.csv OverpassTurboParks_Nistelrode_min.geojson
-Convert.bat PokemonGoLocations_Geffen.csv     OverpassTurboParks_Geffen_min.geojson
-Convert.bat PokemonGoLocations_Schaijk.csv    OverpassTurboParks_Schaijk_min.geojson
+Convert.bat PokemonGoLocations.csv               OverpassTurboParks_min.geojson
+Convert.bat PokemonGoLocations_Oss.csv           OverpassTurboParks_min.geojson
+Convert.bat PokemonGoLocations_OssBerghem.csv    OverpassTurboParks_min.geojson
+Convert.bat PokemonGoLocations_Berghem.csv       OverpassTurboParks_min.geojson
+Convert.bat PokemonGoLocations_Heesch.csv        OverpassTurboParks_Heesch_min.geojson
+Convert.bat PokemonGoLocations_Nistelrode.csv    OverpassTurboParks_Nistelrode_min.geojson
+Convert.bat PokemonGoLocations_Geffen.csv        OverpassTurboParks_Geffen_min.geojson
+Convert.bat PokemonGoLocations_Schaijk.csv       OverpassTurboParks_Schaijk_min.geojson
+Convert.bat PokemonGoLocations_SchaijkHerpen.csv OverpassTurboParks_Schaijk_min.geojson
+Convert.bat PokemonGoLocations_Herpen.csv        OverpassTurboParks_Schaijk_min.geojson

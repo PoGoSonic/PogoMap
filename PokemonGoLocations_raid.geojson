@@ -239,6 +239,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.503587,
+          51.756947
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc84e6971e29",
+        "marker-color": "#ff9900",
+        "name": "Gym: Boerderij Dn Deel [dn deel; deel]",
+        "title": "Gym: Boerderij Dn Deel [dn deel; deel]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.683111,
+          51.746232
+        ]
+      },
+      "properties": {
+        "cellid": "47c7036dfd176503",
+        "marker-color": "#ff9900",
+        "name": "Gym: Church Reek",
+        "title": "Gym: Church Reek",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.569735,
           51.77263
         ]
@@ -275,24 +311,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.567061,
-          51.702991
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2beec3b8e67",
-        "marker-color": "#ff9900",
-        "name": "Gym: Dancing Fishes [fishes]",
-        "title": "Gym: Dancing Fishes [fishes]",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.525453,
           51.772489
         ]
@@ -302,6 +320,24 @@
         "marker-color": "#ff9900",
         "name": "Gym: De 3 Paters [3 paters]",
         "title": "Gym: De 3 Paters [3 paters]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.619593,
+          51.764343
+        ]
+      },
+      "properties": {
+        "cellid": "47c70263c1c185ed",
+        "marker-color": "#ff9900",
+        "name": "Gym: De Das",
+        "title": "Gym: De Das",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -617,6 +653,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.627697,
+          51.750599
+        ]
+      },
+      "properties": {
+        "cellid": "47c702f28b9b4e61",
+        "marker-color": "#ff9900",
+        "name": "Gym: Jesus",
+        "title": "Gym: Jesus",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.528841,
           51.758636
         ]
@@ -626,6 +680,24 @@
         "marker-color": "#ff9900",
         "name": "Gym: Jesus Statue [jezus]",
         "title": "Gym: Jesus Statue [jezus]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.531773,
+          51.75364
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcefe6b9a16b",
+        "marker-color": "#ff9900",
+        "name": "Gym: Joodse Begraafplaats",
+        "title": "Gym: Joodse Begraafplaats",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -806,6 +878,42 @@
         "marker-color": "#ff9900",
         "name": "Gym: Lambertus Kerk [lambertus]",
         "title": "Gym: Lambertus Kerk [lambertus]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.545258,
+          51.732469
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fd27d4c75b37",
+        "marker-color": "#ff9900",
+        "name": "Gym: Landweer In Heesch [landweer]",
+        "title": "Gym: Landweer In Heesch [landweer]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.582002,
+          51.771694
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fd99ed86375f",
+        "marker-color": "#ff9900",
+        "name": "Gym: Little Playground Berghem",
+        "title": "Gym: Little Playground Berghem",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1013,6 +1121,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.622424,
+          51.746467
+        ]
+      },
+      "properties": {
+        "cellid": "47c7029322c4c9af",
+        "marker-color": "#ff9900",
+        "name": "Gym: Minisoccer DAW",
+        "title": "Gym: Minisoccer DAW",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.537143,
           51.753596
         ]
@@ -1121,6 +1247,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.509831,
+          51.73265
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcb74837d71b",
+        "marker-color": "#ff9900",
+        "name": "Gym: Raboart",
+        "title": "Gym: Raboart",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.631683,
+          51.746904
+        ]
+      },
+      "properties": {
+        "cellid": "47c702ee639a6e8d",
+        "marker-color": "#ff9900",
+        "name": "Gym: Schaijk statue Jezus minnend Hart [Jezus minnend hart; minnend hart]",
+        "title": "Gym: Schaijk statue Jezus minnend Hart [Jezus minnend hart; minnend hart]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.544385,
           51.769287
         ]
@@ -1139,15 +1301,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.551965,
-          51.769926
+          5.635099,
+          51.737907
         ]
       },
       "properties": {
-        "cellid": "47c6fdac91f92b95",
+        "cellid": "47c702c2ad8e218d",
         "marker-color": "#ff9900",
-        "name": "Gym: Solar Tree [osseweg]",
-        "title": "Gym: Solar Tree [osseweg]",
+        "name": "Gym: Shique de Luxe [shique]",
+        "title": "Gym: Shique de Luxe [shique]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1157,15 +1319,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.505929,
-          51.77363
+          5.551965,
+          51.769926
         ]
       },
       "properties": {
-        "cellid": "47c6fc7bb50fe9db",
+        "cellid": "47c6fdac91f92b95",
         "marker-color": "#ff9900",
-        "name": "Gym: Speeltuin [purperbeer]",
-        "title": "Gym: Speeltuin [purperbeer]",
+        "name": "Gym: Solar Tree [osseweg]",
+        "title": "Gym: Solar Tree [osseweg]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1265,6 +1427,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.632206,
+          51.749883
+        ]
+      },
+      "properties": {
+        "cellid": "47c702f1e57bbbd7",
+        "marker-color": "#ff9900",
+        "name": "Gym: Speeltuin Smidse [smidse]",
+        "title": "Gym: Speeltuin Smidse [smidse]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.630408,
+          51.74451
+        ]
+      },
+      "properties": {
+        "cellid": "47c702eea919743b",
+        "marker-color": "#ff9900",
+        "name": "Gym: Speeltuin Zwingelhof [zwingelhof]",
+        "title": "Gym: Speeltuin Zwingelhof [zwingelhof]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.455346,
           51.738392
         ]
@@ -1319,6 +1517,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.513768,
+          51.734375
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcb83accfd2f",
+        "marker-color": "#ff9900",
+        "name": "Gym: Tango [krabbenhoek]",
+        "title": "Gym: Tango [krabbenhoek]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.522339,
           51.735312
         ]
@@ -1362,8 +1578,26 @@
       "properties": {
         "cellid": "47c6fd28020ec65f",
         "marker-color": "#ff9900",
-        "name": "Gym: Vogelhuis",
-        "title": "Gym: Vogelhuis",
+        "name": "Gym: Vogelhuis [vogelhuis 1]",
+        "title": "Gym: Vogelhuis [vogelhuis 1]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.529617,
+          51.759294
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf13491ee19",
+        "marker-color": "#ff9900",
+        "name": "Gym: Voormalige Kazerne [kazerne]",
+        "title": "Gym: Voormalige Kazerne [kazerne]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1382,24 +1616,6 @@
         "marker-color": "#ff9900",
         "name": "Gym: Vorstengraf",
         "title": "Gym: Vorstengraf",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.534307,
-          51.732542
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fcd0a6db0e9d",
-        "marker-color": "#ff9900",
-        "name": "Gym: Wall Art",
-        "title": "Gym: Wall Art",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1454,6 +1670,24 @@
         "marker-color": "#ff9900",
         "name": "Gym: Watertoren",
         "title": "Gym: Watertoren",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.646014,
+          51.726418
+        ]
+      },
+      "properties": {
+        "cellid": "47c702d7e17f1aff",
+        "marker-color": "#ff9900",
+        "name": "Gym: White Horse",
+        "title": "Gym: White Horse",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1526,6 +1760,24 @@
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Cross at Oss [cross]",
         "title": "Ex-raid Gym: Cross at Oss [cross]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.567061,
+          51.702991
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2beec3b8e67",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Dancing Fishes [fishes]",
+        "title": "Ex-raid Gym: Dancing Fishes [fishes]",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -1751,6 +2003,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.505929,
+          51.77363
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc7bb50fe9db",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Speeltuin [purperbeer]",
+        "title": "Ex-raid Gym: Speeltuin [purperbeer]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.543698,
           51.773557
         ]
@@ -1760,6 +2030,24 @@
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Speeltuin Dobbe [dobbe]",
         "title": "Ex-raid Gym: Speeltuin Dobbe [dobbe]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.569412,
+          51.710217
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2b759654331",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: St Catharina Gilde",
+        "title": "Ex-raid Gym: St Catharina Gilde",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -1832,6 +2120,24 @@
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Walking figure Oss [walking; walking figure]",
         "title": "Ex-raid Gym: Walking figure Oss [walking; walking figure]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.534307,
+          51.732542
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcd0a6db0e9d",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Wall Art",
+        "title": "Ex-raid Gym: Wall Art",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
