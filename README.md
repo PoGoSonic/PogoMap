@@ -131,3 +131,36 @@ You will see the created map with locations and S2 grids
 
 # Other resources (untested)
 * https://www.reddit.com/r/TheSilphRoad/comments/7p9ozm/i_made_a_plugin_to_show_level_17_s2_cells_on/dsflwr9/?sh=1def38f1&st=JC83GSC2
+
+# Notifications
+## PokemonGo Maps
+De kaarten zijn weer bijgewerkt (inculsief oude links naar kaarten):
+Alle Gyms in de omgeving: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_raid_min.geojson&map=13/51.7643/5.5330
+Alle Stops in de omgeving: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_min.geojson&map=13/51.7643/5.5330
+De kaarten werken het beste in Chrome of Firefox.
+Voor het aanvragen en plannen van stops en gyms zijn er aanvullende kaarten voor: Oss, Berghem, Geffen/Nuland, Heesch, Nistelrode, Schaijk/Reek, Herpen.
+
+## Ingress Maps
+De kaarten zijn weer bijgewerkt:
+Alle Gyms in de omgeving: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_raid_min.geojson&map=13/51.7643/5.5330
+Alle Stops in de omgeving: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_min.geojson&map=13/51.7643/5.5330
+Alle Gyms S2Level14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_gymonly_min.geojson&map=13/51.7643/5.5330
+
+Oss Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Oss_stop_min.geojson&map=13/51.7643/5.5330
+Berghem Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Berghem_stop_min.geojson&map=14/51.7627/5.5717
+Oss+Berghem Gyms S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_OssBerghem_gym_min.geojson&map=13/51.7643/5.5330
+
+Geffen Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Geffen_stop_min.geojson&map=13/51.7288/5.4286
+Geffen Gyms S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Geffen_gym_min.geojson&map=13/51.7288/5.4286
+
+Heesch Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Heesch_stop_min.geojson&map=14/51.7270/5.5393
+Heesch Gyms S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Heesch_gym_min.geojson&map=14/51.7270/5.5393
+
+Nistelrode Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Nistelrode_stop_min.geojson&map=14/51.7011/5.5864
+Nistelrode Gyms S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Nistelrode_gym_min.geojson&map=14/51.7011/5.5864
+
+Schaijk Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Schaijk_stop_min.geojson&map=14/51.7377/5.6524
+Herpen Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Herpen_stop_min.geojson&map=15/51.7658/5.6277
+Schaijk+Herpen S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_SchaijkHerpen_gym_min.geojson&map=13/51.7466/5.6559
+
+De kaarten werken het beste in Chrome of Firefox.

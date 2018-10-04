@@ -218,7 +218,7 @@ IF [%keeptmp%] NEQ [1] (
 )
 
 
-IF EXIST [%opt%] (
+IF EXIST "%opt%" (
 	ECHO Changing Color and Style Parks
 	@rem Remove unused keys
 	bin\jq\jq-win64.exe -c " del ( .features[].properties.source )" %opt% > %opttmp%1
@@ -229,7 +229,10 @@ IF EXIST [%opt%] (
 		del %opttmp%1
 	)
 	
-) ELSE SET opttmp=
+) ELSE (
+	ECHO No Parks found
+    SET opttmp=
+)
 
 
 ECHO Combine all (markers only)
