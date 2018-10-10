@@ -192,8 +192,8 @@
       "properties": {
         "cellid": "47c6fdaea4f5737d",
         "marker-color": "#ff9900",
-        "name": "Gym: Biggest Buddha Statue in the World [biggest buddha; buddha statue]",
-        "title": "Gym: Biggest Buddha Statue in the World [biggest buddha; buddha statue]",
+        "name": "Gym: Biggest Buddha Statue in the World [biggest buddha; buddha statue; biggest boedha; boedha statue]",
+        "title": "Gym: Biggest Buddha Statue in the World [biggest buddha; buddha statue; biggest boedha; boedha statue]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -329,24 +329,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.619593,
-          51.764343
-        ]
-      },
-      "properties": {
-        "cellid": "47c70263c1c185ed",
-        "marker-color": "#ff9900",
-        "name": "Gym: De Das",
-        "title": "Gym: De Das",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.53039,
           51.764642
         ]
@@ -365,6 +347,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.64772,
+          51.739025
+        ]
+      },
+      "properties": {
+        "cellid": "47c702e016e5bcaf",
+        "marker-color": "#ff9900",
+        "name": "Gym: De Vriendenkring [vriendenkring]",
+        "title": "Gym: De Vriendenkring [vriendenkring]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.506949,
           51.778159
         ]
@@ -374,6 +374,24 @@
         "marker-color": "#ff9900",
         "name": "Gym: De Waterdrager [waterdrager]",
         "title": "Gym: De Waterdrager [waterdrager]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.638833,
+          51.770857
+        ]
+      },
+      "properties": {
+        "cellid": "47c702452793af37",
+        "marker-color": "#ff9900",
+        "name": "Gym: De Zwaan",
+        "title": "Gym: De Zwaan",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -446,6 +464,24 @@
         "marker-color": "#ff9900",
         "name": "Gym: Dwarf's Playground [dwarf; dwarfs]",
         "title": "Gym: Dwarf's Playground [dwarf; dwarfs]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650729,
+          51.739051
+        ]
+      },
+      "properties": {
+        "cellid": "47c7031f95919003",
+        "marker-color": "#ff9900",
+        "name": "Gym: Fietsroutenetwerk Landerd 26",
+        "title": "Gym: Fietsroutenetwerk Landerd 26",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -653,6 +689,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.406023,
+          51.725248
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e54a54f2c199",
+        "marker-color": "#ff9900",
+        "name": "Gym: Infobord Binckhorst",
+        "title": "Gym: Infobord Binckhorst",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.431793,
+          51.722085
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e52a2c416fa9",
+        "marker-color": "#ff9900",
+        "name": "Gym: Jan Visscherslaantje Playground",
+        "title": "Gym: Jan Visscherslaantje Playground",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.627697,
           51.750599
         ]
@@ -696,8 +768,8 @@
       "properties": {
         "cellid": "47c6fcefe6b9a16b",
         "marker-color": "#ff9900",
-        "name": "Gym: Joodse Begraafplaats",
-        "title": "Gym: Joodse Begraafplaats",
+        "name": "Gym: Joodse Begraafplaats [begraafplaats]",
+        "title": "Gym: Joodse Begraafplaats [begraafplaats]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -752,6 +824,24 @@
         "marker-color": "#ff9900",
         "name": "Gym: Kasteel Snor [snor]",
         "title": "Gym: Kasteel Snor [snor]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.420451,
+          51.716578
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e53aab63c363",
+        "marker-color": "#ff9900",
+        "name": "Gym: Kastelen Bankje",
+        "title": "Gym: Kastelen Bankje",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -995,24 +1085,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.516097,
-          51.775197
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc65ed6b941b",
-        "marker-color": "#ff9900",
-        "name": "Gym: Mannetje Bij De Handboog [handboog]",
-        "title": "Gym: Mannetje Bij De Handboog [handboog]",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.581262,
           51.774927
         ]
@@ -1128,8 +1200,26 @@
       "properties": {
         "cellid": "47c7029322c4c9af",
         "marker-color": "#ff9900",
-        "name": "Gym: Minisoccer DAW",
-        "title": "Gym: Minisoccer DAW",
+        "name": "Gym: Minisoccer DAW [daw]",
+        "title": "Gym: Minisoccer DAW [daw]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.436033,
+          51.722962
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e4d593a8f2cf",
+        "marker-color": "#ff9900",
+        "name": "Gym: Modern Art",
+        "title": "Gym: Modern Art",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1166,6 +1256,42 @@
         "marker-color": "#ff9900",
         "name": "Gym: Mozaïek Bankje Koppellinck [koppellinck; koppelinck; mozaiek bankje; mozaiek bakje koppellinck]",
         "title": "Gym: Mozaïek Bankje Koppellinck [koppellinck; koppelinck; mozaiek bankje; mozaiek bakje koppellinck]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.643295,
+          51.772279
+        ]
+      },
+      "properties": {
+        "cellid": "47c7024f9c951999",
+        "marker-color": "#ff9900",
+        "name": "Gym: Muziek Hubertus Band Plaque",
+        "title": "Gym: Muziek Hubertus Band Plaque",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433542,
+          51.727987
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fad53cdae9b9",
+        "marker-color": "#ff9900",
+        "name": "Gym: Muziektent Nuland [muziektent]",
+        "title": "Gym: Muziektent Nuland [muziektent]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1247,15 +1373,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.509831,
-          51.73265
+          5.402657,
+          51.722998
         ]
       },
       "properties": {
-        "cellid": "47c6fcb74837d71b",
+        "cellid": "47c6e54956201979",
         "marker-color": "#ff9900",
-        "name": "Gym: Raboart",
-        "title": "Gym: Raboart",
+        "name": "Gym: Playground Binckhorst [binckhorst]",
+        "title": "Gym: Playground Binckhorst [binckhorst]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1301,6 +1427,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.641146,
+          51.771629
+        ]
+      },
+      "properties": {
+        "cellid": "47c70245692d94ed",
+        "marker-color": "#ff9900",
+        "name": "Gym: Sculpture",
+        "title": "Gym: Sculpture",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.635099,
           51.737907
         ]
@@ -1308,8 +1452,26 @@
       "properties": {
         "cellid": "47c702c2ad8e218d",
         "marker-color": "#ff9900",
-        "name": "Gym: Shique de Luxe [shique]",
-        "title": "Gym: Shique de Luxe [shique]",
+        "name": "Gym: Shique de Luxe [shique; sjiek de luxe; deluxe]",
+        "title": "Gym: Shique de Luxe [shique; sjiek de luxe; deluxe]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.627584,
+          51.747475
+        ]
+      },
+      "properties": {
+        "cellid": "47c702eda879b5e9",
+        "marker-color": "#ff9900",
+        "name": "Gym: Skateboard Central [skateboard]",
+        "title": "Gym: Skateboard Central [skateboard]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1328,6 +1490,42 @@
         "marker-color": "#ff9900",
         "name": "Gym: Solar Tree [osseweg]",
         "title": "Gym: Solar Tree [osseweg]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.620439,
+          51.765611
+        ]
+      },
+      "properties": {
+        "cellid": "47c70263f817cb1b",
+        "marker-color": "#ff9900",
+        "name": "Gym: Speelbos Herperduin [herperduin]",
+        "title": "Gym: Speelbos Herperduin [herperduin]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.639692,
+          51.769285
+        ]
+      },
+      "properties": {
+        "cellid": "47c7025ac6764ba1",
+        "marker-color": "#ff9900",
+        "name": "Gym: speelplaats kruisstraat [kruisstraat]",
+        "title": "Gym: speelplaats kruisstraat [kruisstraat]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1373,6 +1571,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.564643,
+          51.709479
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2b8100881b9",
+        "marker-color": "#ff9900",
+        "name": "Gym: Speeltuin Blauwesteenweg [Blauwsteenweg]",
+        "title": "Gym: Speeltuin Blauwesteenweg [Blauwsteenweg]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.562908,
+          51.707201
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c77c099497",
+        "marker-color": "#ff9900",
+        "name": "Gym: Speeltuin Boekweitstraat [boekweitstraat]",
+        "title": "Gym: Speeltuin Boekweitstraat [boekweitstraat]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.520733,
           51.779438
         ]
@@ -1400,6 +1634,24 @@
         "marker-color": "#ff9900",
         "name": "Gym: Speeltuin Hendriklaan [hendriklaan]",
         "title": "Gym: Speeltuin Hendriklaan [hendriklaan]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.626313,
+          51.741935
+        ]
+      },
+      "properties": {
+        "cellid": "47c702eba9ff0085",
+        "marker-color": "#ff9900",
+        "name": "Gym: Speeltuin Kaar [kaar]",
+        "title": "Gym: Speeltuin Kaar [kaar]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1553,6 +1805,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.570475,
+          51.702155
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2bc358fde35",
+        "marker-color": "#ff9900",
+        "name": "Gym: TC Telro [telro]",
+        "title": "Gym: TC Telro [telro]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.530683,
           51.765212
         ]
@@ -1562,6 +1832,42 @@
         "marker-color": "#ff9900",
         "name": "Gym: Train Station Oss [station oss]",
         "title": "Gym: Train Station Oss [station oss]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.620602,
+          51.765948
+        ]
+      },
+      "properties": {
+        "cellid": "47c7026406660fcb",
+        "marker-color": "#ff9900",
+        "name": "Gym: Tree Sculpture",
+        "title": "Gym: Tree Sculpture",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.638714,
+          51.74508
+        ]
+      },
+      "properties": {
+        "cellid": "47c702e5bf0ed227",
+        "marker-color": "#ff9900",
+        "name": "Gym: Voetbalveld Akkerwinde [akkerwinde]",
+        "title": "Gym: Voetbalveld Akkerwinde [akkerwinde]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1625,6 +1931,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.493715,
+          51.765093
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb7f96193dc3",
+        "marker-color": "#ff9900",
+        "name": "Gym: Wall Art [hazenkamplaan]",
+        "title": "Gym: Wall Art [hazenkamplaan]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.63337,
           51.73906
         ]
@@ -1634,6 +1958,24 @@
         "marker-color": "#ff9900",
         "name": "Gym: Wall of fun art [fun art]",
         "title": "Gym: Wall of fun art [fun art]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.635526,
+          51.736836
+        ]
+      },
+      "properties": {
+        "cellid": "47c702dd33f98d75",
+        "marker-color": "#ff9900",
+        "name": "Gym: Wandelroutenetwerk Landerd Nieuw Schaijk",
+        "title": "Gym: Wandelroutenetwerk Landerd Nieuw Schaijk",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -1776,8 +2118,8 @@
       "properties": {
         "cellid": "47c6e2beec3b8e67",
         "marker-color": "#FF2020",
-        "name": "Ex-raid Gym: Dancing Fishes [fishes]",
-        "title": "Ex-raid Gym: Dancing Fishes [fishes]",
+        "name": "Ex-raid Gym: Dancing Fishes [fishes; dancing]",
+        "title": "Ex-raid Gym: Dancing Fishes [fishes; dancing]",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -1913,6 +2255,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.516097,
+          51.775197
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc65ed6b941b",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Mannetje Bij De Handboog [handboog]",
+        "title": "Ex-raid Gym: Mannetje Bij De Handboog [handboog]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.532446,
           51.773701
         ]
@@ -1940,6 +2300,24 @@
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Piramide Kunst [piramide; pyramide]",
         "title": "Ex-raid Gym: Piramide Kunst [piramide; pyramide]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.509831,
+          51.73265
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcb74837d71b",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Raboart",
+        "title": "Ex-raid Gym: Raboart",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -2046,8 +2424,8 @@
       "properties": {
         "cellid": "47c6e2b759654331",
         "marker-color": "#FF2020",
-        "name": "Ex-raid Gym: St Catharina Gilde",
-        "title": "Ex-raid Gym: St Catharina Gilde",
+        "name": "Ex-raid Gym: St Catharina Gilde [sint catharina gilde; catharina gilde]",
+        "title": "Ex-raid Gym: St Catharina Gilde [sint catharina gilde; catharina gilde]",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -2138,24 +2516,6 @@
         "marker-color": "#FF2020",
         "name": "Ex-raid Gym: Wall Art",
         "title": "Ex-raid Gym: Wall Art",
-        "marker-size": "small",
-        "marker-symbol": "minefield"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.493715,
-          51.765093
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fb7f96193dc3",
-        "marker-color": "#FF2020",
-        "name": "Ex-raid Gym: Wall Art [hazenkamplaan]",
-        "title": "Ex-raid Gym: Wall Art [hazenkamplaan]",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }

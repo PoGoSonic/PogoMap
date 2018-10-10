@@ -41,15 +41,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.64772,
-          51.739025
+          5.664757,
+          51.744048
         ]
       },
       "properties": {
-        "cellid": "47c702e016e5bcaf",
+        "cellid": "47c70310eca07a89",
         "marker-color": "#40B0F0",
-        "name": "Stop: De Vriendenkring [vriendenkring]",
-        "title": "Stop: De Vriendenkring [vriendenkring]",
+        "name": "Stop: Fietsroute Netwerk Landerd 27",
+        "title": "Stop: Fietsroute Netwerk Landerd 27",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.629491,
+          51.747962
+        ]
+      },
+      "properties": {
+        "cellid": "47c702edc195ac1b",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Fietsroute Netwerk Landerd 60",
+        "title": "Stop: Fietsroute Netwerk Landerd 60",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -149,6 +167,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.637605,
+          51.740532
+        ]
+      },
+      "properties": {
+        "cellid": "47c702e7b7d1e85d",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Minisoccer Akkerwinde [akkerwinde]",
+        "title": "Stop: Minisoccer Akkerwinde [akkerwinde]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.627591,
           51.743672
         ]
@@ -156,8 +192,8 @@
       "properties": {
         "cellid": "47c702eb8fa1ab9f",
         "marker-color": "#40B0F0",
-        "name": "Stop: Minisoccer Bruinsteeg",
-        "title": "Stop: Minisoccer Bruinsteeg",
+        "name": "Stop: Minisoccer Bruinsteeg [bruinsteeg]",
+        "title": "Stop: Minisoccer Bruinsteeg [bruinsteeg]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -275,15 +311,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.627584,
-          51.747475
+          5.651224,
+          51.741496
         ]
       },
       "properties": {
-        "cellid": "47c702eda879b5e9",
+        "cellid": "47c7031e411149bb",
         "marker-color": "#40B0F0",
-        "name": "Stop: Skateboard Central [skateboard]",
-        "title": "Stop: Skateboard Central [skateboard]",
+        "name": "Stop: Solar Tree Scheltseweg [scheltseweg]",
+        "title": "Stop: Solar Tree Scheltseweg [scheltseweg]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -293,15 +329,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.651224,
-          51.741496
+          5.635208,
+          51.748629
         ]
       },
       "properties": {
-        "cellid": "47c7031e411149bb",
+        "cellid": "47c702efda595439",
         "marker-color": "#40B0F0",
-        "name": "Stop: Solar Tree Scheltseweg",
-        "title": "Stop: Solar Tree Scheltseweg",
+        "name": "Stop: Speeltuin ‘t Gruun Huukske; Het Erf [huukske; gruun huukske; het erf]",
+        "title": "Stop: Speeltuin ‘t Gruun Huukske; Het Erf [huukske; gruun huukske; het erf]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.626109,
+          51.745559
+        ]
+      },
+      "properties": {
+        "cellid": "47c702ec92b58eed",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Bruinsteeg [bruinsteeg]",
+        "title": "Stop: Speeltuin Bruinsteeg [bruinsteeg]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.632035,
+          51.751523
+        ]
+      },
+      "properties": {
+        "cellid": "47c702f184123047",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Heiheuvel [heiheuvel]",
+        "title": "Stop: Speeltuin Heiheuvel [heiheuvel]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -318,8 +390,8 @@
       "properties": {
         "cellid": "47c702e93a69efe3",
         "marker-color": "#40B0F0",
-        "name": "Stop: Speeltuin Hekellaan",
-        "title": "Stop: Speeltuin Hekellaan",
+        "name": "Stop: Speeltuin Hekellaan [hekellaan]",
+        "title": "Stop: Speeltuin Hekellaan [hekellaan]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -347,15 +419,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.626313,
-          51.741935
+          5.63739,
+          51.74319
         ]
       },
       "properties": {
-        "cellid": "47c702eba9ff0085",
+        "cellid": "47c702e60fa3d1e5",
         "marker-color": "#40B0F0",
-        "name": "Stop: Speeltuin Kaar [kaar]",
-        "title": "Stop: Speeltuin Kaar [kaar]",
+        "name": "Stop: Speeltuin I Bolderik [bolderik]",
+        "title": "Stop: Speeltuin I Bolderik [bolderik]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.637881,
+          51.744761
+        ]
+      },
+      "properties": {
+        "cellid": "47c702e5ec40a02b",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Jan Oliemeulenstraat [oliemeulen]",
+        "title": "Stop: Speeltuin Jan Oliemeulenstraat [oliemeulen]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.625117,
+          51.743894
+        ]
+      },
+      "properties": {
+        "cellid": "47c702eb67424cf3",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Lange Spruit [lange spruit]",
+        "title": "Stop: Speeltuin Lange Spruit [lange spruit]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.62851,
+          51.738719
+        ]
+      },
+      "properties": {
+        "cellid": "47c702c1fdd756d9",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Sportend Mannetje [mannetje]",
+        "title": "Stop: Sportend Mannetje [mannetje]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -455,6 +581,78 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.637216,
+          51.770117
+        ]
+      },
+      "properties": {
+        "cellid": "47c7025b34db6067",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Chapel",
+        "title": "Stop: Chapel",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.641515,
+          51.773571
+        ]
+      },
+      "properties": {
+        "cellid": "47c702459165f467",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Dankbaarheid",
+        "title": "Stop: Dankbaarheid",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.619593,
+          51.764343
+        ]
+      },
+      "properties": {
+        "cellid": "47c70263c1c185ed",
+        "marker-color": "#40B0F0",
+        "name": "Stop: De Das",
+        "title": "Stop: De Das",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.620214,
+          51.765974
+        ]
+      },
+      "properties": {
+        "cellid": "47c7026409241879",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Fietsroute Oss 17",
+        "title": "Stop: Fietsroute Oss 17",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.611657,
           51.760228
         ]
@@ -464,6 +662,96 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Headless Isle Sculpture",
         "title": "Stop: Headless Isle Sculpture",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.639261,
+          51.773568
+        ]
+      },
+      "properties": {
+        "cellid": "47c702444cd9c4f3",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Heilig Huisje",
+        "title": "Stop: Heilig Huisje",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.642615,
+          51.772537
+        ]
+      },
+      "properties": {
+        "cellid": "47c7024f81d32d29",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Muzikaal Podium",
+        "title": "Stop: Muzikaal Podium",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.635324,
+          51.770383
+        ]
+      },
+      "properties": {
+        "cellid": "47c7024355650a83",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Twee Zwanen [2 zwanen]",
+        "title": "Stop: Twee Zwanen [2 zwanen]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.641621,
+          51.772384
+        ]
+      },
+      "properties": {
+        "cellid": "47c7024579c38e15",
+        "marker-color": "#40B0F0",
+        "name": "Stop: War Monument",
+        "title": "Stop: War Monument",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.642115,
+          51.77264
+        ]
+      },
+      "properties": {
+        "cellid": "47c7024581e836cf",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Waterpomp Herpen",
+        "title": "Stop: Waterpomp Herpen",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -509,6 +797,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.64772,
+          51.739025
+        ]
+      },
+      "properties": {
+        "cellid": "47c702e016e5bcaf",
+        "marker-color": "#ff9900",
+        "name": "Gym: De Vriendenkring [vriendenkring]",
+        "title": "Gym: De Vriendenkring [vriendenkring]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650729,
+          51.739051
+        ]
+      },
+      "properties": {
+        "cellid": "47c7031f95919003",
+        "marker-color": "#ff9900",
+        "name": "Gym: Fietsroutenetwerk Landerd 26",
+        "title": "Gym: Fietsroutenetwerk Landerd 26",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.627697,
           51.750599
         ]
@@ -534,8 +858,8 @@
       "properties": {
         "cellid": "47c7029322c4c9af",
         "marker-color": "#ff9900",
-        "name": "Gym: Minisoccer DAW",
-        "title": "Gym: Minisoccer DAW",
+        "name": "Gym: Minisoccer DAW [daw]",
+        "title": "Gym: Minisoccer DAW [daw]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -570,8 +894,44 @@
       "properties": {
         "cellid": "47c702c2ad8e218d",
         "marker-color": "#ff9900",
-        "name": "Gym: Shique de Luxe [shique]",
-        "title": "Gym: Shique de Luxe [shique]",
+        "name": "Gym: Shique de Luxe [shique; sjiek de luxe; deluxe]",
+        "title": "Gym: Shique de Luxe [shique; sjiek de luxe; deluxe]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.627584,
+          51.747475
+        ]
+      },
+      "properties": {
+        "cellid": "47c702eda879b5e9",
+        "marker-color": "#ff9900",
+        "name": "Gym: Skateboard Central [skateboard]",
+        "title": "Gym: Skateboard Central [skateboard]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.626313,
+          51.741935
+        ]
+      },
+      "properties": {
+        "cellid": "47c702eba9ff0085",
+        "marker-color": "#ff9900",
+        "name": "Gym: Speeltuin Kaar [kaar]",
+        "title": "Gym: Speeltuin Kaar [kaar]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -617,6 +977,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.638714,
+          51.74508
+        ]
+      },
+      "properties": {
+        "cellid": "47c702e5bf0ed227",
+        "marker-color": "#ff9900",
+        "name": "Gym: Voetbalveld Akkerwinde [akkerwinde]",
+        "title": "Gym: Voetbalveld Akkerwinde [akkerwinde]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.63337,
           51.73906
         ]
@@ -626,6 +1004,24 @@
         "marker-color": "#ff9900",
         "name": "Gym: Wall of fun art [fun art]",
         "title": "Gym: Wall of fun art [fun art]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.635526,
+          51.736836
+        ]
+      },
+      "properties": {
+        "cellid": "47c702dd33f98d75",
+        "marker-color": "#ff9900",
+        "name": "Gym: Wandelroutenetwerk Landerd Nieuw Schaijk",
+        "title": "Gym: Wandelroutenetwerk Landerd Nieuw Schaijk",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -653,17 +1049,125 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.619593,
-          51.764343
+          5.638833,
+          51.770857
         ]
       },
       "properties": {
-        "cellid": "47c70263c1c185ed",
+        "cellid": "47c702452793af37",
         "marker-color": "#ff9900",
-        "name": "Gym: De Das",
-        "title": "Gym: De Das",
+        "name": "Gym: De Zwaan",
+        "title": "Gym: De Zwaan",
         "marker-size": "small",
         "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.643295,
+          51.772279
+        ]
+      },
+      "properties": {
+        "cellid": "47c7024f9c951999",
+        "marker-color": "#ff9900",
+        "name": "Gym: Muziek Hubertus Band Plaque",
+        "title": "Gym: Muziek Hubertus Band Plaque",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.641146,
+          51.771629
+        ]
+      },
+      "properties": {
+        "cellid": "47c70245692d94ed",
+        "marker-color": "#ff9900",
+        "name": "Gym: Sculpture",
+        "title": "Gym: Sculpture",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.620439,
+          51.765611
+        ]
+      },
+      "properties": {
+        "cellid": "47c70263f817cb1b",
+        "marker-color": "#ff9900",
+        "name": "Gym: Speelbos Herperduin [herperduin]",
+        "title": "Gym: Speelbos Herperduin [herperduin]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.639692,
+          51.769285
+        ]
+      },
+      "properties": {
+        "cellid": "47c7025ac6764ba1",
+        "marker-color": "#ff9900",
+        "name": "Gym: speelplaats kruisstraat [kruisstraat]",
+        "title": "Gym: speelplaats kruisstraat [kruisstraat]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.620602,
+          51.765948
+        ]
+      },
+      "properties": {
+        "cellid": "47c7026406660fcb",
+        "marker-color": "#ff9900",
+        "name": "Gym: Tree Sculpture",
+        "title": "Gym: Tree Sculpture",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.634265,
+          51.750333
+        ]
+      },
+      "properties": {
+        "cellid": "47c702f1ca36b445",
+        "marker-color": "#808080",
+        "name": "Unknown: Basketbalveld Dotterbloem",
+        "title": "Unknown: Basketbalveld Dotterbloem",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
       }
     },
     {
@@ -689,15 +1193,177 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.629491,
-          51.747962
+          5.635959,
+          51.740817
         ]
       },
       "properties": {
-        "cellid": "47c702edc195ac1b",
+        "cellid": "47c702e87f55bf91",
         "marker-color": "#808080",
-        "name": "Unknown: Fietsroute Netwerk Landerd 60",
-        "title": "Unknown: Fietsroute Netwerk Landerd 60",
+        "name": "Unknown: Boerderij Speeltuin Mackenhof",
+        "title": "Unknown: Boerderij Speeltuin Mackenhof",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.633132,
+          51.746447
+        ]
+      },
+      "properties": {
+        "cellid": "47c702eef844e46b",
+        "marker-color": "#808080",
+        "name": "Unknown: De Phoenix",
+        "title": "Unknown: De Phoenix",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.633211,
+          51.736055
+        ]
+      },
+      "properties": {
+        "cellid": "47c702c2e03883e3",
+        "marker-color": "#808080",
+        "name": "Unknown: De Schreeuwende Zwaan",
+        "title": "Unknown: De Schreeuwende Zwaan",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63082,
+          51.726504
+        ]
+      },
+      "properties": {
+        "cellid": "47c702cfbc7f4961",
+        "marker-color": "#808080",
+        "name": "Unknown: Entree Docus De Das Avonturenspeeltuin/pad",
+        "title": "Unknown: Entree Docus De Das Avonturenspeeltuin/pad",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.644088,
+          51.727469
+        ]
+      },
+      "properties": {
+        "cellid": "47c702d7883ce05b",
+        "marker-color": "#808080",
+        "name": "Unknown: Fietsroute De Maashorst Schaijk 79",
+        "title": "Unknown: Fietsroute De Maashorst Schaijk 79",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63282,
+          51.733824
+        ]
+      },
+      "properties": {
+        "cellid": "47c702c3677403bd",
+        "marker-color": "#808080",
+        "name": "Unknown: Fietsroute Netwerk De Maashorst Schaijk 4",
+        "title": "Unknown: Fietsroute Netwerk De Maashorst Schaijk 4",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.613251,
+          51.738005
+        ]
+      },
+      "properties": {
+        "cellid": "47c702bdbceab60b",
+        "marker-color": "#808080",
+        "name": "Unknown: Gedenksteen Gagelstraat",
+        "title": "Unknown: Gedenksteen Gagelstraat",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.631029,
+          51.747276
+        ]
+      },
+      "properties": {
+        "cellid": "47c702ee79ef9e7d",
+        "marker-color": "#808080",
+        "name": "Unknown: Heemkundekring “De Komme” Schaijk-Reek",
+        "title": "Unknown: Heemkundekring “De Komme” Schaijk-Reek",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.664543,
+          51.743175
+        ]
+      },
+      "properties": {
+        "cellid": "47c70310c791c7b7",
+        "marker-color": "#808080",
+        "name": "Unknown: Herdenkingsbank “Artur Ingald”",
+        "title": "Unknown: Herdenkingsbank “Artur Ingald”",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.632426,
+          51.747468
+        ]
+      },
+      "properties": {
+        "cellid": "47c702ee426fc713",
+        "marker-color": "#808080",
+        "name": "Unknown: Hertenpark “De Bokkensprong”",
+        "title": "Unknown: Hertenpark “De Bokkensprong”",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -725,24 +1391,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.637605,
-          51.740532
-        ]
-      },
-      "properties": {
-        "cellid": "47c702e7b7d1e85d",
-        "marker-color": "#808080",
-        "name": "Unknown: Minisoccer Akkerwinde",
-        "title": "Unknown: Minisoccer Akkerwinde",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.682941,
           51.746691
         ]
@@ -750,8 +1398,8 @@
       "properties": {
         "cellid": "47c7036df8cd263f",
         "marker-color": "#808080",
-        "name": "Unknown: Route Om Te Lopen",
-        "title": "Unknown: Route Om Te Lopen",
+        "name": "Unknown: Route Om Te Lopen [om te lopen; te lopen]",
+        "title": "Unknown: Route Om Te Lopen [om te lopen; te lopen]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -761,15 +1409,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.626109,
-          51.745559
+          5.635921,
+          51.752781
         ]
       },
       "properties": {
-        "cellid": "47c702ec92b58eed",
+        "cellid": "47c702f0e8a08047",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Bruinsteeg",
-        "title": "Unknown: Speeltuin Bruinsteeg",
+        "name": "Unknown: Tafeltennis Speelveld Watermunt",
+        "title": "Unknown: Tafeltennis Speelveld Watermunt",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -779,15 +1427,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.637881,
-          51.744761
+          5.634895,
+          51.733351
         ]
       },
       "properties": {
-        "cellid": "47c702e5ec40a02b",
+        "cellid": "47c702dca98ea011",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Jan Oliemeulenstraat",
-        "title": "Unknown: Speeltuin Jan Oliemeulenstraat",
+        "name": "Unknown: Tennisclub De Witte Schare",
+        "title": "Unknown: Tennisclub De Witte Schare",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -797,15 +1445,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.625117,
-          51.743894
+          5.637772,
+          51.751767
         ]
       },
       "properties": {
-        "cellid": "47c702eb67424cf3",
+        "cellid": "47c702f0872cc727",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Lange Spruit",
-        "title": "Unknown: Speeltuin Lange Spruit",
+        "name": "Unknown: Vlindertuin “Het Oliemeulen” [vlindertuin; oliemeulen]",
+        "title": "Unknown: Vlindertuin “Het Oliemeulen” [vlindertuin; oliemeulen]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -815,321 +1463,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.638714,
-          51.74508
+          5.673168,
+          51.771995
         ]
       },
       "properties": {
-        "cellid": "47c702e5bf0ed227",
+        "cellid": "47c703bbbb950109",
         "marker-color": "#808080",
-        "name": "Unknown: Voetbalveld Akkerwinde",
-        "title": "Unknown: Voetbalveld Akkerwinde",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.635526,
-          51.736836
-        ]
-      },
-      "properties": {
-        "cellid": "47c702dd33f98d75",
-        "marker-color": "#808080",
-        "name": "Unknown: Wandelroutenetwerk Landerd Nieuw Schaijk",
-        "title": "Unknown: Wandelroutenetwerk Landerd Nieuw Schaijk",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.637216,
-          51.770117
-        ]
-      },
-      "properties": {
-        "cellid": "47c7025b34db6067",
-        "marker-color": "#808080",
-        "name": "Unknown: Chapel",
-        "title": "Unknown: Chapel",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.641515,
-          51.773571
-        ]
-      },
-      "properties": {
-        "cellid": "47c702459165f467",
-        "marker-color": "#808080",
-        "name": "Unknown: Dankbaarheid",
-        "title": "Unknown: Dankbaarheid",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.638833,
-          51.770857
-        ]
-      },
-      "properties": {
-        "cellid": "47c702452793af37",
-        "marker-color": "#808080",
-        "name": "Unknown: De Zwaan",
-        "title": "Unknown: De Zwaan",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.620214,
-          51.765974
-        ]
-      },
-      "properties": {
-        "cellid": "47c7026409241879",
-        "marker-color": "#808080",
-        "name": "Unknown: Fietsroute Oss 17",
-        "title": "Unknown: Fietsroute Oss 17",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.639261,
-          51.773568
-        ]
-      },
-      "properties": {
-        "cellid": "47c702444cd9c4f3",
-        "marker-color": "#808080",
-        "name": "Unknown: Heilig Huisje",
-        "title": "Unknown: Heilig Huisje",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.641593,
-          51.772203
-        ]
-      },
-      "properties": {
-        "cellid": "47c702457a14a9ed",
-        "marker-color": "#808080",
-        "name": "Unknown: Kerk Herpen",
-        "title": "Unknown: Kerk Herpen",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.643295,
-          51.772279
-        ]
-      },
-      "properties": {
-        "cellid": "47c7024f9c951999",
-        "marker-color": "#808080",
-        "name": "Unknown: Muziek Hubertus Band Plaque",
-        "title": "Unknown: Muziek Hubertus Band Plaque",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.642615,
-          51.772537
-        ]
-      },
-      "properties": {
-        "cellid": "47c7024f81d32d29",
-        "marker-color": "#808080",
-        "name": "Unknown: Muzikaal Podium",
-        "title": "Unknown: Muzikaal Podium",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.641146,
-          51.771629
-        ]
-      },
-      "properties": {
-        "cellid": "47c70245692d94ed",
-        "marker-color": "#808080",
-        "name": "Unknown: Sculpture",
-        "title": "Unknown: Sculpture",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.621266,
-          51.766065
-        ]
-      },
-      "properties": {
-        "cellid": "47c7026402735625",
-        "marker-color": "#808080",
-        "name": "Unknown: Sleutel Van De Natuurpoort",
-        "title": "Unknown: Sleutel Van De Natuurpoort",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.620439,
-          51.765611
-        ]
-      },
-      "properties": {
-        "cellid": "47c70263f817cb1b",
-        "marker-color": "#808080",
-        "name": "Unknown: Speelbos Herperduin",
-        "title": "Unknown: Speelbos Herperduin",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.639692,
-          51.769285
-        ]
-      },
-      "properties": {
-        "cellid": "47c7025ac6764ba1",
-        "marker-color": "#808080",
-        "name": "Unknown: speelplaats kruisstraat",
-        "title": "Unknown: speelplaats kruisstraat",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.620602,
-          51.765948
-        ]
-      },
-      "properties": {
-        "cellid": "47c7026406660fcb",
-        "marker-color": "#808080",
-        "name": "Unknown: Tree Sculpture",
-        "title": "Unknown: Tree Sculpture",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.635324,
-          51.770383
-        ]
-      },
-      "properties": {
-        "cellid": "47c7024355650a83",
-        "marker-color": "#808080",
-        "name": "Unknown: Twee Zwanen",
-        "title": "Unknown: Twee Zwanen",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.641621,
-          51.772384
-        ]
-      },
-      "properties": {
-        "cellid": "47c7024579c38e15",
-        "marker-color": "#808080",
-        "name": "Unknown: War Monument",
-        "title": "Unknown: War Monument",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.642115,
-          51.77264
-        ]
-      },
-      "properties": {
-        "cellid": "47c7024581e836cf",
-        "marker-color": "#808080",
-        "name": "Unknown: Waterpomp Herpen",
-        "title": "Unknown: Waterpomp Herpen",
+        "name": "Unknown: Fietsroutenetwerk 32 Oss",
+        "title": "Unknown: Fietsroutenetwerk 32 Oss",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -1148,6 +1490,42 @@
         "marker-color": "#000000",
         "name": "Not Availble: Carnaval",
         "title": "Not Availble: Carnaval",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.641593,
+          51.772203
+        ]
+      },
+      "properties": {
+        "cellid": "47c702457a14a9ed",
+        "marker-color": "#000000",
+        "name": "Not Availble: Kerk Herpen",
+        "title": "Not Availble: Kerk Herpen",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.621266,
+          51.766065
+        ]
+      },
+      "properties": {
+        "cellid": "47c7026402735625",
+        "marker-color": "#000000",
+        "name": "Not Availble: Sleutel Van De Natuurpoort [natuurpoort]",
+        "title": "Not Availble: Sleutel Van De Natuurpoort [natuurpoort]",
         "marker-size": "small",
         "marker-symbol": ""
       }

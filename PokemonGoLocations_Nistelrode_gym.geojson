@@ -5,6 +5,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.578042,
+          51.691186
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e29ba1b26323",
+        "marker-color": "#40B0F0",
+        "name": "Stop: 'poort van het paradijs' [poort van het paradijs]",
+        "title": "Stop: 'poort van het paradijs' [poort van het paradijs]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.56016,
           51.701043
         ]
@@ -77,6 +95,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.616392,
+          51.691111
+        ]
+      },
+      "properties": {
+        "cellid": "47c71d139ca44943",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Bosbeheer",
+        "title": "Stop: Bosbeheer",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.563176,
           51.700116
         ]
@@ -131,6 +167,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.616192,
+          51.691375
+        ]
+      },
+      "properties": {
+        "cellid": "47c71d13825c97d5",
+        "marker-color": "#40B0F0",
+        "name": "Stop: De Maashorst Geschiedenis Van De Blokhut",
+        "title": "Stop: De Maashorst Geschiedenis Van De Blokhut",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.569291,
           51.705979
         ]
@@ -140,6 +194,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Een Teken Van Troost",
         "title": "Stop: Een Teken Van Troost",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.61803,
+          51.693228
+        ]
+      },
+      "properties": {
+        "cellid": "47c71d144062c021",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Fietsen In Brabant",
+        "title": "Stop: Fietsen In Brabant",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -329,6 +401,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.571637,
+          51.701004
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2bda6ecbe43",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Kunstwerk Houten Egel",
+        "title": "Stop: Kunstwerk Houten Egel",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.575577,
           51.69492
         ]
@@ -444,8 +534,8 @@
       "properties": {
         "cellid": "47c6e2eb05047ad1",
         "marker-color": "#40B0F0",
-        "name": "Stop: Oude Kar",
-        "title": "Stop: Oude Kar",
+        "name": "Stop: Oude Kar [kar]",
+        "title": "Stop: Oude Kar [kar]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -491,6 +581,114 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.566795,
+          51.706626
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2b91ced3519",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Het Erp [het erp]",
+        "title": "Stop: Speeltuin Het Erp [het erp]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.559092,
+          51.702518
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c0fffd1529",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Kerkhoflaan [kerkhoflaan]",
+        "title": "Stop: Speeltuin Kerkhoflaan [kerkhoflaan]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.555995,
+          51.70545
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c4012bd1a1",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Meentstraat [meentstraat]",
+        "title": "Stop: Speeltuin Meentstraat [meentstraat]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.567476,
+          51.708253
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2b9b0e599b9",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Oude Torenweg [oude torenweg]",
+        "title": "Stop: Speeltuin Oude Torenweg [oude torenweg]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.557517,
+          51.70485
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c149540a23",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Schaarstraat [schaarstraat]",
+        "title": "Stop: Speeltuin Schaarstraat [schaarstraat]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.56399,
+          51.7029
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2bf729f79ef",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Toniesplien [toniesplien]",
+        "title": "Stop: Speeltuin Toniesplien [toniesplien]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.554965,
           51.704629
         ]
@@ -500,6 +698,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Speeltuin Weidestraat [weidestraat]",
         "title": "Stop: Speeltuin Weidestraat [weidestraat]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.573983,
+          51.701833
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2bcdf7135a3",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Speeltuin Zwarte Molenweg [zwarte molenweg]",
+        "title": "Stop: Speeltuin Zwarte Molenweg [zwarte molenweg]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -536,24 +752,6 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Stiltegebied Maashorst",
         "title": "Stop: Stiltegebied Maashorst",
-        "marker-size": "small",
-        "marker-symbol": "circle-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.570475,
-          51.702155
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2bc358fde35",
-        "marker-color": "#40B0F0",
-        "name": "Stop: TC Telro",
-        "title": "Stop: TC Telro",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -642,8 +840,8 @@
       "properties": {
         "cellid": "47c6e2bff91f70d7",
         "marker-color": "#40B0F0",
-        "name": "Stop: XVII-IX-MCMLXXXVI",
-        "title": "Stop: XVII-IX-MCMLXXXVI",
+        "name": "Stop: XVII-IX-MCMLXXXVI [17-9-1986; 17 september 1986]",
+        "title": "Stop: XVII-IX-MCMLXXXVI [17-9-1986; 17 september 1986]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -869,6 +1067,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.564643,
+          51.709479
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2b8100881b9",
+        "marker-color": "#ff9900",
+        "name": "Gym: Speeltuin Blauwesteenweg [Blauwsteenweg]",
+        "title": "Gym: Speeltuin Blauwesteenweg [Blauwsteenweg]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.562908,
+          51.707201
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c77c099497",
+        "marker-color": "#ff9900",
+        "name": "Gym: Speeltuin Boekweitstraat [boekweitstraat]",
+        "title": "Gym: Speeltuin Boekweitstraat [boekweitstraat]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.570475,
+          51.702155
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2bc358fde35",
+        "marker-color": "#ff9900",
+        "name": "Gym: TC Telro [telro]",
+        "title": "Gym: TC Telro [telro]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.567061,
           51.702991
         ]
@@ -876,8 +1128,8 @@
       "properties": {
         "cellid": "47c6e2beec3b8e67",
         "marker-color": "#FF2020",
-        "name": "Ex-raid Gym: Dancing Fishes [fishes]",
-        "title": "Ex-raid Gym: Dancing Fishes [fishes]",
+        "name": "Ex-raid Gym: Dancing Fishes [fishes; dancing]",
+        "title": "Ex-raid Gym: Dancing Fishes [fishes; dancing]",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -894,8 +1146,8 @@
       "properties": {
         "cellid": "47c6e2b759654331",
         "marker-color": "#FF2020",
-        "name": "Ex-raid Gym: St Catharina Gilde",
-        "title": "Ex-raid Gym: St Catharina Gilde",
+        "name": "Ex-raid Gym: St Catharina Gilde [sint catharina gilde; catharina gilde]",
+        "title": "Ex-raid Gym: St Catharina Gilde [sint catharina gilde; catharina gilde]",
         "marker-size": "small",
         "marker-symbol": "minefield"
       }
@@ -905,15 +1157,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.578042,
-          51.691186
+          5.572979,
+          51.70148
         ]
       },
       "properties": {
-        "cellid": "47c6e29ba1b26323",
+        "cellid": "47c6e2bd1b611317",
         "marker-color": "#808080",
-        "name": "Unknown: 'poort van het paradijs' [poort van het paradijs]",
-        "title": "Unknown: 'poort van het paradijs' [poort van het paradijs]",
+        "name": "Unknown: Kunstwerk Houten Vos",
+        "title": "Unknown: Kunstwerk Houten Vos",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -923,69 +1175,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.616392,
-          51.691111
+          5.573074,
+          51.700939
         ]
       },
       "properties": {
-        "cellid": "47c71d139ca44943",
+        "cellid": "47c6e2bd113c4519",
         "marker-color": "#808080",
-        "name": "Unknown: Bosbeheer",
-        "title": "Unknown: Bosbeheer",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.616192,
-          51.691375
-        ]
-      },
-      "properties": {
-        "cellid": "47c71d13825c97d5",
-        "marker-color": "#808080",
-        "name": "Unknown: De Maashorst Geschiedenis Van De Blokhut",
-        "title": "Unknown: De Maashorst Geschiedenis Van De Blokhut",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.61803,
-          51.693228
-        ]
-      },
-      "properties": {
-        "cellid": "47c71d144062c021",
-        "marker-color": "#808080",
-        "name": "Unknown: Fietsen In Brabant",
-        "title": "Unknown: Fietsen In Brabant",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.571637,
-          51.701004
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2bda6ecbe43",
-        "marker-color": "#808080",
-        "name": "Unknown: Kunstwerk Houten Egel",
-        "title": "Unknown: Kunstwerk Houten Egel",
+        "name": "Unknown: Natuur Speeltuin Baansteen",
+        "title": "Unknown: Natuur Speeltuin Baansteen",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -1013,15 +1211,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.562034,
-          51.701936
+          5.567367,
+          51.701524
         ]
       },
       "properties": {
-        "cellid": "47c6e2c07921bef9",
+        "cellid": "47c6e2be66462997",
         "marker-color": "#808080",
-        "name": "Unknown: Rainbow Ice Cream",
-        "title": "Unknown: Rainbow Ice Cream",
+        "name": "Unknown: Speeltuin Boestestraat [boestestraat]",
+        "title": "Unknown: Speeltuin Boestestraat [boestestraat]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -1031,15 +1229,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.561921,
-          51.702704
+          5.566902,
+          51.704828
         ]
       },
       "properties": {
-        "cellid": "47c6e2c084195cfb",
+        "cellid": "47c6e2b92d5cd8e5",
         "marker-color": "#808080",
-        "name": "Unknown: Rooflifters",
-        "title": "Unknown: Rooflifters",
+        "name": "Unknown: Speeltuin De Leibeek [leibeek]",
+        "title": "Unknown: Speeltuin De Leibeek [leibeek]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -1049,15 +1247,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.564643,
-          51.709479
+          5.555776,
+          51.703117
         ]
       },
       "properties": {
-        "cellid": "47c6e2b8100881b9",
+        "cellid": "47c6e2c3d64c3277",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Blauwesteenweg",
-        "title": "Unknown: Speeltuin Blauwesteenweg",
+        "name": "Unknown: Speeltuin Franciscanesseweg [franciscanesseweg]",
+        "title": "Unknown: Speeltuin Franciscanesseweg [franciscanesseweg]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -1067,177 +1265,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.562908,
-          51.707201
+          5.554044,
+          51.703004
         ]
       },
       "properties": {
-        "cellid": "47c6e2c77c099497",
+        "cellid": "47c6e2c3b5cd335f",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Boekweitstraat",
-        "title": "Unknown: Speeltuin Boekweitstraat",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.566795,
-          51.706626
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2b91ced3519",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Het Erp",
-        "title": "Unknown: Speeltuin Het Erp",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.559092,
-          51.702518
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2c0fffd1529",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Kerkhoflaan",
-        "title": "Unknown: Speeltuin Kerkhoflaan",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.555995,
-          51.70545
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2c4012bd1a1",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Meentstraat",
-        "title": "Unknown: Speeltuin Meentstraat",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.567476,
-          51.708253
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2b9b0e599b9",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Oude Torenweg",
-        "title": "Unknown: Speeltuin Oude Torenweg",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.557517,
-          51.70485
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2c149540a23",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Schaarstraat",
-        "title": "Unknown: Speeltuin Schaarstraat",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.56399,
-          51.7029
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2bf729f79ef",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Toniesplien",
-        "title": "Unknown: Speeltuin Toniesplien",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.573983,
-          51.701833
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2bcdf7135a3",
-        "marker-color": "#808080",
-        "name": "Unknown: Speeltuin Zwarte Molenweg",
-        "title": "Unknown: Speeltuin Zwarte Molenweg",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.561709,
-          51.69982
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2c00043fb2b",
-        "marker-color": "#808080",
-        "name": "Unknown: St LAMBERTUS",
-        "title": "Unknown: St LAMBERTUS",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.562854,
-          51.700142
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2bfe4e3c3f3",
-        "marker-color": "#808080",
-        "name": "Unknown: Statue in the Wall",
-        "title": "Unknown: Statue in the Wall",
+        "name": "Unknown: Sportveldje Heuvelstraat",
+        "title": "Unknown: Sportveldje Heuvelstraat",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -1265,33 +1301,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.561313,
-          51.70115
+          5.557725,
+          51.703218
         ]
       },
       "properties": {
-        "cellid": "47c6e2c072991b0b",
+        "cellid": "47c6e2c1129d02e9",
         "marker-color": "#808080",
-        "name": "Unknown: We'll meet again",
-        "title": "Unknown: We'll meet again",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.559401,
-          51.701069
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e2c036350c9b",
-        "marker-color": "#808080",
-        "name": "Unknown: Zevengesternte",
-        "title": "Unknown: Zevengesternte",
+        "name": "Unknown: Verbondenheid",
+        "title": "Unknown: Verbondenheid",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -1310,6 +1328,114 @@
         "marker-color": "#000000",
         "name": "Not Availble: Hoge vorsel; grens",
         "title": "Not Availble: Hoge vorsel; grens",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.562034,
+          51.701936
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c07921bef9",
+        "marker-color": "#000000",
+        "name": "Not Availble: Rainbow Ice Cream",
+        "title": "Not Availble: Rainbow Ice Cream",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.561921,
+          51.702704
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c084195cfb",
+        "marker-color": "#000000",
+        "name": "Not Availble: Rooflifters",
+        "title": "Not Availble: Rooflifters",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.561709,
+          51.69982
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c00043fb2b",
+        "marker-color": "#000000",
+        "name": "Not Availble: St LAMBERTUS",
+        "title": "Not Availble: St LAMBERTUS",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.562854,
+          51.700142
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2bfe4e3c3f3",
+        "marker-color": "#000000",
+        "name": "Not Availble: Statue in the Wall",
+        "title": "Not Availble: Statue in the Wall",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.561313,
+          51.70115
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c072991b0b",
+        "marker-color": "#000000",
+        "name": "Not Availble: We'll meet again [meet again]",
+        "title": "Not Availble: We'll meet again [meet again]",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.559401,
+          51.701069
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e2c036350c9b",
+        "marker-color": "#000000",
+        "name": "Not Availble: Zevengesternte",
+        "title": "Not Availble: Zevengesternte",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -2276,6 +2402,30 @@
               [
                 5.559715791908129,
                 51.68923564186826
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                5.553202463733956,
+                51.68954386414385
+              ],
+              [
+                5.554249355675047,
+                51.69478092950258
+              ],
+              [
+                5.547735388200564,
+                51.695088862665024
+              ],
+              [
+                5.546689708652565,
+                51.68985169498839
+              ],
+              [
+                5.553202463733956,
+                51.68954386414385
               ]
             ]
           ],

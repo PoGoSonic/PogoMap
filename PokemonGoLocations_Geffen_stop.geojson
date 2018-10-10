@@ -59,6 +59,60 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.40588,
+          51.722336
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e54984fbe3f7",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Cruyff Court",
+        "title": "Stop: Cruyff Court",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.404817,
+          51.724501
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e54bb9ec2f57",
+        "marker-color": "#40B0F0",
+        "name": "Stop: De Vleesschauwer [vleesschauwer]",
+        "title": "Stop: De Vleesschauwer [vleesschauwer]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.406664,
+          51.723312
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e54a2462aca5",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Info Sign De Hooge Heide",
+        "title": "Stop: Info Sign De Hooge Heide",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.466732,
           51.740272
         ]
@@ -77,6 +131,78 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.428721,
+          51.735816
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fad0ef1a36eb",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Keltisch Kruis",
+        "title": "Stop: Keltisch Kruis",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.424798,
+          51.741648
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fac4c8f7d2ff",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Knooppunt 30",
+        "title": "Stop: Knooppunt 30",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.394874,
+          51.732465
+        ]
+      },
+      "properties": {
+        "cellid": "47c6faadb79ebe15",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Kruisstraat War Memorial",
+        "title": "Stop: Kruisstraat War Memorial",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.43622,
+          51.72237
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e4d5e96d1cbb",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Memorial WW II",
+        "title": "Stop: Memorial WW II",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.461205,
           51.741034
         ]
@@ -84,8 +210,8 @@
       "properties": {
         "cellid": "47c6fb3929153957",
         "marker-color": "#40B0F0",
-        "name": "Stop: Modern Art",
-        "title": "Stop: Modern Art",
+        "name": "Stop: Modern Art [dorpsplein]",
+        "title": "Stop: Modern Art [dorpsplein]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -131,6 +257,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.435182,
+          51.725162
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e52a9e874137",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Oud Gemeentehuis Nuland",
+        "title": "Stop: Oud Gemeentehuis Nuland",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.463711,
           51.741723
         ]
@@ -138,8 +282,8 @@
       "properties": {
         "cellid": "47c6fb3f4eb399ed",
         "marker-color": "#40B0F0",
-        "name": "Stop: Oude Oven Geffen",
-        "title": "Stop: Oude Oven Geffen",
+        "name": "Stop: Oude Oven Geffen [oven geffen; oude oven]",
+        "title": "Stop: Oude Oven Geffen [oven geffen; oude oven]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -156,8 +300,80 @@
       "properties": {
         "cellid": "47c6fb3f25de4293",
         "marker-color": "#40B0F0",
-        "name": "Stop: Oude Waterpomp",
-        "title": "Stop: Oude Waterpomp",
+        "name": "Stop: Oude Waterpomp [waterpomp]",
+        "title": "Stop: Oude Waterpomp [waterpomp]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433729,
+          51.727221
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fad531525773",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Ouds Scheeps Anker [scheeps anker; oud scheeps anker; oud anker]",
+        "title": "Stop: Ouds Scheeps Anker [scheeps anker; oud scheeps anker; oud anker]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.40404,
+          51.724323
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e54b955f5509",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Petting Zoo Binckhorst [binckhorst]",
+        "title": "Stop: Petting Zoo Binckhorst [binckhorst]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.405783,
+          51.722069
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e5499b0e0c75",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Playground Binckhorst [binckhorst]",
+        "title": "Stop: Playground Binckhorst [binckhorst]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.432856,
+          51.730766
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fad44a3c8cd3",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Sint Johanes Onthoofding Kerk. [onthoofding; sint johannes]",
+        "title": "Stop: Sint Johanes Onthoofding Kerk. [onthoofding; sint johannes]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -185,6 +401,96 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.433181,
+          51.730216
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fad5b2a3bd11",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Villa Maasdonk",
+        "title": "Stop: Villa Maasdonk",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433355,
+          51.728141
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fad5228e3cad",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Vonkel Geffen Nuland Bank 1993-2014",
+        "title": "Stop: Vonkel Geffen Nuland Bank 1993-2014",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.402838,
+          51.721996
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e5494609958b",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Wedding Chappel",
+        "title": "Stop: Wedding Chappel",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.404787,
+          51.722705
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e5497c50f06d",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Wensput",
+        "title": "Stop: Wensput",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.437623,
+          51.722435
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e4d5c938ed29",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Zeilboot",
+        "title": "Stop: Zeilboot",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.46189,
           51.740766
         ]
@@ -194,6 +500,60 @@
         "marker-color": "#ff9900",
         "name": "Gym: Gemeentehuis Maasdonk [maasdonk]",
         "title": "Gym: Gemeentehuis Maasdonk [maasdonk]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.406023,
+          51.725248
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e54a54f2c199",
+        "marker-color": "#ff9900",
+        "name": "Gym: Infobord Binckhorst",
+        "title": "Gym: Infobord Binckhorst",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.431793,
+          51.722085
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e52a2c416fa9",
+        "marker-color": "#ff9900",
+        "name": "Gym: Jan Visscherslaantje Playground",
+        "title": "Gym: Jan Visscherslaantje Playground",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.420451,
+          51.716578
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e53aab63c363",
+        "marker-color": "#ff9900",
+        "name": "Gym: Kastelen Bankje",
+        "title": "Gym: Kastelen Bankje",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -221,6 +581,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.436033,
+          51.722962
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e4d593a8f2cf",
+        "marker-color": "#ff9900",
+        "name": "Gym: Modern Art",
+        "title": "Gym: Modern Art",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.463841,
           51.742665
         ]
@@ -230,6 +608,42 @@
         "marker-color": "#ff9900",
         "name": "Gym: Mozaïek Bankje Koppellinck [koppellinck; koppelinck; mozaiek bankje; mozaiek bakje koppellinck]",
         "title": "Gym: Mozaïek Bankje Koppellinck [koppellinck; koppelinck; mozaiek bankje; mozaiek bakje koppellinck]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433542,
+          51.727987
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fad53cdae9b9",
+        "marker-color": "#ff9900",
+        "name": "Gym: Muziektent Nuland [muziektent]",
+        "title": "Gym: Muziektent Nuland [muziektent]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.402657,
+          51.722998
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e54956201979",
+        "marker-color": "#ff9900",
+        "name": "Gym: Playground Binckhorst [binckhorst]",
+        "title": "Gym: Playground Binckhorst [binckhorst]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -275,15 +689,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.40588,
-          51.722336
+          5.428567,
+          51.736029
         ]
       },
       "properties": {
-        "cellid": "47c6e54984fbe3f7",
+        "cellid": "47c6fad0ede19a6d",
         "marker-color": "#808080",
-        "name": "Unknown: Cruyff Court",
-        "title": "Unknown: Cruyff Court",
+        "name": "Unknown: De Schutskooi",
+        "title": "Unknown: De Schutskooi",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -293,465 +707,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.404817,
-          51.724501
+          5.395055,
+          51.731812
         ]
       },
       "properties": {
-        "cellid": "47c6e54bb9ec2f57",
+        "cellid": "47c6faada4fc8bf1",
         "marker-color": "#808080",
-        "name": "Unknown: De Vleesschauwer [vleesschauwer]",
-        "title": "Unknown: De Vleesschauwer [vleesschauwer]",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.406664,
-          51.723312
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e54a2462aca5",
-        "marker-color": "#808080",
-        "name": "Unknown: Info Sign De Hooge Heide",
-        "title": "Unknown: Info Sign De Hooge Heide",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.406023,
-          51.725248
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e54a54f2c199",
-        "marker-color": "#808080",
-        "name": "Unknown: Infobord Binckhorst",
-        "title": "Unknown: Infobord Binckhorst",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.431793,
-          51.722085
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e52a2c416fa9",
-        "marker-color": "#808080",
-        "name": "Unknown: Jan Visscherslaantje Playground",
-        "title": "Unknown: Jan Visscherslaantje Playground",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.420451,
-          51.716578
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e53aab63c363",
-        "marker-color": "#808080",
-        "name": "Unknown: Kastelen Bankje",
-        "title": "Unknown: Kastelen Bankje",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.428721,
-          51.735816
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fad0ef1a36eb",
-        "marker-color": "#808080",
-        "name": "Unknown: Keltisch Kruis",
-        "title": "Unknown: Keltisch Kruis",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.424798,
-          51.741648
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fac4c8f7d2ff",
-        "marker-color": "#808080",
-        "name": "Unknown: Knooppunt 30",
-        "title": "Unknown: Knooppunt 30",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.394874,
-          51.732465
-        ]
-      },
-      "properties": {
-        "cellid": "47c6faadb79ebe15",
-        "marker-color": "#808080",
-        "name": "Unknown: Kruisstraat War Memorial",
-        "title": "Unknown: Kruisstraat War Memorial",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.433698,
-          51.730746
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fad5b614db31",
-        "marker-color": "#808080",
-        "name": "Unknown: Man Met De Schep",
-        "title": "Unknown: Man Met De Schep",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.433165,
-          51.730613
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fad44b34fcd5",
-        "marker-color": "#808080",
-        "name": "Unknown: Maria Kappel Nuland",
-        "title": "Unknown: Maria Kappel Nuland",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.43622,
-          51.72237
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e4d5e96d1cbb",
-        "marker-color": "#808080",
-        "name": "Unknown: Memorial WW II",
-        "title": "Unknown: Memorial WW II",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.436033,
-          51.722962
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e4d593a8f2cf",
-        "marker-color": "#808080",
-        "name": "Unknown: Modern Art",
-        "title": "Unknown: Modern Art",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.433542,
-          51.727987
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fad53cdae9b9",
-        "marker-color": "#808080",
-        "name": "Unknown: Muziektent Nuland",
-        "title": "Unknown: Muziektent Nuland",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.435182,
-          51.725162
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e52a9e874137",
-        "marker-color": "#808080",
-        "name": "Unknown: Oud Gemeentehuis Nuland",
-        "title": "Unknown: Oud Gemeentehuis Nuland",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.433729,
-          51.727221
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fad531525773",
-        "marker-color": "#808080",
-        "name": "Unknown: Ouds Scheeps Anker",
-        "title": "Unknown: Ouds Scheeps Anker",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.40404,
-          51.724323
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e54b955f5509",
-        "marker-color": "#808080",
-        "name": "Unknown: Petting Zoo Binckhorst",
-        "title": "Unknown: Petting Zoo Binckhorst",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.405783,
-          51.722069
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e5499b0e0c75",
-        "marker-color": "#808080",
-        "name": "Unknown: Playground Binckhorst [binckhorst]",
-        "title": "Unknown: Playground Binckhorst [binckhorst]",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.402657,
-          51.722998
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e54956201979",
-        "marker-color": "#808080",
-        "name": "Unknown: Playground Binckhorst [binckhorst]",
-        "title": "Unknown: Playground Binckhorst [binckhorst]",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.43265,
-          51.73039
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fad44e890cd3",
-        "marker-color": "#808080",
-        "name": "Unknown: Roman Statue",
-        "title": "Unknown: Roman Statue",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.436285,
-          51.722685
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e4d5eb17c74f",
-        "marker-color": "#808080",
-        "name": "Unknown: Royal Beatrix - Claustree",
-        "title": "Unknown: Royal Beatrix - Claustree",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.432856,
-          51.730766
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fad44a3c8cd3",
-        "marker-color": "#808080",
-        "name": "Unknown: Sint Johanes Onthoofding Kerk.",
-        "title": "Unknown: Sint Johanes Onthoofding Kerk.",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.433181,
-          51.730216
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fad5b2a3bd11",
-        "marker-color": "#808080",
-        "name": "Unknown: Villa Maasdonk",
-        "title": "Unknown: Villa Maasdonk",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.433355,
-          51.728141
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fad5228e3cad",
-        "marker-color": "#808080",
-        "name": "Unknown: Vonkel Geffen Nuland Bank 1993-2014",
-        "title": "Unknown: Vonkel Geffen Nuland Bank 1993-2014",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.402838,
-          51.721996
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e5494609958b",
-        "marker-color": "#808080",
-        "name": "Unknown: Wedding Chappel",
-        "title": "Unknown: Wedding Chappel",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.404787,
-          51.722705
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e5497c50f06d",
-        "marker-color": "#808080",
-        "name": "Unknown: Wensput",
-        "title": "Unknown: Wensput",
-        "marker-size": "small",
-        "marker-symbol": "marker-stroked"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.437623,
-          51.722435
-        ]
-      },
-      "properties": {
-        "cellid": "47c6e4d5c938ed29",
-        "marker-color": "#808080",
-        "name": "Unknown: Zeilboot",
-        "title": "Unknown: Zeilboot",
+        "name": "Unknown: Fietsen Doe Je In Brabant 19",
+        "title": "Unknown: Fietsen Doe Je In Brabant 19",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -770,6 +734,78 @@
         "marker-color": "#000000",
         "name": "Not Availble: Maasdonk Sofa",
         "title": "Not Availble: Maasdonk Sofa",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433698,
+          51.730746
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fad5b614db31",
+        "marker-color": "#000000",
+        "name": "Not Availble: Man Met De Schep",
+        "title": "Not Availble: Man Met De Schep",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433165,
+          51.730613
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fad44b34fcd5",
+        "marker-color": "#000000",
+        "name": "Not Availble: Maria Kappel Nuland",
+        "title": "Not Availble: Maria Kappel Nuland",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.43265,
+          51.73039
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fad44e890cd3",
+        "marker-color": "#000000",
+        "name": "Not Availble: Roman Statue",
+        "title": "Not Availble: Roman Statue",
+        "marker-size": "small",
+        "marker-symbol": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.436285,
+          51.722685
+        ]
+      },
+      "properties": {
+        "cellid": "47c6e4d5eb17c74f",
+        "marker-color": "#000000",
+        "name": "Not Availble: Royal Beatrix - Claustree [royal beatrix; beatrix; claustree]",
+        "title": "Not Availble: Royal Beatrix - Claustree [royal beatrix; beatrix; claustree]",
         "marker-size": "small",
         "marker-symbol": ""
       }

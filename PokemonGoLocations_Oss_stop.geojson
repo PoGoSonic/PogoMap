@@ -2741,6 +2741,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.527512,
+          51.755756
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf18c4e3ed5",
+        "marker-color": "#40B0F0",
+        "name": "Stop: SV TOP [top oss]",
+        "title": "Stop: SV TOP [top oss]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.501125,
           51.77513
         ]
@@ -2921,6 +2939,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.530102,
+          51.754571
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf02ce6def7",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Voetbalveld Mondriaan [mondriaan]",
+        "title": "Stop: Voetbalveld Mondriaan [mondriaan]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.501004,
           51.775417
         ]
@@ -2928,8 +2964,8 @@
       "properties": {
         "cellid": "47c6fc7835097a15",
         "marker-color": "#40B0F0",
-        "name": "Stop: Voetbalveld Parklaan",
-        "title": "Stop: Voetbalveld Parklaan",
+        "name": "Stop: Voetbalveld Parklaan [parklaan]",
+        "title": "Stop: Voetbalveld Parklaan [parklaan]",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -2966,6 +3002,24 @@
         "marker-color": "#40B0F0",
         "name": "Stop: Wall art Zuid [karel doormanstraat]",
         "title": "Stop: Wall art Zuid [karel doormanstraat]",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.536704,
+          51.75899
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcfa286c84dd",
+        "marker-color": "#40B0F0",
+        "name": "Stop: Wall Art Zuid II",
+        "title": "Stop: Wall Art Zuid II",
         "marker-size": "small",
         "marker-symbol": "circle-stroked"
       }
@@ -3594,8 +3648,8 @@
       "properties": {
         "cellid": "47c6fcefe6b9a16b",
         "marker-color": "#ff9900",
-        "name": "Gym: Joodse Begraafplaats",
-        "title": "Gym: Joodse Begraafplaats",
+        "name": "Gym: Joodse Begraafplaats [begraafplaats]",
+        "title": "Gym: Joodse Begraafplaats [begraafplaats]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -3668,24 +3722,6 @@
         "marker-color": "#ff9900",
         "name": "Gym: Kunst Poppen [poppen]",
         "title": "Gym: Kunst Poppen [poppen]",
-        "marker-size": "small",
-        "marker-symbol": "fire-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.516097,
-          51.775197
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fc65ed6b941b",
-        "marker-color": "#ff9900",
-        "name": "Gym: Mannetje Bij De Handboog [handboog]",
-        "title": "Gym: Mannetje Bij De Handboog [handboog]",
         "marker-size": "small",
         "marker-symbol": "fire-station"
       }
@@ -4001,6 +4037,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.493715,
+          51.765093
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb7f96193dc3",
+        "marker-color": "#ff9900",
+        "name": "Gym: Wall Art [hazenkamplaan]",
+        "title": "Gym: Wall Art [hazenkamplaan]",
+        "marker-size": "small",
+        "marker-symbol": "fire-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.526161,
           51.770612
         ]
@@ -4199,6 +4253,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.516097,
+          51.775197
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc65ed6b941b",
+        "marker-color": "#FF2020",
+        "name": "Ex-raid Gym: Mannetje Bij De Handboog [handboog]",
+        "title": "Ex-raid Gym: Mannetje Bij De Handboog [handboog]",
+        "marker-size": "small",
+        "marker-symbol": "minefield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.532446,
           51.773701
         ]
@@ -4379,24 +4451,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.493715,
-          51.765093
-        ]
-      },
-      "properties": {
-        "cellid": "47c6fb7f96193dc3",
-        "marker-color": "#FF2020",
-        "name": "Ex-raid Gym: Wall Art [hazenkamplaan]",
-        "title": "Ex-raid Gym: Wall Art [hazenkamplaan]",
-        "marker-size": "small",
-        "marker-symbol": "minefield"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.511083,
           51.752204
         ]
@@ -4460,6 +4514,24 @@
         "marker-color": "#808080",
         "name": "Unknown: Groene Wipkip",
         "title": "Unknown: Groene Wipkip",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.526439,
+          51.763161
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf5b94875ef",
+        "marker-color": "#808080",
+        "name": "Unknown: Herdenkingsstenen",
+        "title": "Unknown: Herdenkingsstenen",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4541,6 +4613,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.493146,
+          51.765678
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fb7f9b42b5f5",
+        "marker-color": "#808080",
+        "name": "Unknown: Mozaïek Clown",
+        "title": "Unknown: Mozaïek Clown",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.524573,
           51.767759
         ]
@@ -4595,6 +4685,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.524148,
+          51.759168
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf37857b27d",
+        "marker-color": "#808080",
+        "name": "Unknown: Playground Tulpstraat [tulpstraat]",
+        "title": "Unknown: Playground Tulpstraat [tulpstraat]",
+        "marker-size": "small",
+        "marker-symbol": "marker-stroked"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.550869,
           51.76754
         ]
@@ -4638,8 +4746,8 @@
       "properties": {
         "cellid": "47c6fc9da56ecf51",
         "marker-color": "#808080",
-        "name": "Unknown: Speeltuin De Kempenaertstraat",
-        "title": "Unknown: Speeltuin De Kempenaertstraat",
+        "name": "Unknown: Speeltuin De Kempenaertstraat [kempenaerstraat]",
+        "title": "Unknown: Speeltuin De Kempenaertstraat [kempenaerstraat]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4721,15 +4829,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.527512,
-          51.755756
+          5.498438,
+          51.769197
         ]
       },
       "properties": {
-        "cellid": "47c6fcf18c4e3ed5",
+        "cellid": "47c6fc7f0c971f2f",
         "marker-color": "#808080",
-        "name": "Unknown: SV TOP",
-        "title": "Unknown: SV TOP",
+        "name": "Unknown: Tennisbaan Ussen",
+        "title": "Unknown: Tennisbaan Ussen",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4775,15 +4883,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.530102,
-          51.754571
+          5.503204,
+          51.771043
         ]
       },
       "properties": {
-        "cellid": "47c6fcf02ce6def7",
+        "cellid": "47c6fc7eac788afd",
         "marker-color": "#808080",
-        "name": "Unknown: Voetbalveld Mondriaan",
-        "title": "Unknown: Voetbalveld Mondriaan",
+        "name": "Unknown: Voetbalveld Koningspage [koningspage]",
+        "title": "Unknown: Voetbalveld Koningspage [koningspage]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -4811,15 +4919,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.536704,
-          51.75899
+          5.522516,
+          51.747713
         ]
       },
       "properties": {
-        "cellid": "47c6fcfa286c84dd",
+        "cellid": "47c6fceba230ec47",
         "marker-color": "#808080",
-        "name": "Unknown: Wall Art Zuid II",
-        "title": "Unknown: Wall Art Zuid II",
+        "name": "Unknown: Voetbalveld Witte Hoef [witte hoef]",
+        "title": "Unknown: Voetbalveld Witte Hoef [witte hoef]",
         "marker-size": "small",
         "marker-symbol": "marker-stroked"
       }
@@ -5052,8 +5160,8 @@
       "properties": {
         "cellid": "47c6fc606790f901",
         "marker-color": "#000000",
-        "name": "Not Availble: Sociaal Cultureel Centrum",
-        "title": "Not Availble: Sociaal Cultureel Centrum",
+        "name": "Not Availble: Sociaal Cultureel Centrum [cultureel centrum]",
+        "title": "Not Availble: Sociaal Cultureel Centrum [cultureel centrum]",
         "marker-size": "small",
         "marker-symbol": ""
       }
@@ -5268,8 +5376,8 @@
       "properties": {
         "cellid": "47c6fcf3c721fe07",
         "marker-color": "#800000",
-        "name": "Removed: Oude Bernhoven",
-        "title": "Removed: Oude Bernhoven",
+        "name": "Removed: Oude Bernhoven [bernhoven]",
+        "title": "Removed: Oude Bernhoven [bernhoven]",
         "marker-size": "small",
         "marker-symbol": "cross"
       }
@@ -5574,8 +5682,8 @@
       "properties": {
         "cellid": "47c6fc5fc603d0f7",
         "marker-color": "#804000",
-        "name": "Rejected request: Gedicht bij Emte op de muur",
-        "title": "Rejected request: Gedicht bij Emte op de muur",
+        "name": "Rejected request: Gedicht bij Emte op de muur [emte]",
+        "title": "Rejected request: Gedicht bij Emte op de muur [emte]",
         "marker-size": "small",
         "marker-symbol": "roadblock"
       }
@@ -5621,6 +5729,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.524535,
+          51.768031
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fc5e49b89f67",
+        "marker-color": "#804000",
+        "name": "Rejected request: Oss mural op V&D rolluik",
+        "title": "Rejected request: Oss mural op V&D rolluik",
+        "marker-size": "small",
+        "marker-symbol": "roadblock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.529602,
           51.752319
         ]
@@ -5639,6 +5765,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.529299,
+          51.75903
+        ]
+      },
+      "properties": {
+        "cellid": "47c6fcf136169159",
+        "marker-color": "#804000",
+        "name": "Rejected request: Struikelstenen Hescheweg",
+        "title": "Rejected request: Struikelstenen Hescheweg",
+        "marker-size": "small",
+        "marker-symbol": "roadblock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.520207,
           51.749629
         ]
@@ -5646,8 +5790,8 @@
       "properties": {
         "cellid": "47c6fceca425f12d",
         "marker-color": "#804000",
-        "name": "Rejected request: Voetbalveld Wagenaarstraat",
-        "title": "Rejected request: Voetbalveld Wagenaarstraat",
+        "name": "Rejected request: Voetbalveld Wagenaarstraat [wagenaerstraat]",
+        "title": "Rejected request: Voetbalveld Wagenaarstraat [wagenaerstraat]",
         "marker-size": "small",
         "marker-symbol": "roadblock"
       }
