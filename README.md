@@ -68,8 +68,8 @@ My data is enriched with Pokemon GO data and subsequent scripting needs this inf
 1. Signature of requestor, only for reference
 1. Available in Ingress: Yes/No. Will only be no for removed pokestops and possible future Pokemon Go submitted location
 1. Pokemon GO Location type: Unknown/Stop/Gym/ExGym/None/Removed
-1. Open Street Map link: `=HYPERLINK( SUBSTITUTE( SUBSTITUTE( Settings!$B$2, "%lat", $C4), "%lon", $D4), "OSM")` http://www.openstreetmap.org/?mlat=%lat&mlon=%lon&zoom=16 
-   or: Google Maps link: `=HYPERLINK( SUBSTITUTE( SUBSTITUTE( Settings!$B$3, "%lat", $C2), "%lon", $D2), "Google")` http://maps.google.com/maps?q=%lat,%lon
+1. Open Street Map link: `=SUBSTITUTE( SUBSTITUTE( Settings!$B$2, "%lat", $E4), "%lon", $F4)` http://www.openstreetmap.org/?mlat=%lat&mlon=%lon&zoom=16 
+   or: Google Maps link: `=SUBSTITUTE( SUBSTITUTE( Settings!$B$3, "%lat", $E2), "%lon", $F2)` http://maps.google.com/maps?q=%lat,%lon
 
 * Edit original file in a spreadsheet to match the required format or use a script: `bin\csvfix\csvfix.exe put -p 2 -v "" export_sort.csv | bin\csvfix\csvfix.exe put -p 3 -v "" | bin\csvfix\csvfix.exe put -p 6 -v "" | bin\csvfix\csvfix.exe put -p 7 -v "Yes" | bin\csvfix\csvfix.exe put -p 8 -v "Unknown" | bin\csvfix\csvfix.exe put -p 9 -v "" > output.csv`
 * Sort a file in the new format if needed: `bin\csvfix\csvfix.exe sort -rh -f 1:AI,5:N,6:N output.csv > output_sort.csv`
