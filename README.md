@@ -62,6 +62,7 @@ My data is enriched with Pokemon GO data and subsequent scripting needs this inf
 
 1. Original in-game name
 1. Address or additional name to make names unique (e.g. Streetname)
+   Reverse geocode is possible from GPS to address: `=IMPORTXML( SUBSTITUTE( SUBSTITUTE( Settings!$B$7, "%lat", $E42), "%lon", $F42) , "reversegeocode/addressparts/road") & " " & IMPORTXML( SUBSTITUTE( SUBSTITUTE( Settings!$B$7, "%lat", $E42), "%lon", $F42) , "reversegeocode/addressparts/house_number")` https://nominatim.openstreetmap.org/reverse?format=xml&lat=%lat&lon=%lon&zoom=18&addressdetails=1&email=<yourmail>%40<yourmaildomain>
 1. City or Area for filtering, map size needs to be controlled and limited to <1Mb to be able to use http://geojson.io with a geojsno file from github without login
 1. Original GPS latitude
 1. Original GPS lontitude
@@ -70,7 +71,8 @@ My data is enriched with Pokemon GO data and subsequent scripting needs this inf
 1. Pokemon GO Location type: Unknown/Stop/Gym/ExGym/None/Removed
 1. Open Street Map link: `=SUBSTITUTE( SUBSTITUTE( Settings!$B$2, "%lat", $E4), "%lon", $F4)` http://www.openstreetmap.org/?mlat=%lat&mlon=%lon&zoom=16 
    or: Google Maps link: `=SUBSTITUTE( SUBSTITUTE( Settings!$B$3, "%lat", $E2), "%lon", $F2)` http://maps.google.com/maps?q=%lat,%lon
-
+   or: Ingress Portal link: `=SUBSTITUTE( SUBSTITUTE( Settings!$B$1, "%lat", $E2), "%lon", $F2)` https://www.ingress.com/intel?ll=%lat,%lon&z=17&pll=%lat,%lon
+   
 * Edit original file in a spreadsheet to match the required format or use a script: `bin\csvfix\csvfix.exe put -p 2 -v "" export_sort.csv | bin\csvfix\csvfix.exe put -p 3 -v "" | bin\csvfix\csvfix.exe put -p 6 -v "" | bin\csvfix\csvfix.exe put -p 7 -v "Yes" | bin\csvfix\csvfix.exe put -p 8 -v "Unknown" | bin\csvfix\csvfix.exe put -p 9 -v "" > output.csv`
 * Sort a file in the new format if needed: `bin\csvfix\csvfix.exe sort -rh -f 1:AI,5:N,6:N output.csv > output_sort.csv`
   And adding quotes and CRLF (should be unchanged as sorting is already done after gathering).
