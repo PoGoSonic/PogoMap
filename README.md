@@ -136,33 +136,36 @@ You will see the created map with locations and S2 grids
 
 # Notifications
 ## PokemonGo Maps
-De kaarten zijn weer bijgewerkt (inculsief oude links naar kaarten):
-Alle Gyms in de omgeving: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_raid_min.geojson&map=13/51.7643/5.5330
-Alle Stops in de omgeving: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_min.geojson&map=13/51.7643/5.5330
-De kaarten werken het beste in Chrome of Firefox.
-Voor het aanvragen en plannen van stops en gyms zijn er aanvullende kaarten voor: Oss, Berghem, Geffen/Nuland, Heesch, Nistelrode, Schaijk/Reek, Herpen.
+De kaarten zijn weer bijgewerkt (ook de oude links):
+Alle Gyms in de omgeving: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_raid_min.geojson&map=12/51.7402/5.5220
+Alle Stops in de omgeving: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_min.geojson&map=12/51.7402/5.5220
+Deze kaarten werken het beste in Chrome of Firefox, ook op mobiel. Indien een locatie niet klopt of als je weet welk type de grijze zijn mag je dat aan mij doorgeven.
+Voor het aanvragen en plannen van stops en gyms in Ingress zijn er aanvullende kaarten op aanvraag beschikbaar voor: Oss, Berghem, Geffen/Nuland, Heesch, Nistelrode/Maashorst, Schaijk/Reek, Herpen, Rosmalen.
 
 ## Ingress Maps
 De kaarten zijn weer bijgewerkt:
-Alle Gyms in de omgeving: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_raid_min.geojson&map=13/51.7643/5.5330
-Alle Stops in de omgeving: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_min.geojson&map=13/51.7643/5.5330
-Alle Gyms S2Level14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_gymonly_min.geojson&map=13/51.7643/5.5330
+Alle Gyms in de omgeving: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_raid_min.geojson&map=12/51.7402/5.5220
+Alle Stops in de omgeving: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_min.geojson&map=12/51.7402/5.5220
+Alle Gyms S2Level14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_gymonly_min.geojson&map=12/51.7402/5.5220
 
 Oss Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Oss_stop_min.geojson&map=13/51.7643/5.5330
 Berghem Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Berghem_stop_min.geojson&map=14/51.7627/5.5717
-Oss+Berghem Gyms S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_OssBerghem_gym_min.geojson&map=13/51.7643/5.5330
+Oss-Berghem Gyms S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_OssBerghem_gym_min.geojson&map=13/51.7643/5.5330
 
-Geffen Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Geffen_stop_min.geojson&map=13/51.7288/5.4286
-Geffen Gyms S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Geffen_gym_min.geojson&map=13/51.7288/5.4286
+Geffen-Nuland Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Geffen_stop_min.geojson&map=14/51.7314/5.4415
+Geffen-Nuland Gyms S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Geffen_gym_min.geojson&map=14/51.7314/5.4415
 
-Heesch Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Heesch_stop_min.geojson&map=14/51.7270/5.5393
-Heesch Gyms S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Heesch_gym_min.geojson&map=14/51.7270/5.5393
+Heesch Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Heesch_stop_min.geojson&map=14/51.7340/5.5320
+Heesch Gyms S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Heesch_gym_min.geojson&map=14/51.7340/5.5320
 
-Nistelrode Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Nistelrode_stop_min.geojson&map=14/51.7011/5.5864
-Nistelrode Gyms S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Nistelrode_gym_min.geojson&map=14/51.7011/5.5864
+Nistelrode-Maashorst Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Nistelrode_stop_min.geojson&map=13/51.7025/5.5814
+Nistelrode-Maashorst Gyms S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Nistelrode_gym_min.geojson&map=13/51.7025/5.5814
 
-Schaijk Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Schaijk_stop_min.geojson&map=14/51.7377/5.6524
-Herpen Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Herpen_stop_min.geojson&map=15/51.7658/5.6277
-Schaijk+Herpen S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_SchaijkHerpen_gym_min.geojson&map=13/51.7466/5.6559
+Schaijk Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Schaijk_stop_min.geojson&map=13/51.7396/5.6372
+Herpen Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Herpen_stop_min.geojson&map=14/51.7686/5.6413
+Schaijk-Herpen S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_SchaijkHerpen_gym_min.geojson&map=13/51.7490/5.6430
 
-De kaarten werken het beste in Chrome of Firefox.
+Rosmalen Stops S2Level14+17: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Rosmalen_stop_min.geojson&map=13/51.7217/5.3601
+Rosmalen Gyms S2Level13+14: http://geojson.io/#id=github:PoGoSonic/PogoMap/blob/master/PokemonGoLocations_Rosmalen_gym_min.geojson&map=13/51.7217/5.3601
+
+Deze kaarten werken het beste in Chrome of Firefox, ook op mobiel.
