@@ -1,6 +1,6 @@
 // ==UserScript==
 // @id             iitc-plugin-portals-list@teo96
-// @name           IITC plugin: show list of portals // modified with export button
+// @name           IITC plugin: show list of portals // modified with export button // replace " with ' in export
 // @category       Info
 // @version        0.2.1.20170108.21732
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
@@ -17,7 +17,7 @@
 // @match          http://*.ingress.com/mission/*
 // @grant          none
 // ==/UserScript==
-
+/* ELA 20180713: Add image link column, add horizontal scroll bar, default sort by portal name, export image link */
 
 function wrapper(plugin_info) {
 // ensure plugin framework is there, even if iitc is not yet loaded
@@ -173,6 +173,16 @@ window.plugin.portalslist.fields = [
     },
     defaultOrder: -1,
   },
+  { /* ELA 20180713 new section to add image to list */
+    title: "Image",
+    value: function(portal) { return 'http:' + fixPortalImageUrl(window.portalDetail.get(portal.options.guid) ? window.portalDetail.get(portal.options.guid).image : portal.options.data.image); },
+    format: function(cell, portal, value) {
+      $(cell)
+        .css('background-color', COLORS_LVL[value])
+        .text(value);
+    },
+    defaultOrder: -1,
+  },
 ];
 
 //fill the listPortals array with portals avaliable on the map (level filtered portals will not appear in the table)
@@ -234,8 +244,8 @@ window.plugin.portalslist.getPortals = function() {
 
 window.plugin.portalslist.displayPL = function() {
   var list;
-  // plugins (e.g. bookmarks) can insert fields before the standard ones - so we need to search for the 'level' column
-  window.plugin.portalslist.sortBy = window.plugin.portalslist.fields.map(function(f){return f.title;}).indexOf('Level');
+  // plugins (e.g. bookmarks) can insert fields before the standard ones - so we need to search for the 'level' column // ELA 20180713: sort by Portal Name not Level
+  window.plugin.portalslist.sortBy = window.plugin.portalslist.fields.map(function(f){return f.title;}).indexOf('Portal Name');
   window.plugin.portalslist.sortOrder = -1;
   window.plugin.portalslist.enlP = 0;
   window.plugin.portalslist.resP = 0;
@@ -259,6 +269,7 @@ window.plugin.portalslist.displayPL = function() {
       width: 700
     });
   }
+  $('#dialog-portal-list').css({"overflow-x": "auto"}); /* ELA 20180713: Add horizontal scrollbar */
 };
 
 window.plugin.portalslist.portalTable = function(sortBy, sortOrder, filter) {
@@ -379,18 +390,18 @@ window.plugin.portalslist.portalTable = function(sortBy, sortOrder, filter) {
 
   container.append('<div class="disclaimer">Click on portals table headers to sort by that column. ' + 'Click on <b>All, Neutral, Resistance, Enlightened</b> to only show portals owner by that faction or on the number behind the factions to show all but those portals.</div>');
 
-  container.append('<div class="disclaimer"><a onclick="window.plugin.portalslist.exportPortals()" title="Export a list of portals in the current view [e]" accesskey="e">Export portals</a>.</div>');
+  container.append('<div class="disclaimer"><a onclick="window.plugin.portalslist.exportPortalsImages()" title=" Export a list of portals in the current view [x] " accesskey="x"> Export portals with Images </a> - <a onclick="window.plugin.portalslist.exportPortals()" title=" Export a list of portals with image links in the current view [e] " accesskey="e"> Export portals </a>.</div>');
 
   return container;
 };
 
-window.plugin.portalslist.exportPortals = function() {
+window.plugin.portalslist.exportPortals = function() { // ELA 20180919: Replace " with ' in location names
   var portals = window.plugin.portalslist.listPortals;
 
   var s = '';
 
   portals.forEach(function(obj, i) {
-    s = s + '"' + portals[i].values[0] + '",' + portals[i].values[1] + ',' + portals[i].values[2] + '\n';
+    s = s + '"' + portals[i].values[0].replace(/"/g, "'") + '",' + portals[i].values[1] + ',' + portals[i].values[2] + '\n';
   });
 
   var a = window.document.createElement('a');
@@ -405,6 +416,27 @@ window.plugin.portalslist.exportPortals = function() {
   document.body.removeChild(a);
 };
 
+window.plugin.portalslist.exportPortalsImages = function() { // ELA 20180713: Add image link to seperate export csv // ELA 20180919: Replace " with ' in location names
+  var portals = window.plugin.portalslist.listPortals;
+
+  var s = '';
+
+  portals.forEach(function(obj, i) {
+    s = s + '"' + portals[i].values[0].replace(/"/g, "'") + '",' + portals[i].values[1] + ',' + portals[i].values[2] + ',"' + portals[i].values[10] + '"\n'; // ELA 20180713: Add image link to export
+  });
+
+  var a = window.document.createElement('a');
+  a.href = window.URL.createObjectURL(new Blob([s], {type: 'text/csv'}));
+  a.download = 'export_images.csv';
+
+  // Append anchor to body.
+  document.body.appendChild(a);
+  a.click();
+
+  // Remove anchor from body
+  document.body.removeChild(a);
+};
+  
 // portal link - single click: select portal
 //               double click: zoom to and select portal
 // code from getPortalLink function by xelio from iitc: AP List - https://raw.github.com/breunigs/ingress-intel-total-conversion/gh-pages/plugins/ap-list.user.js
