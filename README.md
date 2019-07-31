@@ -4,11 +4,11 @@ Windows command line script and partly manual procedure to create a Pokemon Go M
 
 ## Requirements
 * Ingress account
-* Firefox or Chrome with Greasemonkey or Tampermonkey (`not tested, should work better with latest IITC version)
+* Firefox or Chrome with Greasemonkey or TamperMonkey (works unchanged with latest IITC version)
 * IITC/Ingress Intel total Conversion Plugin for GreaseMonkey: https://iitc.me/desktop/, version 0.26.0.20170430.123533
-  Disabled line 34 to 46 as player detection was not working (This should work in TamperMonkey). Disable IITC to login Ingress Intel
-* IITC plugin: show list of portals // modified with export button, version 0.2.1.20170108.21732
-  Modified to also export portal image urls
+  For Gressemonkey disable line 34 to 46 as player detection was not workin, disable IITC to login Ingress Intel.
+* IITC plugin: show list of portals // modified with export button, version 0.2.1.20170108.21732: https://pastebin.com/fAYVyyme
+  Self modified to also export portal image urls (See IITC folder in repository)
 * JQ json manipulator by Stedolan: https://stedolan.github.io/jq/, manual: https://stedolan.github.io/jq/manual, faq: https://github.com/stedolan/jq/wiki/FAQ, cookbook: https://github.com/stedolan/jq/wiki/Cookbook
   Using the more limited version 1.4 as 1.5 was giving unexpected exceptions, this might have to do with a 37 character filename limit or a 63 character full path limit.
   Daily build artifacts can be found here: https://ci.appveyor.com/project/stedolan/jq
@@ -20,6 +20,10 @@ Windows command line script and partly manual procedure to create a Pokemon Go M
   -skipmarkerless will remove parks that have no gyms
   -skipfeatureless will remove gyms that are not in parks
 
+## Setup TamperMonkey Specific
+* Firefox + TamperMonkey + IITC Desktop + IITC  Portal list
+  FireFox Quantum 66.0.4 need to disable xpinstall.signatures.required to allow older plugins
+* On Ingress Intell site there is no map, use layers button choose: CartoDB Dark Matter
 
 ## Other resources
 * Show S2 cells on a map: https://s2.sidewalklabs.com/regioncoverer
@@ -29,13 +33,14 @@ Windows command line script and partly manual procedure to create a Pokemon Go M
 
 ## Gathering data
 * Open Firefox (or Chrome) with Ingress Intel site: https://www.ingress.com/intel
+  n.b. IITC does not activate on: https://intel.ingress.com/
 * Enable GreaseMonkey (or TamperMonkey) with IITC Ingress Intel total Conversion
 * Zoom to view the biggest area where each portal is still visible
-* Use browser zooming to zoom out until the desired region is visible, if needed resize browser screen
+* Use browser zooming to zoom out until the desired region is visible (67%), if needed resize browser screen
 * Wait until finished loading (IITC shows progress in the bottom right corner)
 * Press Portals List (IITC botom of the top right information box)
 * Scroll down Portals list
-* Press Export portals
+* Press: Export portals
   Modified version has: Export Portals with Images
 * Sort and trim file: `bin\csvfix\csvfix sort -f 1:AI,2:N,3:N export.csv | bin\csvfix\csvfix.exe trim -f 1 > export_sort.csv`
   Original file with LF and only the first column double quoted is saved with Windows CRLF and all three columns double quoted

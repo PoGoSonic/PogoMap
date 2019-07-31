@@ -12,6 +12,9 @@ bin\csvfix\csvfix sort -f 1:AI,2:N,3:N export_geffen.csv     | bin\csvfix\csvfix
 bin\csvfix\csvfix sort -f 1:AI,2:N,3:N export_schaijk.csv    | bin\csvfix\csvfix.exe trim -f 1 > tmp\export_schaijk_sort.csv
 bin\csvfix\csvfix sort -f 1:AI,2:N,3:N export_herpen.csv     | bin\csvfix\csvfix.exe trim -f 1 > tmp\export_herpen_sort.csv
 bin\csvfix\csvfix sort -f 1:AI,2:N,3:N export_rosmalen.csv   | bin\csvfix\csvfix.exe trim -f 1 > tmp\export_rosmalen_sort.csv
+rem zoomed browser to 30% and full screen
+rem bin\csvfix\csvfix sort -f 1:AI,2:N,3:N export_maas_zuid.csv             | bin\csvfix\csvfix.exe trim -f 1 > tmp\export_maas_zuid_sort.csv
+rem bin\csvfix\csvfix sort -f 1:AI,2:N,3:N export_rosmalen_nistelrode.csv   | bin\csvfix\csvfix.exe trim -f 1 > tmp\export_rosmalen_nistelrode_sort.csv
 
 ECHO Reformat Ingress portal exports and add City name
 bin\csvfix\csvfix.exe put -p 2 -v "" tmp\export_sort.csv            | bin\csvfix\csvfix.exe put -p 3 -v "" | bin\csvfix\csvfix.exe put -p 4 -v ""           | bin\csvfix\csvfix.exe put -p 7 -v "" | bin\csvfix\csvfix.exe put -p 8 -v "Yes" | bin\csvfix\csvfix.exe put -p 9 -v "Unknown" | bin\csvfix\csvfix.exe put -p 10 -v "" | bin\csvfix\csvfix.exe put -p 11 -v "" > tmp\export2.csv
@@ -22,6 +25,9 @@ bin\csvfix\csvfix.exe put -p 2 -v "" tmp\export_geffen_sort.csv     | bin\csvfix
 bin\csvfix\csvfix.exe put -p 2 -v "" tmp\export_schaijk_sort.csv    | bin\csvfix\csvfix.exe put -p 3 -v "" | bin\csvfix\csvfix.exe put -p 4 -v "Schaijk"    | bin\csvfix\csvfix.exe put -p 7 -v "" | bin\csvfix\csvfix.exe put -p 8 -v "Yes" | bin\csvfix\csvfix.exe put -p 9 -v "Unknown" | bin\csvfix\csvfix.exe put -p 10 -v "" | bin\csvfix\csvfix.exe put -p 11 -v "" > tmp\export_schaijk2.csv
 bin\csvfix\csvfix.exe put -p 2 -v "" tmp\export_herpen_sort.csv     | bin\csvfix\csvfix.exe put -p 3 -v "" | bin\csvfix\csvfix.exe put -p 4 -v "Herpen"     | bin\csvfix\csvfix.exe put -p 7 -v "" | bin\csvfix\csvfix.exe put -p 8 -v "Yes" | bin\csvfix\csvfix.exe put -p 9 -v "Unknown" | bin\csvfix\csvfix.exe put -p 10 -v "" | bin\csvfix\csvfix.exe put -p 11 -v "" > tmp\export_herpen2.csv
 bin\csvfix\csvfix.exe put -p 2 -v "" tmp\export_rosmalen_sort.csv   | bin\csvfix\csvfix.exe put -p 3 -v "" | bin\csvfix\csvfix.exe put -p 4 -v "Rosmalen"   | bin\csvfix\csvfix.exe put -p 7 -v "" | bin\csvfix\csvfix.exe put -p 8 -v "Yes" | bin\csvfix\csvfix.exe put -p 9 -v "Unknown" | bin\csvfix\csvfix.exe put -p 10 -v "" | bin\csvfix\csvfix.exe put -p 11 -v "" > tmp\export_rosmalen2.csv
+rem zoomed browser to 30% and full screen
+rem bin\csvfix\csvfix.exe put -p 2 -v "" tmp\export_maas_zuid_sort.csv           | bin\csvfix\csvfix.exe put -p 3 -v "" | bin\csvfix\csvfix.exe put -p 4 -v "OssBuiten"      | bin\csvfix\csvfix.exe put -p 7 -v "" | bin\csvfix\csvfix.exe put -p 8 -v "Yes" | bin\csvfix\csvfix.exe put -p 9 -v "Unknown" | bin\csvfix\csvfix.exe put -p 10 -v "" | bin\csvfix\csvfix.exe put -p 11 -v "" > tmp\export_maas_zuid2.csv
+rem bin\csvfix\csvfix.exe put -p 2 -v "" tmp\export_rosmalen_nistelrode_sort.csv | bin\csvfix\csvfix.exe put -p 3 -v "" | bin\csvfix\csvfix.exe put -p 4 -v "RosmalenBuiten" | bin\csvfix\csvfix.exe put -p 7 -v "" | bin\csvfix\csvfix.exe put -p 8 -v "Yes" | bin\csvfix\csvfix.exe put -p 9 -v "Unknown" | bin\csvfix\csvfix.exe put -p 10 -v "" | bin\csvfix\csvfix.exe put -p 11 -v "" > tmp\export_rosmalen_nistelrode2.csv
 
 ECHO Please save Google sheets page 1 as: GoogleSheets.csv
 PAUSE
@@ -39,9 +45,12 @@ ECHO Merge Ingress portal exports with new database
 @REM bin\csvfix\csvfix.exe unique -f 1,5,6 PokemonGoLocations_new7.csv tmp\export_herpen2.csv     | bin\csvfix\csvfix.exe sort -f 1:AI,5:N,6:N > PokemonGoLocations_new8.csv
 @REM bin\csvfix\csvfix.exe unique -f 1,5,6 PokemonGoLocations_new8.csv tmp\export_rosmalen2.csv   | bin\csvfix\csvfix.exe sort -f 1:AI,5:N,6:N > PokemonGoLocations_new9.csv
 bin\csvfix\csvfix.exe unique -f 1,5,6 tmp\GoogleSheets_sort.csv tmp\export2.csv tmp\export_oss2.csv tmp\export_heesch2.csv tmp\export_nistelrode2.csv tmp\export_geffen2.csv tmp\export_schaijk2.csv tmp\export_herpen2.csv tmp\export_rosmalen2.csv tmp\GoogleSheets_Pending_sort.csv | bin\csvfix\csvfix.exe sort -f 1:AI,5:N,6:N > PokemonGoLocations_new.csv
+rem zoomed browser to 30% and full screen
+rem bin\csvfix\csvfix.exe unique -f 1,5,6 tmp\PokemonGoLocations_new.csv tmp\export_maas_zuid2.csv tmp\export_rosmalen_nistelrode2.csv | bin\csvfix\csvfix.exe sort -f 1:AI,5:N,6:N > PokemonGoLocations_new2.csv
 
 MOVE /Y PokemonGoLocations.csv PokemonGoLocations_old.csv
 MOVE /Y PokemonGoLocations_new.csv PokemonGoLocations.csv
+
 
 ECHO Split by city
 del PokemonGoLocations_.csv
@@ -83,3 +92,19 @@ Convert.bat PokemonGoLocations_Schaijk.csv       OverpassTurboParks_Schaijk_min.
 Convert.bat PokemonGoLocations_SchaijkHerpen.csv OverpassTurboParks_Schaijk_min.geojson
 Convert.bat PokemonGoLocations_Herpen.csv        OverpassTurboParks_Schaijk_min.geojson
 Convert.bat PokemonGoLocations_Rosmalen.csv      OverpassTurboParks_Rosmalen_min.geojson
+rem test stops in wrong area's7
+rem Convert.bat PokemonGoLocations_DenBosch.csv
+rem Convert.bat PokemonGoLocations_Macharen.csv
+rem Convert.bat PokemonGoLocations_DenBosch.csv
+rem Convert.bat PokemonGoLocations_Overlangel.csv
+rem Convert.bat PokemonGoLocations_Ravenstein.csv
+rem Convert.bat PokemonGoLocations_Uden.csv
+rem Convert.bat PokemonGoLocations_Velp.csv
+rem Convert.bat PokemonGoLocations_Vinkel.csv
+rem Convert.bat PokemonGoLocations_Wijchen.csv
+rem Convert.bat PokemonGoLocations_Zeeland.csv
+rem Convert.bat PokemonGoLocations_GeffenBuiten.csv
+rem Convert.bat PokemonGoLocations_HeeschBuiten.csv
+rem Convert.bat PokemonGoLocations_NistelrodeBuiten.csv
+rem Convert.bat PokemonGoLocations_OssBuiten.csv
+rem Convert.bat PokemonGoLocations_RosmalenBuiten.csv
